@@ -1,5 +1,4 @@
-# my-reading-list
-This is the list of articles that I read
+# Articles that I read :)
 
 https://foreignpolicy.com/2021/03/19/nft-beeple-69-million-art-crypto-nonfungible-token/
 
