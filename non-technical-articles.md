@@ -1,3 +1,10 @@
+# Non-Technical Articles
+
+https://foreignpolicy.com/2021/03/19/nft-beeple-69-million-art-crypto-nonfungible-token/
+```
+The digital artist Mike Winkelmann, professionally known as Beeple, just sold an NFT—a “non-fungible token,” an asset on a cryptocurrency blockchain—of his image Everydays: the First 5000 Days at auction by Christie’s for $69,346,250. This is the third most expensive auction sale ever of a work by a living artist.
+```
+
 https://www.psychologytoday.com/us/blog/brave-talk/202103/whats-your-conflict-style
 ```
 Many people have one particular "conflict style" that informs how they approach most disagreements—they may avoid all conflict, for example, or have a tendency to attack.
