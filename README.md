@@ -1,5 +1,21 @@
 # Articles that I read :)
 
+https://www.nj.com/education/2021/03/two-ex-bell-labs-scientists-changed-computer-programming-forever-now-theyll-split-a-1m-prize.html
+```
+A pair of pioneering computer scientists — who met at Princeton University and forged their friendship at the legendary Bell Labs in New Jersey — were named the winners of the equivalent of the Nobel Prize for computing Wednesday for helping revolutionize how the world interacts with computers.
+
+Alfred Vaino Aho, now a professor emeritus at Columbia University, and Jeffrey David Ullman, a professor emeritus at Stanford University, were named the recipients of the A.M. Turing Award for their lifetime of work
+```
+
+https://brickwise.at/magazine/so-erklaerst-du-blockchain-deiner-oma-YGHpuRMAACEAU3cI
+```
+What is a blockchain?
+
+Digital currencies are one of the first global use cases for blockchain technology. Because they are used by many large payment service providers and e-commerce companies, cryptocurrencies have become mainstream. But what is the underlying blockchain technology and why does it ultimately have little to do with digital currencies?
+
+The blockchain is an unchangeable, democratic, and transparent storage method for data (database). This is how you can describe this technology in one sentence. But where does the unchangeable, democratic and transparent come from? We get to the bottom of the matter:
+```
+
 https://dev.to/puppo/typescript-tips-tricks-advanced-types-3pp8
 ```
 Typescript - Tips & Tricks - Advanced Types
