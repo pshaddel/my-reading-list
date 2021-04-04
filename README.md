@@ -1,5 +1,7 @@
 # Articles that I read :)
 
+https://dev.to/theme_selection/javascript-influencers-to-follow-in-2021-5f8b
+
 https://www.nj.com/education/2021/03/two-ex-bell-labs-scientists-changed-computer-programming-forever-now-theyll-split-a-1m-prize.html
 ```
 A pair of pioneering computer scientists — who met at Princeton University and forged their friendship at the legendary Bell Labs in New Jersey — were named the winners of the equivalent of the Nobel Prize for computing Wednesday for helping revolutionize how the world interacts with computers.
