@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://brayanarrieta.hashnode.dev/integrate-commitizen-with-your-nodejs-project
+```
+When are working on several projects a common problem could be the different conventions or standardization with the commits, to that kind of problem can be used Commitizen which will create an easy and good integration with your projects.
+```
+
 https://blog.decipher.dev/golang-for-frontend-developers-a-beginner-guide-to-golang
 ```
 Write a micro-service using Go and Go-Gin. A beginner guide to Golang, Introducing all the best practices and patterns.
