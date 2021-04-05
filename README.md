@@ -1,5 +1,19 @@
 # Articles that I read :)
 
+https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css
+```
+@tailwindcss/jit
+is a new experimental library that compiles all of your CSS on-demand as you author your template files, instead of generating your entire stylesheet up front.
+
+This comes with a lot of advantages:
+
+Lightning fast build times. Tailwind can take 3–8s to initially compile using our CLI, and upwards of 30–45s in webpack projects because webpack struggles with large CSS files. This library can compile even the biggest projects in about 800ms (with incremental rebuilds as fast as 3ms), no matter what build tool you're using.
+Every variant is enabled out of the box. Variants like focus-visible, active, disabled, and others are not normally enabled by default due to file-size considerations. Since this library generates styles on demand, you can use any variant you want, whenever you want. You can even stack them like sm:hover:active:disabled:opacity-75. Never configure your variants again.
+Generate arbitrary styles without writing custom CSS. Ever needed some ultra-specific value that wasn't part of your design system, like top: -113px for a quirky background image? Since styles are generated on demand, you can just generate a utility for this as needed using square bracket notation like top-[-113px]. Works with variants too, like md:top-[-113px].
+Your CSS is identical in development and production. Since styles are generated as they are needed, you don't need to purge unused styles for production, which means you see the exact same CSS in all environments. Never worry about accidentally purging an important style in production again.
+Better browser performance in development. Since development builds are as small as production builds, the browser doesn't have to parse and manage multiple megabytes of pre-generated CSS. In projects with heavily extended configurations this makes dev tools a lot more responsive.
+```
+
 https://brayanarrieta.hashnode.dev/integrate-commitizen-with-your-nodejs-project
 ```
 When are working on several projects a common problem could be the different conventions or standardization with the commits, to that kind of problem can be used Commitizen which will create an easy and good integration with your projects.
