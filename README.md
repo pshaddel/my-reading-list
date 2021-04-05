@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://blog.decipher.dev/golang-for-frontend-developers-a-beginner-guide-to-golang
+```
+Write a micro-service using Go and Go-Gin. A beginner guide to Golang, Introducing all the best practices and patterns.
+```
+
 https://dev.to/theme_selection/javascript-influencers-to-follow-in-2021-5f8b
 
 https://www.nj.com/education/2021/03/two-ex-bell-labs-scientists-changed-computer-programming-forever-now-theyll-split-a-1m-prize.html
