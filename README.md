@@ -35,7 +35,7 @@ Typescript - Tips & Tricks - Advanced Types
 
 https://programming-explorations.hashnode.dev/a-brief-no-code-overview-of-the-elixir-programming-language?guid=34b52f51-d4d0-452c-ba09-679f55ba0bbb&deviceId=988fe61c-f2af-4e82-8d92-c869716236b5
 ```
-Elixir is a programming language written almost completely written in Elixir itself. That is because it runs on the BEAM (Erlang virtual machine), and only parts of it were written in the Erlang programming language - the rest of it was written in Elixir. At this time of writing, according to the Elixir language's repository (github.com/elixir-lang/elixir), 91.8% of Elixir is written in Elixir.
+Elixir is a programming language written almost completely in Elixir itself. That is because it runs on the BEAM (Erlang virtual machine), and only parts of it were written in the Erlang programming language - the rest of it was written in Elixir. At this time of writing, according to the Elixir language's repository (github.com/elixir-lang/elixir), 91.8% of Elixir is written in Elixir.
 ```
 
 https://blog.davidsalomon.dev/document-your-projects
