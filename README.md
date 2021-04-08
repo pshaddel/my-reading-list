@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://about.gitlab.com/blog/2021/03/18/iteration-and-code-review/?utm_medium=social&utm_source=linkedin&utm_campaign=blog
+```
+Why our merge rrquests should be small?
+```
+
 https://dev.to/nirazanbasnet/delete-nodemodules-like-a-pro-1727
 ```
 Some people want to use npkill to delete their node_module folder :)
