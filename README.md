@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/
+```
+Test 1 million socket connections in one single nodejs server eith 16GB Ram
+```
+
 https://dev.to/syncfusion/4-features-every-developer-must-know-in-c-9-0-3m4g
 ```
 C#9 new features review
