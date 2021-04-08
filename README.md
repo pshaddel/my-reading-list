@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://docs.yugabyte.com/latest/explore/linear-scalability/sharding-data/
+```
+This is an example of using sharding in yugabyteDB
+```
+
 https://blog.yugabyte.com/how-data-sharding-works-in-a-distributed-sql-database/#:~:text=Sharding%20is%20the%20process%20of,portion%20of%20the%20overall%20workload
 ```
 Data sharding is a solution for business applications with large data sets and scale needs. There are a variety of sharding architectures to choose from, each of which provides different capabilities. Before settling on a sharding architecture, the needs and workload requirements of your application must be mapped out. Manual sharding should be avoided in most circumstances given significant increase in application logic complexity. YugabyteDB is an auto-sharded distributed SQL database with support for both hash and range sharding today. Support for geo-partitioning is coming soon. In this tutorial, you can see YugabyteDB’s automatic sharding in action.
