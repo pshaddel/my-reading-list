@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/syncfusion/4-features-every-developer-must-know-in-c-9-0-3m4g
+```
+C#9 new features review
+```
+
 https://docs.yugabyte.com/latest/explore/linear-scalability/sharding-data/
 ```
 This is an example of using sharding in yugabyteDB
