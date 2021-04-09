@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://ankurkaushal.com/update-dependency-package-lock/
+```
+When you have a package and you want to update one of its dependency - manually this article will help you do that
+```
+
 https://flaviocopes.com/update-npm-dependencies/
 ```
 I had a problem in updating package dependency and this article was really helpful
