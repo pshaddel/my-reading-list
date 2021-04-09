@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://flaviocopes.com/update-npm-dependencies/
+```
+I had a problem in updating package dependency and this article was really helpful
+```
+
 https://about.gitlab.com/blog/2021/03/18/iteration-and-code-review/?utm_medium=social&utm_source=linkedin&utm_campaign=blog
 ```
 Why our merge rrquests should be small?
