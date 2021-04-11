@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://clickup.com/blog/agile/burndown-charts/
+```
+Information about burnup and burndown charts - differences
+```
+
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/react-libraries-you-should-use/amp/
 ```
 Some useful react libraries
