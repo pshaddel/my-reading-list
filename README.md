@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://storybook.js.org/blog/how-to-actually-test-uis/
+```
+One of the best guides on UI testing
+```
+
 https://clickup.com/blog/agile/burndown-charts/
 ```
 Information about burnup and burndown charts - differences
