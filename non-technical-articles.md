@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.cbsnews.com/news/prince-philip-not-called-king/
+```
+Prince Philip, Duke of Edinburgh, died on Friday at age 99. The prince married Queen Elizabeth II five years before she became queen – but when she was crowned, he wasn't given the title of king. That's because Prince Philip, who is actually a former prince of Denmark and Greece, was never in line to the British throne. 
+```
+
 https://www.theguardian.com/science/2021/mar/24/scientists-discover-why-the-human-brain-is-so-big
 ```
 It is one of the defining attributes of being human: when compared with our closest primate relatives, we have incredibly large brains.
