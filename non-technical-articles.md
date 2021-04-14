@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://brightside.me/inspiration-psychology/8-behaviors-that-we-copy-from-each-other-like-mirrors-and-heres-what-it-means-801549/
+```
+8 Behaviors That We Copy From Each Other Like Mirrors, and Here’s What It Means
+```
+
 https://www.cbsnews.com/news/prince-philip-not-called-king/
 ```
 Prince Philip, Duke of Edinburgh, died on Friday at age 99. The prince married Queen Elizabeth II five years before she became queen – but when she was crowned, he wasn't given the title of king. That's because Prince Philip, who is actually a former prince of Denmark and Greece, was never in line to the British throne. 
