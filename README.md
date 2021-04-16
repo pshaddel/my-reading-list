@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://justinnoel.dev/2020/05/12/using-preact-in-a-next-js-project/
+```
+How to use PREACT in your NEXT.JS App
+```
+
 https://daily.dev/blog/preact-a-lightweight-alternative-to-react
 ```
 First time I found out about PREACT
