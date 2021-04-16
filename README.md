@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.merixstudio.com/blog/what-preact-and-when-should-you-consider-using-it/
+```
+What is Preact and when should you consider using it? 
+```
+
 https://justinnoel.dev/2020/05/12/using-preact-in-a-next-js-project/
 ```
 How to use PREACT in your NEXT.JS App
