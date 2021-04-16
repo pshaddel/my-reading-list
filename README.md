@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://daily.dev/blog/preact-a-lightweight-alternative-to-react
+```
+First time I found out about PREACT
+```
+
 https://storybook.js.org/blog/how-to-actually-test-uis/
 ```
 One of the best guides on UI testing
