@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://overreacted.io/before-you-memo/
+```
+Before using memo we should do some simple stuff to imrove our react app performance
+```
+
 https://www.merixstudio.com/blog/what-preact-and-when-should-you-consider-using-it/
 ```
 What is Preact and when should you consider using it? 
