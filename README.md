@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://github.com/pillarjs/understanding-csrf
+```
+Definition of csrf attack
+```
+
 https://overreacted.io/before-you-memo/
 ```
 Before using memo we should do some simple stuff to imrove our react app performance
