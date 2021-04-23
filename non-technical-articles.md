@@ -1,4 +1,17 @@
 # Non-Technical Articles
+https://theconversation.com/at-what-age-are-people-usually-happiest-new-research-offers-surprising-clues-156906
+```
+At what age are people usually happiest? New research offers surprising clues
+```
+
+https://www.dailymail.co.uk/news/article-9502509/MaKhia-Bryants-mother-watched-Breonna-Taylor-tragedy-sadness-know-like.html#comments
+```
+Paula Bryant's daughter Ma'Khia, 16, was shot and killed by police on Tuesday
+```
+https://www.independent.co.uk/voices/english-pakistan-native-language-b1831436.html
+```
+A person should be judged on talent – not their ability to speak English
+```
 
 https://brightside.me/inspiration-psychology/8-behaviors-that-we-copy-from-each-other-like-mirrors-and-heres-what-it-means-801549/
 ```
