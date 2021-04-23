@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://medium.com/@sahoosunilkumar/how-to-update-a-fork-in-git-95a7daadc14e
+```
+How we can update a forked repository from the source
+```
+
 https://github.com/pillarjs/understanding-csrf
 ```
 Definition of csrf attack
