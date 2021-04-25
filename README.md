@@ -1,5 +1,15 @@
 # Articles that I read :)
 
+https://wallabyjs.com/
+```
+Wallaby.js is a developer productivity tool that runs your JavaScript and TypeScript tests immediately as you type, highlighting results in your IDE right next to your code.
+```
+
+https://thehackernews.com/2021/04/hackers-exploit-vpn-flaw-to-deploy.html?m=1
+```
+Hackers Exploit VPN to Deploy SUPERNOVA malware on SolarWinds Orion
+```
+
 https://medium.com/@sahoosunilkumar/how-to-update-a-fork-in-git-95a7daadc14e
 ```
 How we can update a forked repository from the source
