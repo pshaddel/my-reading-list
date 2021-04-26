@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/themarcba/what-is-a-senior-developer-really-59dg
+```
+Who is a senior developer?
+```
+
 https://wallabyjs.com/
 ```
 Wallaby.js is a developer productivity tool that runs your JavaScript and TypeScript tests immediately as you type, highlighting results in your IDE right next to your code.
