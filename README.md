@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068
+```
+fix a bad commit
+```
+
 https://dev.to/themarcba/what-is-a-senior-developer-really-59dg
 ```
 Who is a senior developer?
