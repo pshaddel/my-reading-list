@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/marcosmol204/enums-in-javascript-1274
+```
+Create a enum like object in javascript
+```
+
 https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068
 ```
 fix a bad commit
