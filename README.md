@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/iamvp7/proxy-vs-reverse-proxy-4201
+```
+What is proxy and reverse proxy
+```
+
 https://dev.to/damienpirsy/stop-pressuring-people-into-programming-29if
 ```
 Stop pressuring people into programming 
