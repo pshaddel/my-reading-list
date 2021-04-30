@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://savio.xyz/34-ultimate-vs-code-extensions-to-increase-productivity
+```
+Useful VSCODE Extensions
+```
+
 https://dev.to/318097/4-ways-to-check-if-arrays-are-equal-4dil
 ```
 Check arrays are equal in JS
