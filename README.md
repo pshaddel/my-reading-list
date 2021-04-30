@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/damienpirsy/stop-pressuring-people-into-programming-29if
+```
+Stop pressuring people into programming 
+```
+
 https://dev.to/marcosmol204/enums-in-javascript-1274
 ```
 Create a enum like object in javascript
