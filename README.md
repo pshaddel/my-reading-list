@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/318097/4-ways-to-check-if-arrays-are-equal-4dil
+```
+Check arrays are equal in JS
+```
+
 https://www.nginx.com/resources/glossary/reverse-proxy-server/
 ```
 Common uses for a reverse proxy server include:
