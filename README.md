@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://samuelmullen.com/articles/elixir-processes-send-and-receive/
+```
+One of the best articles to understand process, send, revieve
+```
+
 https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
 ```
 The jumping off point for exploring quantum computing is to understand that while many of the principles are counterintuitive, the classical universe we know and love is but a mere shadow of the quantum fabric of reality. To get a feel for that fundamental difference we will walk through an example that helps to illustrate the power of quantum computation
