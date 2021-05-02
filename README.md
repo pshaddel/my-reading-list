@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/noelworden/so-many-ways-to-update-a-map-with-elixir-1aie
+```
+All the ways we can update a map in Elixir
+```
+
 https://samuelmullen.com/articles/elixir-processes-send-and-receive/
 ```
 One of the best articles to understand process, send, revieve
