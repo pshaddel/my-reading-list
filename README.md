@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://brayanarrieta.hashnode.dev/new-javascript-features-ecmascript-2021-with-examples
+```
+New Features
+```
+
 https://dev.to/noelworden/so-many-ways-to-update-a-map-with-elixir-1aie
 ```
 All the ways we can update a map in Elixir
