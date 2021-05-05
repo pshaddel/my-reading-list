@@ -1,4 +1,10 @@
 # Non-Technical Articles
+
+https://www.verywellmind.com/how-to-boost-your-self-confidence-4163098
+```
+Boost ur self confidence
+```
+
 https://www.psychologytoday.com/us/blog/handy-hints-humans/202105/are-you-too-sensitive-or-is-sensitivity-your-strength
 ```
 Sensetive people
