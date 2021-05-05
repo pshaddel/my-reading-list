@@ -1,4 +1,9 @@
 # Non-Technical Articles
+https://www.psychologytoday.com/us/blog/handy-hints-humans/202105/are-you-too-sensitive-or-is-sensitivity-your-strength
+```
+Sensetive people
+```
+
 https://theconversation.com/at-what-age-are-people-usually-happiest-new-research-offers-surprising-clues-156906
 ```
 At what age are people usually happiest? New research offers surprising clues
