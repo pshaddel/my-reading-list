@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://catalins.tech/attribute-binding-in-vue-js
+```
+Vue Binding variables
+```
+
 https://brayanarrieta.hashnode.dev/new-javascript-features-ecmascript-2021-with-examples
 ```
 New Features
