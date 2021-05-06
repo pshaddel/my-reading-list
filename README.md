@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/awedis/react-best-practices-4l4m
+```
+Good React Practices
+```
+
 https://catalins.tech/attribute-binding-in-vue-js
 ```
 Vue Binding variables
