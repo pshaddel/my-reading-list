@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/cstayyab/let-me-wait-for-it-and-call-you-back-said-wait-for-it-js-50h1
+```
+Wait for it js
+```
+
 https://arielorozco.com/factory-method-design-pattern-in-go
 ```
 Go Lang Factory Design Pattern
