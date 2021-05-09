@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://arielorozco.com/factory-method-design-pattern-in-go
+```
+Go Lang Factory Design Pattern
+```
+
 https://dev.to/awedis/react-best-practices-4l4m
 ```
 Good React Practices
