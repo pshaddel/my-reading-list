@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://developpaper.com/no-surprise-you-can-also-ignore-the-front-end-flutter-persuasion-guide/
+```
+A nice camparison between mobile development ways
+```
+
 https://dev.to/cstayyab/let-me-wait-for-it-and-call-you-back-said-wait-for-it-js-50h1
 ```
 Wait for it js
