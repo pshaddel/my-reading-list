@@ -1,8 +1,8 @@
 # Articles that I read :)
 
-https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/
+https://hackingprofessional.github.io/Security/Using-Kali-Linux-as-a-Docker-container/
 ```
-What do u mean by event sourcing?
+Looks like we can use Kali in docker container and we can run graphic applications as well
 ```
 
 https://developpaper.com/no-surprise-you-can-also-ignore-the-front-end-flutter-persuasion-guide/
