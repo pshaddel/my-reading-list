@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/
+```
+What do u mean by event sourcing?
+```
+
 https://developpaper.com/no-surprise-you-can-also-ignore-the-front-end-flutter-persuasion-guide/
 ```
 A nice camparison between mobile development ways
