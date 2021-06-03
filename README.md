@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://blog.decipher.dev/functional-programming-in-javascript-typescript-for-beginners
+```
+Functional Programming
+```
+
 https://hackingprofessional.github.io/Security/Using-Kali-Linux-as-a-Docker-container/
 ```
 Looks like we can use Kali in docker container and we can run graphic applications as well
