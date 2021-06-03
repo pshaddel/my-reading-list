@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://pmcaonline.org/pros-cons-functional-programming/
+```
+FP Pros and Cons
+```
+
 https://blog.decipher.dev/functional-programming-in-javascript-typescript-for-beginners
 ```
 Functional Programming
