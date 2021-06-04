@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://catalins.tech/pass-command-line-arguments-to-your-nodejs-app
+```
+How can I use cli arguments when I'm running NodeJS Process
+```
+
 https://pmcaonline.org/pros-cons-functional-programming/
 ```
 FP Pros and Cons
