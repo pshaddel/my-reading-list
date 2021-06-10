@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/felipelincoln/me-a-former-physicist-just-launched-my-first-project-using-elixir-and-phoenix-8k
+```
+A physicist became a backend developer
+```
+
 https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g
 ```
 JS Tricks
