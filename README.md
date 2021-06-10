@@ -1,5 +1,15 @@
 # Articles that I read :)
 
+https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g
+```
+JS Tricks
+```
+
+https://dev.to/hieptl/master-design-patterns-by-building-real-projects-builder-pattern-javascript-25f2
+```
+Builder design pattern
+```
+
 https://catalins.tech/pass-command-line-arguments-to-your-nodejs-app
 ```
 How can I use cli arguments when I'm running NodeJS Process
