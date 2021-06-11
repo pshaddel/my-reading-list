@@ -1,4 +1,9 @@
 # Articles that I read :)
+
+https://geeky-chakri.hashnode.dev/automatic-darklight-theme-switching-based-on-the-environment-lighting
+```
+Cool stuff we can do by accessing light mode
+```
 https://thehackernews.com/2021/06/us-authorities-shut-down-slilpplargest.html?utm_source=dlvr.it&utm_medium=linkedin&m=1
 ```
 US shut down slilp
