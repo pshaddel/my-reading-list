@@ -1,4 +1,8 @@
 # Articles that I read :)
+https://thehackernews.com/2021/06/us-authorities-shut-down-slilpplargest.html?utm_source=dlvr.it&utm_medium=linkedin&m=1
+```
+US shut down slilp
+```
 
 https://dev.to/felipelincoln/me-a-former-physicist-just-launched-my-first-project-using-elixir-and-phoenix-8k
 ```
