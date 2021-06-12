@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://bootcamp.uxdesign.cc/the-minidisc-the-failure-of-a-gorgotten-format-fdb691f6987f
+```
+MiniDisc Failure
+```
+
 https://twitter.com/kashhill/status/1402986015107653647
 ```
 How google removes search results
