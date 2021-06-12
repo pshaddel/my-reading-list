@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://rehansattar.hashnode.dev/understanding-objectassign-ckptkcjxx0igvbjs162o53dae
+```
+Object.assign review
+```
+
 https://geeky-chakri.hashnode.dev/automatic-darklight-theme-switching-based-on-the-environment-lighting
 ```
 Cool stuff we can do by accessing light mode
