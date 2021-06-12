@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://twitter.com/kashhill/status/1402986015107653647
+```
+How google removes search results
+```
+
 https://normalzao.hashnode.dev/mongodb-tips-beyond-orms
 ```
 Useful tips on mongodb
