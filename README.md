@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://normalzao.hashnode.dev/mongodb-tips-beyond-orms
+```
+Useful tips on mongodb
+```
+
 https://rehansattar.hashnode.dev/understanding-objectassign-ckptkcjxx0igvbjs162o53dae
 ```
 Object.assign review
