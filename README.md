@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.sololearn.com/blog/187
+```
+Write your own programming language
+```
+
 https://bootcamp.uxdesign.cc/the-minidisc-the-failure-of-a-gorgotten-format-fdb691f6987f
 ```
 MiniDisc Failure
