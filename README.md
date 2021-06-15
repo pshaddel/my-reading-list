@@ -1,4 +1,10 @@
 # Articles that I read :)
+
+https://levelup.gitconnected.com/node-js-vs-net-core-the-winner-5ba06efb4c35
+```
+Biased Review of Node.js and .NetCore
+```
+
 https://hashnode.com/post/all-you-need-to-know-about-debouncing-and-throttling-in-javascript-ckpwx8duk04k7a9s19tc5c3kc
 ```
 Debouncing VS Throttling
