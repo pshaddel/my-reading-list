@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/sewvandiii/sneaking-into-docker-1cda
+‍‍‍‍‍‍```
+Docker shallow review
+```
+
 https://docs.harperdb.io
 ```
 What is HarperDB?
