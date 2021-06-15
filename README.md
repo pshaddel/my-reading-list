@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://hashnode.com/post/all-you-need-to-know-about-debouncing-and-throttling-in-javascript-ckpwx8duk04k7a9s19tc5c3kc
+```
+Debouncing VS Throttling
+```
+
 https://dev.to/sewvandiii/sneaking-into-docker-1cda
 ‍‍‍‍‍‍```
 Docker shallow review
