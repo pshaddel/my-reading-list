@@ -1,6 +1,9 @@
 # Non-Technical Articles
 
-
+https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html
+```
+Post-pandemic resignation problem
+```
 
 https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas
 ```
