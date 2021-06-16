@@ -1,5 +1,12 @@
 # Non-Technical Articles
 
+
+
+https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas
+```
+'Positive deviants': Why rebellious workers spark great ideas
+```
+
 https://www.verywellmind.com/how-to-boost-your-self-confidence-4163098
 ```
 Boost ur self confidence
