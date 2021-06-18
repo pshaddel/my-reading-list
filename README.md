@@ -1,4 +1,8 @@
 # Articles that I read :)
+https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
+```
+Angular v12 features
+```
 
 https://levelup.gitconnected.com/node-js-vs-net-core-the-winner-5ba06efb4c35
 ```
