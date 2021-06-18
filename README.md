@@ -1,4 +1,9 @@
 # Articles that I read :)
+https://www.netlify.com/blog/2021/06/08/react-18-alpha-is-out-now-what/
+```
+React 18
+```
+
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
 ```
 Angular v12 features
