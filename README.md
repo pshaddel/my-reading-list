@@ -1,4 +1,10 @@
 # Articles that I read :)
+
+https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f
+```
+Angular Dev Tools
+```
+
 https://www.netlify.com/blog/2021/06/08/react-18-alpha-is-out-now-what/
 ```
 React 18
