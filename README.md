@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.sololearn.com/blog/190
+```
+Offloading database and scaling
+```
+
 https://www.prisma.io/blog/documenting-apis-mjjpZ7E7NkVP
 ```
 API Documentation
