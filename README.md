@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.freecodecamp.org/news/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84/
+```
+Functional Programming
+```
+
 https://www.sololearn.com/blog/190
 ```
 Offloading database and scaling
