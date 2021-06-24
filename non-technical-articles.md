@@ -1,8 +1,10 @@
 # Non-Technical Articles
+
 https://www.psychologytoday.com/intl/blog/prisons-and-pathos/202106/instead-waiting-motivation-build-habits
 ```
 instead of waiting for motivation build habbits
 ```
+
 https://asiatimes.com/2021/06/aussies-claim-extraordinary-thermal-discovery/
 ```
 Aussie cliam extraordinary thermal discovery
