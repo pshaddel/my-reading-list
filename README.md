@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://sjsouvik.hashnode.dev/call-apply-and-bind-in-js
+```
+JS Call Bind Apply
+```
+
 https://www.freecodecamp.org/news/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84/
 ```
 Functional Programming
