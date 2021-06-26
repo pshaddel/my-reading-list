@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html
+```
+TS 4.3 Release note
+```
+
 https://sjsouvik.hashnode.dev/call-apply-and-bind-in-js
 ```
 JS Call Bind Apply
