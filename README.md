@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://blog.bitsrc.io/the-4-new-features-coming-in-ecmascript-2021-6fa24684b99b
+```
+ECMASCRIPT 2021
+```
+
 https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html
 ```
 TS 4.3 Release note
