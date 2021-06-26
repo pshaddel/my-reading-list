@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/
+```
+Google Angular 2 Story
+```
+
 https://www.wired.com/story/javascript-framework-puts-web-pages-diet/
 ```
 Replace React with SVELTE 
