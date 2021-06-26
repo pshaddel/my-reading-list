@@ -1,5 +1,15 @@
 # Articles that I read :)
 
+https://www.wired.com/story/microsoft-github-strengthen-hold-open-source/
+```
+Github and Microsoft on Open Source
+```
+
+https://www.wired.com/story/javascript-developers-more-choices-mean-hard-choices/
+```
+Awesome article related to these too many javascript tools
+```
+
 https://blog.bitsrc.io/the-4-new-features-coming-in-ecmascript-2021-6fa24684b99b
 ```
 ECMASCRIPT 2021
