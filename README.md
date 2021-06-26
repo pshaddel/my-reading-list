@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.wired.com/story/javascript-framework-puts-web-pages-diet/
+```
+Replace React with SVELTE 
+```
+
 https://www.wired.com/story/microsoft-github-strengthen-hold-open-source/
 ```
 Github and Microsoft on Open Source
