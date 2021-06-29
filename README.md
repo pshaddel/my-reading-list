@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://memgraph.com/blog/graph-database-vs-relational-database
+```
+Why Graph database
+```
+
 https://leapgraph.com/graph-vs-relational-databases/
 ```
 Why Graph Database
