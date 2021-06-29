@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://leapgraph.com/graph-vs-relational-databases/
+```
+Why Graph Database
+```
+
 https://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/
 ```
 Google Angular 2 Story
