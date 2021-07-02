@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://en.wikipedia.org/wiki/Tony_Hoare
+```
+Tony Hoare is the one who invented Quick Sort and also Null Reference and CSP
+```
+
 https://serokell.io/blog/elixir-otp-guide
 ```
 Elixir OTP
