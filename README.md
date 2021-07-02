@@ -1,6 +1,11 @@
 # Articles that I read :)
 
-https://stackoverflow.blog/2021/06/14/lets-enhance-use-intel-ai-to-increase-image-resolution-in-this-demo/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
+https://serokell.io/blog/elixir-otp-guide
+```
+Elixir OTP
+```
+
+https://stackoverflow.blog/2021/06/14/lets-enhance-use-intel-ai-to-increase-image-resolution-in-this-demo
 ```
 Future of increasing image resolutions
 ```
