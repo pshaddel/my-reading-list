@@ -1,5 +1,15 @@
 # Non-Technical Articles
 
+https://www.washingtonpost.com/world/2021/06/29/coronavirus-latest-updates/
+```
+Vaccine certificate in EU Airports
+```
+
+https://www.psychologytoday.com/intl/blog/and-running/202106/the-personality-disorder-you-dont-hear-about
+```
+ADP vs SDP
+```
+
 https://www.psychologytoday.com/intl/blog/prisons-and-pathos/202106/instead-waiting-motivation-build-habits
 ```
 instead of waiting for motivation build habbits
