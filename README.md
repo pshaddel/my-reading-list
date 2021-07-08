@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.nginx.com/resources/glossary/layer-4-load-balancing
+```
+Layer 4 Load Balancer
+```
+
 https://www.nginx.com/resources/glossary/reverse-proxy-server
 ```
 Reverse Proxy
