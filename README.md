@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://lucene.apache.org/core/
+```
+Apache Lucene Core -> Core of Elastic Search which is an open source database
+```
+
 https://www.elastic.co/blog/what-is-an-elasticsearch-index
 ```
 Elastic Search Index
