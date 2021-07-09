@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.elastic.co/blog/what-is-an-elasticsearch-index
+```
+Elastic Search Index
+```
+
 https://www.nginx.com/resources/glossary/layer-4-load-balancing
 ```
 Layer 4 Load Balancer
