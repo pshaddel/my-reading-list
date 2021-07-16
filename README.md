@@ -1,4 +1,10 @@
 # Articles that I read :)
+
+https://www.simform.com/best-frontend-frameworks/
+```
+best frontend frameworks
+```
+
 https://www.reddit.com/r/Angular2/comments/8ytfc1/reacts_virtual_dom_vs_angulars_change_detection/
 ```
 Differences of Angular and React
