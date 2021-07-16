@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/
+```
+comments best practices
+```
+
 https://jswift.hashnode.dev/the-best-vs-code-extensions-to-supercharge-git-yes-theres-more-than-gitlens
 ```
 Git related VSCode Extensions
