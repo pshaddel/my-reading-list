@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/ayabouchiha/5-html-tags-that-almost-nobody-knows-5p5
+```
+HTML Tags that we are not aware of
+```
+
 https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/
 ```
 comments best practices
