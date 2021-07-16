@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://medium.com/cacher-app/svelte-is-really-fast-45224f57bd86
+```
+History of frontend frameworks
+```
+
 https://www.simform.com/best-frontend-frameworks/
 ```
 best frontend frameworks
