@@ -1,4 +1,8 @@
 # Articles that I read :)
+https://dev.to/this-is-learning/a-look-at-compilation-in-javascript-frameworks-3caj
+```
+Svelte: A look at compilation in javascript frameworks
+```
 
 https://ayushirawat.com/http-status-codes-that-you-must-know
 ```
