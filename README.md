@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://jswift.hashnode.dev/the-best-vs-code-extensions-to-supercharge-git-yes-theres-more-than-gitlens
+```
+Git related VSCode Extensions
+```
+
 https://lucene.apache.org/core/
 ```
 Apache Lucene Core -> Core of Elastic Search which is an open source database
