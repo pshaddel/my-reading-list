@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://ayushirawat.com/http-status-codes-that-you-must-know
+```
+Http stats codes
+```
+
 https://dev.to/ayabouchiha/5-html-tags-that-almost-nobody-knows-5p5
 ```
 HTML Tags that we are not aware of
