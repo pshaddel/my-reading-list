@@ -1,4 +1,9 @@
 # Articles that I read :)
+https://www.reddit.com/r/Angular2/comments/8ytfc1/reacts_virtual_dom_vs_angulars_change_detection/
+```
+Differences of Angular and React
+```
+
 https://dev.to/this-is-learning/a-look-at-compilation-in-javascript-frameworks-3caj
 ```
 Svelte: A look at compilation in javascript frameworks
