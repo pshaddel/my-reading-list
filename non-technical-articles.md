@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why
+```
+How new TV programs may harm your children
+```
+
 https://www.washingtonpost.com/world/2021/06/29/coronavirus-latest-updates/
 ```
 Vaccine certificate in EU Airports
