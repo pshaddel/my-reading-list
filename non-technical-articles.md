@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://latest-news.ca/joe-biden-wants-you-to-be-able-to-fix-your-own-damn-iphones/
+```
+You must be able to fix your phone
+```
+
 https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why
 ```
 How new TV programs may harm your children
