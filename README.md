@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://javascript.info/symbol
+```
+Learn Symbol once 
+```
+
 https://javascript.plainenglish.io/enough-why-its-time-to-rip-out-angular-7d831802c8a2
 ```
 Problems of a exprienced enginner with UI frameworks and suggesting simple Vanilla Javascript
