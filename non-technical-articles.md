@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/motivate/202107/how-prosper-when-life-gets-unbearable
+```
+ How to Prosper When Life Gets Unbearable 
+```
+
 https://www.yourgenome.org/facts/what-is-crispr-cas9
 ```
  What is CRISPR-Cas9?
