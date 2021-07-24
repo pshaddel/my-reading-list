@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://latest-news.ca/lyft-ditches-google-maps-for-here-partners-with-argo-ai/
+```
+The car companies replaced Google Maps with Here
+```
+
 https://latest-news.ca/joe-biden-wants-you-to-be-able-to-fix-your-own-damn-iphones/
 ```
 You must be able to fix your phone
