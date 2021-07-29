@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/akashshyam/to-typescript-or-to-not-3ad0
+```
+TS or JS?
+```
+
 https://javascript.info/symbol
 ```
 Learn Symbol once 
