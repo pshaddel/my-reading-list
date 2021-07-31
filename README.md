@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/latobibor/toxic-flexibility-a-case-for-typescript-6ff
+```
+JS or TS?
+```
+
 https://dev.to/ayabouchiha/the-essential-guide-to-map-built-in-object-in-javascript-17d2
 ```
 Review Map methods of Javascript
