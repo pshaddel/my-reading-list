@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.yourgenome.org/facts/what-is-crispr-cas9
+```
+Crispr-CAS9
+```
+
 https://www.psychologytoday.com/us/blog/motivate/202107/how-prosper-when-life-gets-unbearable
 ```
 How prosper when lufe gets unbearable
