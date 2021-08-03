@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://blog.greenroots.info/javascript-promises-explain-like-i-am-five
+```
+JS Promise
+```
+
 https://dev.to/latobibor/toxic-flexibility-a-case-for-typescript-6ff
 ```
 JS or TS?
