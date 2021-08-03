@@ -2,6 +2,11 @@
 
 https://www.psychologytoday.com/us/blog/motivate/202107/how-prosper-when-life-gets-unbearable
 ```
+How prosper when lufe gets unbearable
+```
+
+https://www.psychologytoday.com/us/blog/motivate/202107/how-prosper-when-life-gets-unbearable
+```
  How to Prosper When Life Gets Unbearable 
 ```
 
