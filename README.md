@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://medium.com/geekculture/building-a-node-js-cli-with-typescript-packaged-and-distributed-via-homebrew-15ba2fadcb81
+```
+Building a NodeJS cli with typescript
+```
+
 https://blog.greenroots.info/javascript-promises-explain-like-i-am-five
 ```
 JS Promise
