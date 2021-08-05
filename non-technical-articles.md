@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/romantically-attached/202009/wolves-work-machiavellians
+```
+Wolves at work
+```
+
 https://www.yourgenome.org/facts/what-is-crispr-cas9
 ```
 Crispr-CAS9
