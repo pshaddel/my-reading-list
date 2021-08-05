@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://www.psychologytoday.com/us/blog/in-practice/202108/5-decision-making-tips-can-simplify-your-life
+```
+descrition making tips
+```
+
 https://medium.com/geekculture/building-a-node-js-cli-with-typescript-packaged-and-distributed-via-homebrew-15ba2fadcb81
 ```
 Building a NodeJS cli with typescript
