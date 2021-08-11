@@ -1,5 +1,10 @@
 # Articles that I read :)
 
+https://dev.to/ajithmadhan11/some-powerful-js-one-liners-600
+```
+JS one liners
+```
+
 https://gitlab.com/gitlab-org/quality/performance/-/issues/56
 ```
 Why Gitlab switched from Artillary to K6
