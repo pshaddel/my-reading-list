@@ -1,5 +1,15 @@
 # Articles that I read :)
 
+https://github.com/kucherenko/jscpd
+```
+If you want to prevent code duplication you can use this package
+```
+
+https://en.wikipedia.org/wiki/Interface_description_language
+```
+What is IDL?
+```
+
 https://dev.to/ajithmadhan11/some-powerful-js-one-liners-600
 ```
 JS one liners
