@@ -1,5 +1,15 @@
 # Non-Technical Articles
 
+https://getpocket.com/explore/item/a-johns-hopkins-study-reveals-the-scientific-secret-to-double-how-fast-you-learn?utm_source=linkedinsynd&utm_medium=social
+```
+Double how fast you can learn
+```
+
+https://www.psychologytoday.com/us/blog/romantically-attached/202009/wolves-work-psychopaths
+```
+wolves work psychopaths
+```
+
 https://www.psychologytoday.com/us/blog/romantically-attached/202009/wolves-work-narcissists
 ```
 Wolves at work 2
