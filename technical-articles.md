@@ -1,4 +1,4 @@
-# Articles that I read :)
+# Latest Technical Articles that I read :)
 
 https://github.com/kucherenko/jscpd
 ```
