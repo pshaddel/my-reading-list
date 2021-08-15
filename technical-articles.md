@@ -1,5 +1,10 @@
 # Latest Technical Articles that I read :)
 
+https://blog.jscrambler.com/mongodb-native-driver-vs-mongoose-performance-benchmarks/
+```
+Mongoose is really slow
+```
+
 https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb
 ```
   
