@@ -1,5 +1,10 @@
 # Latest Technical Articles that I read :)
 
+https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb
+```
+  
+```
+
 https://github.com/kucherenko/jscpd
 ```
 If you want to prevent code duplication you can use this package
