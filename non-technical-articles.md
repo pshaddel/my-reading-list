@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.wired.com/2014/10/beware-playing-lots-chess-will-shrink-brain/
+```
+Chess will shrink ur brain
+```
+
 https://getpocket.com/explore/item/a-johns-hopkins-study-reveals-the-scientific-secret-to-double-how-fast-you-learn?utm_source=linkedinsynd&utm_medium=social
 ```
 Double how fast you can learn
