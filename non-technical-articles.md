@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.brainscape.com/academy/does-chess-make-you-smarter/
+```
+Do chess make you smarter?
+```
+
 https://www.wired.com/2014/10/beware-playing-lots-chess-will-shrink-brain/
 ```
 Chess will shrink ur brain
