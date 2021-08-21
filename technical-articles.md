@@ -1,5 +1,20 @@
 # Technical Articles
 
+https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming
+```
+What is Reactive Programming
+```
+
+https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+```
+One of the best article to know about angular change detection
+```
+
+https://www.freecodecamp.org/news/what-is-a-javascript-object/
+```
+JS object
+```
+
 https://blog.jscrambler.com/mongodb-native-driver-vs-mongoose-performance-benchmarks/
 ```
 Mongoose is really slow
