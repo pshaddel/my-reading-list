@@ -1,4 +1,4 @@
-# Latest Technical Articles that I read :)
+# Technical Articles
 
 https://blog.jscrambler.com/mongodb-native-driver-vs-mongoose-performance-benchmarks/
 ```
