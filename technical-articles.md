@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.wired.com/story/what-is-sinkholing/
+```
+What is sinkhole?
+```
+
 https://www.freecodecamp.org/news/protect-against-ddos-attacks/
 ```
 Fight against DDos attacks
