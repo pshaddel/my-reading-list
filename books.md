@@ -7,3 +7,6 @@
 * [Homo Deus: A Brief History of Tomorrow - Noah Harari](https://www.amazon.com/gp/product/B01BBQ33VE/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
 * [Make Your Bed -  Admiral William H. McRaven ](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50/ref=sr_1_1?crid=2906PQAJNOOK6&dchild=1&keywords=make+your+bed&qid=1629705515&s=digital-text&sprefix=make+your+bed%2Cdigital-text%2C372&sr=1-1)
 * [1984 - George Orwell](https://www.amazon.com/1984-George-Orwell-ebook/dp/B097PNV4FX/ref=sr_1_1?dchild=1&keywords=1984&qid=1629705574&s=digital-text&sr=1-1)
+* [The Art of Thinking Clearly - Rolf Dobelli](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli-ebook/dp/B00IZP6EVQ/ref=sr_1_1?crid=2LDYF3U6ZBG78&dchild=1&keywords=rolf+dobelli&qid=1629709820&s=digital-text&sprefix=rolf+do%2Cdigital-text%2C332&sr=1-1)
+* [The Art of the Good Life - Rolf Dobelli](https://www.amazon.com/Art-Good-Life-Surprising-Shortcuts-ebook/dp/B0739WVN5V/ref=sr_1_2?crid=2LDYF3U6ZBG78&dchild=1&keywords=rolf+dobelli&qid=1629709872&s=digital-text&sprefix=rolf+do%2Cdigital-text%2C332&sr=1-2)
+* [The Compound Effect - Darren Hardy]
