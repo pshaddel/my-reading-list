@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/
+```
+Facebook network hose idea
+```
+
 https://www.wired.com/story/what-is-sinkholing/
 ```
 What is sinkhole?
