@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/sex-murder-and-the-meaning-life/202108/have-we-been-ignoring-the-biggest-flaw-in-human-judgment
+```
+Daniel Koneman - Noise and Bisa in judments
+```
+
 https://www.brainscape.com/academy/does-chess-make-you-smarter/
 ```
 Do chess make you smarter?
