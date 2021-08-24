@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.tensorflow.org/2021/05/speed-up-your-sites-with-web-page-prefetching-using-ml.html
+```
+Machin Learning and Frontend Optimization Miracle
+```
+
 https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/
 ```
 Facebook network hose idea
