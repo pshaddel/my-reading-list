@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.nytimes.com/2021/08/24/world/asia/biden-afghanistan-withdrawal-evacuation.html
+```
+Biden Afghanistan - Evacuation
+```
+
 https://www.psychologytoday.com/us/blog/sex-murder-and-the-meaning-life/202108/have-we-been-ignoring-the-biggest-flaw-in-human-judgment
 ```
 Daniel Koneman - Noise and Bisa in judments
