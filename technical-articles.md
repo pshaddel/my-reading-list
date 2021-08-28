@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/
+```
+How Faceook migrated to MySQL 8.0 - Problems were intresting
+```
+
 https://blog.tensorflow.org/2021/05/speed-up-your-sites-with-web-page-prefetching-using-ml.html
 ```
 Machin Learning and Frontend Optimization Miracle
