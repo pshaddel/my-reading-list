@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/developer-blog/will-it-graph-identifying-good-fit-graph-databases-part-2/?ref=social-blog
+```
+Use cases of Graph Databases Poor fit and Good fit
+```
+
 https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/
 ```
 How Faceook migrated to MySQL 8.0 - Problems were intresting
