@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2021/08/16/using-stretch-work-assignments-to-help-engineers-grow
+```
+Stretch Work
+```
+
 https://neo4j.com/developer-blog/will-it-graph-identifying-a-good-fit-for-graph-databases-part-1/
 ```
 Relational vs Graph Databases - Cost Benefit
