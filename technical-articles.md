@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/developer-blog/will-it-graph-identifying-a-good-fit-for-graph-databases-part-1/
+```
+Relational vs Graph Databases - Cost Benefit
+```
+
 https://neo4j.com/developer-blog/will-it-graph-identifying-good-fit-graph-databases-part-2/?ref=social-blog
 ```
 Use cases of Graph Databases Poor fit and Good fit
