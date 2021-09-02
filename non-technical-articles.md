@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/intl/blog/the-savvy-psychologist/202108/4-strategies-invest-in-your-mental-health-bank
+```
+Mental Health Bank
+```
+
 https://www.nytimes.com/2021/08/24/world/asia/biden-afghanistan-withdrawal-evacuation.html
 ```
 Biden Afghanistan - Evacuation
