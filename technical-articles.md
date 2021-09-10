@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/
+```
+Type coercion
+```
+
 https://stackoverflow.blog/2021/08/16/using-stretch-work-assignments-to-help-engineers-grow
 ```
 Stretch Work
