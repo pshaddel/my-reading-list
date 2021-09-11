@@ -1,5 +1,15 @@
 # Technical Articles
 
+https://clickup.com/blog/agile-retrospective/
+```
+SCRUM Retro
+```
+
+https://hyeomans.com/typescript_jest_axios/
+```
+How to Mock axios when using Typescript
+```
+
 https://neo4j.com/developer-blog/your-in-depth-guide-to-neo4j-graphql-library-2-0-0/?ref=social-blog
 ```
 Also Neo4J Started something like Dgraph
