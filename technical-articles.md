@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/developer-blog/your-in-depth-guide-to-neo4j-graphql-library-2-0-0/?ref=social-blog
+```
+Also Neo4J Started something like Dgraph
+```
+
 https://neo4j.com/blog/why-graph-databases-are-the-future/
 ```
 Why Graph Databases are the future?
