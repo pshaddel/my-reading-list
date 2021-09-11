@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/blog/why-graph-databases-are-the-future/
+```
+Why Graph Databases are the future?
+```
+
 https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/
 ```
 Type coercion
