@@ -1,5 +1,15 @@
 # Technical Articles
 
+https://kathan19.gitbook.io/howtohunt/rate-limit/ratelimitbypass
+```
+Http Header that can help bypassing rate limiter
+```
+
+https://huzaifa-tahir.medium.com/methods-to-bypass-rate-limit-5185e6c67ecd
+```
+Different ways to bypass rate limit
+```
+
 https://storybook.js.org/blog/how-to-actually-test-uis/
 ```
 How to test UI? A complete article
