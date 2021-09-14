@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.malcare.com/blog/session-hijacking-cookie-stealing/
+```
+Session Hijacking Cookie Stealing
+```
+
 https://kathan19.gitbook.io/howtohunt/rate-limit/ratelimitbypass
 ```
 Http Header that can help bypassing rate limiter
