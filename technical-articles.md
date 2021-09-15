@@ -1,5 +1,8 @@
 # Technical Articles
 
+Nice Picture From MVC Architecture: https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg
+Nice Picture From MVVM Architecture: https://upload.wikimedia.org/wikipedia/commons/8/87/MVVMPattern.png
+
 https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d
 ```
 MVC vs MVVM
