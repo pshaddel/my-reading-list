@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d
+```
+MVC vs MVVM
+```
+
 https://stackoverflow.com/questions/44890564/should-i-store-jwt-tokens-in-redis#:~:text=2%20Answers&text=TLDR%3A%20If%20you%20want%20the,the%20token%20has%20been%20compromised.
 ```
 Should we stor JWT in Redis?
