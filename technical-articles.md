@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/
+```
+Article about gRPC that contains some false information and general incorrect sentences
+```
+
 https://github.com/pmndrs/zustand
 ```
 Best React Store
