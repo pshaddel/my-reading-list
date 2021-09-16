@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/philosophy-and-therapy/202109/how-live-less-regret
+```
+How live less regret
+```
+
 https://www.psychologytoday.com/intl/blog/the-savvy-psychologist/202108/4-strategies-invest-in-your-mental-health-bank
 ```
 Mental Health Bank
