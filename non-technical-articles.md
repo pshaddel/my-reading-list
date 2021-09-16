@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/intl/blog/women-autism-spectrum-disorder/202108/day-in-the-life-woman-autism
+```
+Day in the life of a woman with authism
+```
+
 https://www.psychologytoday.com/us/blog/philosophy-and-therapy/202109/how-live-less-regret
 ```
 How live less regret
