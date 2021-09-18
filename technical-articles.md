@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/
+```
+6 Antipattern: Spagetti - Golden Hammer - Boat Anchor - Dead Code - Proliferation of Code - God Object
+```
+
 https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/
 ```
 Article about gRPC that contains some false information and general incorrect sentences
