@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests
+```
+Static vs Unit vs Integration vs E2E
+```
+
 https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/
 ```
 6 Antipattern: Spagetti - Golden Hammer - Boat Anchor - Dead Code - Proliferation of Code - God Object
