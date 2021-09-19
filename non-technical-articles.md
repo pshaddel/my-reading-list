@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/intl/blog/the-couch/202109/escaping-the-blame-game
+```
+Escaping the blame game
+```
+
 https://www.psychologytoday.com/intl/blog/women-autism-spectrum-disorder/202108/day-in-the-life-woman-autism
 ```
 Day in the life of a woman with authism
