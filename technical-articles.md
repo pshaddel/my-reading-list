@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/what-is-a-software-post-mortem/
+```
+How to deal with post-mortem?
+```
+
 https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests
 ```
 Static vs Unit vs Integration vs E2E
