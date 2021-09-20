@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/Race_condition
+```
+Learn Race Condition with one simple example
+```
+
 https://www.freecodecamp.org/news/what-is-a-software-post-mortem/
 ```
 How to deal with post-mortem?
