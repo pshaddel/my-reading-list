@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+```
+Best Practices of REST API Design
+```
+
 https://en.wikipedia.org/wiki/Race_condition
 ```
 Learn Race Condition with one simple example
