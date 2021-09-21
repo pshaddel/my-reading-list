@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://overreacted.io/npm-audit-broken-by-design/
+```
+Problem with `npm audit`
+```
+
 https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
 ```
 Best Practices of REST API Design
