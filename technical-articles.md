@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/
+```
+WhatsApp Multi-Device
+```
+
 https://overreacted.io/npm-audit-broken-by-design/
 ```
 Problem with `npm audit`
