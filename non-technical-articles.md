@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/intl/blog/future-trends/202109/the-7-keys-real-success
+```
+7 Key Real Success
+```
+
 https://www.psychologytoday.com/intl/blog/the-couch/202109/escaping-the-blame-game
 ```
 Escape the blame Game
