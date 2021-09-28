@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/the-pursuit-fun/202109/what-makes-you-happy-why-fun-matters-your-happiness
+```
+Happiness and Fun
+```
+
 https://www.psychologytoday.com/intl/blog/future-trends/202109/the-7-keys-real-success
 ```
 7 Key Real Success
