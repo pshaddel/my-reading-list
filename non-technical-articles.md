@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide
+```
+Low Cholestrol and Depression correlation
+```
+
 https://www.psychologytoday.com/us/blog/the-pursuit-fun/202109/what-makes-you-happy-why-fun-matters-your-happiness
 ```
 Happiness and Fun
