@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.neuralegion.com/blog/cross-site-request-forgery-csrf/
+```
+CSRF Attack
+```
+
 https://blog.cloudflare.com/counting-things-a-lot-of-different-things/
 ```
 Awesome article about how Cloudflare implemented used rate limiter
