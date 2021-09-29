@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.webroot.com/us/en/resources/glossary/what-is-peer-to-peer-networking
+```
+P2P Networking
+```
+
 https://www.neuralegion.com/blog/cross-site-request-forgery-csrf/
 ```
 CSRF Attack
