@@ -1,5 +1,15 @@
 # Non-Technical Articles
 
+https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html
+```
+Focusing - interview with Calnewport
+```
+
+https://www.psychologytoday.com/us/blog/the-pursuit-fun/202109/what-makes-you-happy-why-fun-matters-your-happiness
+```
+What makes you happy why fun matters
+```
+
 https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide
 ```
 Low Cholestrol and Depression correlation
