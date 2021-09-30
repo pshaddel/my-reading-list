@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide
+```
+The implication of low cholestrol in depression and suicide
+```
+
 https://www.nytimes.com/2019/01/13/smarter-living/how-to-actually-truly-focus-on-what-youre-doing.html
 ```
 Focusing - interview with Calnewport
