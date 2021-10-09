@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://developers.google.com/web/fundamentals/performance/http2
+```
+HTTP2 Google Article
+```
+
 https://www.webroot.com/us/en/resources/glossary/what-is-peer-to-peer-networking
 ```
 P2P Networking
