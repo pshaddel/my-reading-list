@@ -1,5 +1,6 @@
 # Books
-* [Deep Work - Cal newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+* [Digital Minimalism - Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
+* [Deep Work - Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 * [Atomic Habits - James Clear](https://www.amazon.de/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=sr_1_1?adgrpid=3811225781&dchild=1&hvadid=80195661420502&hvbmt=be&hvdev=c&hvlocphy=72&hvnetw=s&hvqmt=e&hvtargid=kwd-80195754307309%3Aloc-72&keywords=atomic+habit&qid=1629705186&sr=8-1)
 * [The Complete Problem Solver -  John R. Hayes](https://www.amazon.de/Complete-Problem-Solver-Second/dp/0805803092/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Complete+Problem+Solver&qid=1629705273&sr=8-1)
