@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://discuss.dgraph.io/t/database-sharding-how-to-scale-a-graph-database-dgraph-blog/14398
+```
+Dgraph Shards predicates not entities - it only needs one network call
+```
+
 https://developers.google.com/web/fundamentals/performance/http2
 ```
 HTTP2 Google Article
