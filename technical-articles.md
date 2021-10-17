@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/stepzen/what-does-it-mean-for-graphql-to-be-a-runtime-anyway-1bpb
+```
+GraphQL Runtime
+```
+
 https://discuss.dgraph.io/t/database-sharding-how-to-scale-a-graph-database-dgraph-blog/14398
 ```
 Dgraph Shards predicates not entities - it only needs one network call
