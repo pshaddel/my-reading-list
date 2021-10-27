@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.youtube.com/watch?v=dMBYI7pTR4Q
+```
+NextJS 12 Conference
+```
+
 https://stackoverflow.blog/2021/10/11/shift-to-remote-work-prompted-more-cybersecurity-questions-than-any-breach/
 ```
 Some charts that show the relation of cybersecurity questions and data breach
