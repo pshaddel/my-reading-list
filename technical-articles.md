@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://engineering.fb.com/2020/05/08/web/facebook-redesign/
+```
+Facebook redesign intentions
+```
+
 https://www.youtube.com/watch?v=dMBYI7pTR4Q
 ```
 NextJS 12 Conference
