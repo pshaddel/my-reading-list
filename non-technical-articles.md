@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/intl/blog/beyond-heroes-and-villains/202110/foot-in-the-squid-game
+```
+Squid Game Psychology perspective
+```
+
 https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide
 ```
 The implication of low cholestrol in depression and suicide
