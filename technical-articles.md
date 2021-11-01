@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
+```
+Code Quality - Article contains so many valuable researches
+```
+
 https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/
 ```
 Why Hooks boosted React?
