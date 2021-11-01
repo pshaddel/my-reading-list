@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/
+```
+Why Hooks boosted React?
+```
+
 https://engineering.fb.com/2020/05/08/web/facebook-redesign/
 ```
 Facebook redesign intentions
