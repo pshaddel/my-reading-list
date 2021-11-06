@@ -1,4 +1,5 @@
 # Books
+* [The subtle art of not giving a fuck - Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 * [Digital Minimalism - Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
 * [Deep Work - Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
