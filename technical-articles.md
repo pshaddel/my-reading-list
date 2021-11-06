@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/dscvitpune/introduction-to-webassembly-wasm-54d505d6d569
+```
+Introduction to WASM
+```
+
 https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
 ```
 Code Quality - Article contains so many valuable researches
