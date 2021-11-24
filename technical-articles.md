@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/imkevdev/inlining-critical-css-415p
+```
+Inlining Critical CSS
+```
+
 https://blog.angular.io/the-new-state-of-css-in-angular-bec011715ee6
 ```
 New Available CSS Features in Angular
