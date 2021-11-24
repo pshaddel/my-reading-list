@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.bitsrc.io/is-deno-still-a-thing-a-look-at-the-status-of-the-node-killer-884d47981d09
+```
+State of Deno - Author is the author of a book about Deno
+```
+
 https://medium.com/dscvitpune/introduction-to-webassembly-wasm-54d505d6d569
 ```
 Introduction to WASM
