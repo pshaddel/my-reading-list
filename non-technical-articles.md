@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html
+```
+US Inflation
+```
+
 https://www.psychologytoday.com/intl/blog/beyond-heroes-and-villains/202110/foot-in-the-squid-game
 ```
 Squid Game Psychology perspective
