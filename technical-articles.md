@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/developer-blog/neo4j-graphql-aggregations
+```
+Neo4j supports aggregate queries in GraphQL Cypher
+```
+
 https://dev.to/imkevdev/inlining-critical-css-415p
 ```
 Inlining Critical CSS
