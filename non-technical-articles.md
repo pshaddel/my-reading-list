@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/how-do-life/202109/should-you-accept-life-it-is
+```
+Simple story of a therapist
+```
+
 https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html
 ```
 US Inflation
