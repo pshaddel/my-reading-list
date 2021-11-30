@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/TCP_sequence_prediction_attack
+```
+The reason why we need a random sequence number in tcp handshake for both parties
+```
+
 https://medium.com/kineviz/graph-based-investigation-of-fraud-rings-5656c8295c67
 ```
 Fraud Detection - The article is shallow - not technical / Just saying fraud detection is good.
