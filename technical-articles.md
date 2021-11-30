@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/kineviz/graph-based-investigation-of-fraud-rings-5656c8295c67
+```
+Fraud Detection - The article is shallow - not technical / Just saying fraud detection is good.
+```
+
 https://neo4j.com/developer-blog/neo4j-graphql-aggregations
 ```
 Neo4j supports aggregate queries in GraphQL Cypher
