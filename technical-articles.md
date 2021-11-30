@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://networkengineering.stackexchange.com/questions/24068/why-do-we-need-a-3-way-handshake-why-not-just-2-way
+```
+Why we need a 3way handshake and not 2?
+```
+
 https://en.wikipedia.org/wiki/TCP_sequence_prediction_attack
 ```
 The reason why we need a random sequence number in tcp handshake for both parties
