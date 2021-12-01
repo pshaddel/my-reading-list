@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://indepth.dev/posts/1059/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular
+```
+Relation of zone.js and NgZone
+```
+
 https://networkengineering.stackexchange.com/questions/24068/why-do-we-need-a-3-way-handshake-why-not-just-2-way
 ```
 Why we need a 3way handshake and not 2?
