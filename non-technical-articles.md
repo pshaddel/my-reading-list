@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/perfectly-hidden-depression/202111/escaping-the-prison-perfectionism-and-imposter-syndrome
+```
+Imposter Syndrom and some solutions
+```
+
 https://www.psychologytoday.com/us/blog/how-do-life/202109/should-you-accept-life-it-is
 ```
 Simple story of a therapist
