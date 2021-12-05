@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://virgool.io/@ali.bayat/cqrs-pattern-in-microservices-architecture-gwvubd4kmexm
+```
+Introduction to CQRS
+```
+
 https://indepth.dev/posts/1059/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular
 ```
 Relation of zone.js and NgZone
