@@ -1,5 +1,6 @@
 # Technical Articles
 
+https://softwareengineering.stackexchange.com/questions/400219/determining-an-appropriate-use-case-for-cqrs
 https://virgool.io/@ali.bayat/cqrs-pattern-in-microservices-architecture-gwvubd4kmexm
 ```
 Introduction to CQRS
