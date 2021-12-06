@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/
+```
+Vecel hired SVELTE creator :) So many good news are on the way.
+```
+
 https://softwareengineering.stackexchange.com/questions/400219/determining-an-appropriate-use-case-for-cqrs
 https://virgool.io/@ali.bayat/cqrs-pattern-in-microservices-architecture-gwvubd4kmexm
 ```
