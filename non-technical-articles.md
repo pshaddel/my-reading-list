@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/evolution-the-self/201411/wittiest-sex-quotes-ever
+```
+Funny Quotes
+```
+
 https://www.psychologytoday.com/us/blog/perfectly-hidden-depression/202111/escaping-the-prison-perfectionism-and-imposter-syndrome
 ```
 Imposter Syndrom and some solutions
