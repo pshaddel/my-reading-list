@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://indepth.dev/posts/1361/getting-started-with-modern-javascript-proxy
+```
+How vital is using proxies
+```
+
 https://www.youtube.com/watch?v=dhrX_biPH8c
 ```
 Chrome Dev Summit 2021 - CSS Nesting - Font size Adjustment - Component Driven
