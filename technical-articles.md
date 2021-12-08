@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.eventstore.com/blog/event-sourcing-and-cqrs
+```
+CQRS and Event Sourcing
+```
+
 https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/
 ```
 Vecel hired SVELTE creator :) So many good news are on the way.
