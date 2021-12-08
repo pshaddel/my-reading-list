@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/blog/from-graph-to-knowledge-graph-data-trends-and-challenges
+```
+Knowledge Graph
+```
+
 https://12factor.net/codebase
 ```
 Factor 1
