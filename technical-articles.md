@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://12factor.net/codebase
+```
+Factor 1
+```
+
 https://www.eventstore.com/blog/event-sourcing-and-cqrs
 ```
 CQRS and Event Sourcing
