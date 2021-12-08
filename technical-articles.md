@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.youtube.com/watch?v=dhrX_biPH8c
+```
+Chrome Dev Summit 2021 - CSS Nesting - Font size Adjustment - Component Driven
+```
+
 https://neo4j.com/blog/from-graph-to-knowledge-graph-data-trends-and-challenges
 ```
 Knowledge Graph
