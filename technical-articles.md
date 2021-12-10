@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5
+```
+Blockchain Developer Roadmap
+```
+
 https://indepth.dev/posts/1361/getting-started-with-modern-javascript-proxy
 ```
 How vital is using proxies
