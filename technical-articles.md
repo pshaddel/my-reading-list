@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/larswaechter/path-aliases-with-typescript-in-nodejs-4353
+```
+Path Alias in Typescript
+```
+
 https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5
 ```
 Blockchain Developer Roadmap
