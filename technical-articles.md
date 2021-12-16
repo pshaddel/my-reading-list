@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/kiranrajvjd/css-hover-effects-k4a
+```
+Nice CSS Hover effects
+```
+
 https://dev.to/larswaechter/path-aliases-with-typescript-in-nodejs-4353
 ```
 Path Alias in Typescript
