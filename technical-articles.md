@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/
+```
+A lot of useful information about why developers take a job or leave a job
+```
+
 https://dev.to/kiranrajvjd/css-hover-effects-k4a
 ```
 Nice CSS Hover effects
