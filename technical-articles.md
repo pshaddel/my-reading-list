@@ -1,5 +1,11 @@
 # Technical Articles
 
+
+https://www.php.net/releases/8.1/en.php
+```
+PHP 8.1 Release
+```
+
 https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/
 ```
 A lot of useful information about why developers take a job or leave a job
