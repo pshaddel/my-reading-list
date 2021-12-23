@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://techrasa.com/fa/آیا-به-تحسین-شدن-معتاد-هستیم؟/
+```
+Farsi Article: Addiction to Praise
+```
+
 https://www.wsj.com/articles/what-is-the-log4j-vulnerability-11639446180?utm_campaign=PressCoverage&utm_content=191239481&utm_medium=social&utm_source=linkedin&hss_channel=lcp-152531
 ```
 What is Log4j?
