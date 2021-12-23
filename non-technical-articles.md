@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
+```
+Diabetes
+```
 https://techrasa.com/fa/آیا-به-تحسین-شدن-معتاد-هستیم؟/
 ```
 Farsi Article: Addiction to Praise
