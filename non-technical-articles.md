@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.everydayhealth.com/sexual-health/hepatitis.aspx
+```
+Hepatitis
+```
+
 https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
 ```
 Diabetes
