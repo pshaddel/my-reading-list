@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.valentinog.com/blog/node-usage/
+```
+Node Memory Usage
+```
+
 https://stackoverflow.blog/2021/10/25/node-js-makes-fullstack-programming-easy-with-server-side-javascript/
 ```
 An article from someone who has no idea what the hell is Node.js
