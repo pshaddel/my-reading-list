@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/
+```
+Better Comments
+```
+
 https://www.valentinog.com/blog/node-usage/
 ```
 Node Memory Usage
