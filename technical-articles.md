@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/lukeshiru/that-typescript-argument-5c56
+```
+Typescript is useless because it does all the stuff at runtime
+```
+
 https://headlessui.dev/react/dialog
 ```
 Headless UI is becoming popular
