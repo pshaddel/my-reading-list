@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://gcanti.github.io/io-ts/
+```
+The advantage of using io-ts to define the runtime type is that we can validate the type at runtime, and we can also extract the corresponding static type, so we don’t have to define it twice.
+```
+
 https://dev.to/lukeshiru/that-typescript-argument-5c56
 ```
 Typescript is useless because it does all the stuff at runtime
