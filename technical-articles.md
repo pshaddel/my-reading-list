@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://github.com/prisma/prisma/releases/tag/3.8.0
+```
+Prisma Support Full Text Search on MySQL
+```
+
 https://gcanti.github.io/io-ts/
 ```
 The advantage of using io-ts to define the runtime type is that we can validate the type at runtime, and we can also extract the corresponding static type, so we don’t have to define it twice.
