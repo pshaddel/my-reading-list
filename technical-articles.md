@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://towardsdatascience.com/my-first-six-months-as-a-data-scientist-69f6697c9ec3
+```
+First Six Month as a Data Scientist
+```
+
 https://github.com/prisma/prisma/releases/tag/3.8.0
 ```
 Prisma Support Full Text Search on MySQL
