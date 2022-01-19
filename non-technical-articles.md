@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health-news/first-person-treated-for-sickle-cell-disease-with-crispr-is-doing-well
+```
+They finally used Crisper on a patient :)
+```
+
 https://medlineplus.gov/genetics/understanding/basics/dna/
 ```
 What is DNA?
