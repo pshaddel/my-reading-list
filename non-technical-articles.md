@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://getpocket.com/explore/item/how-to-think-like-a-futurist?utm_source=linkedinsynd&utm_medium=social
+```
+How to think like a futurist
+```
+
 https://www.healthline.com/health-news/first-person-treated-for-sickle-cell-disease-with-crispr-is-doing-well
 ```
 They finally used Crisper on a patient :)
