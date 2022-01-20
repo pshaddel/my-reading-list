@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239#:~:text=Let%20allows%20you%20to%20change,you%20to%20change%20memory%20addresses.&text=When%20100%20is%20assigned%20to,of%20100%20is%20stored%20there
+```
+JS Memory Model - A Must Read For ALL JS Devs
+```
 https://towardsdatascience.com/my-first-six-months-as-a-data-scientist-69f6697c9ec3
 ```
 First Six Month as a Data Scientist
