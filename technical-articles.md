@@ -1,4 +1,8 @@
 # Technical Articles
+https://www.technologyreview.com/2022/01/20/1043885/meta-ai-facebook-learning-algorithm-nlp-vision-speech-agi/
+```
+AI Future
+```
 
 https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239#:~:text=Let%20allows%20you%20to%20change,you%20to%20change%20memory%20addresses.&text=When%20100%20is%20assigned%20to,of%20100%20is%20stored%20there
 ```
