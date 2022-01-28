@@ -1,4 +1,10 @@
 # Technical Articles
+
+https://stackoverflow.blog/2022/01/17/plan-for-tradeoffs-you-cant-optimize-all-software-quality-attributes/
+```
+you cant optimize all software quality attributes
+```
+
 https://www.technologyreview.com/2022/01/20/1043885/meta-ai-facebook-learning-algorithm-nlp-vision-speech-agi/
 ```
 AI Future
