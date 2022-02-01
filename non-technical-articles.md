@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.nbcnews.com/health/health-news/omicron-symptoms-covid-what-to-know-rcna9469
+```
+What we know about o micron
+```
+
 https://getpocket.com/explore/item/how-to-think-like-a-futurist?utm_source=linkedinsynd&utm_medium=social
 ```
 How to think like a futurist
