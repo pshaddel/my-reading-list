@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
+```
+Easy way to exploit mongodb
+```
+
 https://stackoverflow.blog/2022/01/17/plan-for-tradeoffs-you-cant-optimize-all-software-quality-attributes/
 ```
 you cant optimize all software quality attributes
