@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2022/01/27/psychological-safety-is-critical-for-high-performing-teams/
+```
+Psychological Safety
+```
+
 https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
 ```
 Easy way to exploit mongodb
