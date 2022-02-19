@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.theguardian.com/business/2022/jan/23/working-from-home-how-it-changed-us-forever
+```
+working from home how it changed us forever
+```
+
 https://www.nbcnews.com/health/health-news/omicron-symptoms-covid-what-to-know-rcna9469
 ```
 What we know about o micron
