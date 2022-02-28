@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.instaclustr.com/blog/rabbitmq-vs-kafka/
+```
+RabbitMQ vs Kafka
+```
+
 https://stackoverflow.blog/2022/01/27/psychological-safety-is-critical-for-high-performing-teams/
 ```
 Psychological Safety
