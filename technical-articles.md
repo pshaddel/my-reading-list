@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/
+```
+Engineering management
+```
+
 https://www.instaclustr.com/blog/rabbitmq-vs-kafka/
 ```
 RabbitMQ vs Kafka
