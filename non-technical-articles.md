@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://getpocket.com/explore/item/iq-tests-can-t-measure-it-but-cognitive-flexibility-is-key-to-learning-and-creativity?utm_source=linkedinsynd&utm_medium=social
+```
+Cognitive Flexibility
+```
+
 https://www.theguardian.com/business/2022/jan/23/working-from-home-how-it-changed-us-forever
 ```
 working from home how it changed us forever
