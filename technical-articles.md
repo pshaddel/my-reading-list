@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.keboola.com/blog/acid-transactions
+```
+ACID Transactions
+```
+
 https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/
 ```
 Engineering management
