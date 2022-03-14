@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://hackernoon.com/is-shared-database-in-microservices-actually-anti-pattern-8cc2536adfe4
+```
+Is shared database an antipattern?
+```
+
 https://www.keboola.com/blog/acid-transactions
 ```
 ACID Transactions
