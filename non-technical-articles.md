@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/the-psychology-relationships/202112/why-so-many-celebrities-cheat-their-partners
+```
+Why celebrities cheat?
+```
 https://getpocket.com/explore/item/iq-tests-can-t-measure-it-but-cognitive-flexibility-is-key-to-learning-and-creativity?utm_source=linkedinsynd&utm_medium=social
 ```
 Cognitive Flexibility
