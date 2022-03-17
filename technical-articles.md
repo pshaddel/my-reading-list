@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://indepth.dev/posts/1473/how-oop-is-mistreated-in-angular
+```
+OOP mistreated in Angular
+```
+
 https://hackernoon.com/is-shared-database-in-microservices-actually-anti-pattern-8cc2536adfe4
 ```
 Is shared database an antipattern?
