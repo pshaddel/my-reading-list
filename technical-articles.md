@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.logrocket.com/types-vs-interfaces-in-typescript/
+```
+Types VS Interfaces
+```
+
 https://indepth.dev/posts/1473/how-oop-is-mistreated-in-angular
 ```
 OOP mistreated in Angular
