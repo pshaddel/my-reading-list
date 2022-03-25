@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/swlh/on-disadvantages-of-storing-big-objects-in-mongodb-99aca7403d1
+```
+Why storing large objects in MongoDB is a bad idea
+```
+
 https://blog.logrocket.com/types-vs-interfaces-in-typescript/
 ```
 Types VS Interfaces
