@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/basics/narcissism
+```
+narcissism
+```
+
 https://www.psychologytoday.com/us/blog/the-psychology-relationships/202112/why-so-many-celebrities-cheat-their-partners
 ```
 Why celebrities cheat?
