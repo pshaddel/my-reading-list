@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://philosophyotaku.medium.com/using-nginx-as-load-balancer-with-node-js-express-63b39948f737
+```
+Nginx Load Balancing in simple words using Node.JS
+```
+
 https://medium.com/swlh/on-disadvantages-of-storing-big-objects-in-mongodb-99aca7403d1
 ```
 Why storing large objects in MongoDB is a bad idea
