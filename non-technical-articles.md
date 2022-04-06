@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://en.wikipedia.org/wiki/Bushido
+```
+Bushiodo rules that help you success
+```
+
 https://www.psychologytoday.com/us/basics/narcissism
 ```
 narcissism
