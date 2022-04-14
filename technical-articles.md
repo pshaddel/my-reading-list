@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/dreamwod-tech/how-i-built-my-tech-startup-as-a-solo-developer-45390f460002
+```
+Solo Developer ==? Company
+```
+
 https://philosophyotaku.medium.com/using-nginx-as-load-balancer-with-node-js-express-63b39948f737
 ```
 Nginx Load Balancing in simple words using Node.JS
