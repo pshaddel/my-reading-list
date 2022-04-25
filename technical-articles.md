@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/
+```
+How Figma handled subscriptions?
+```
+
 https://medium.com/dreamwod-tech/how-i-built-my-tech-startup-as-a-solo-developer-45390f460002
 ```
 Solo Developer ==? Company
