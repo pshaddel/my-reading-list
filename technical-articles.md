@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
+```
+Robots are coming to rescue?
+```
+
 https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/
 ```
 How Figma handled subscriptions?
