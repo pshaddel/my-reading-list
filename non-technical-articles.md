@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/social-instincts/202204/is-one-lifestyle-habit-the-key-happiness
+```
+Key to happiness: Autonomy
+```
+
 https://www.psychologytoday.com/us/blog/close-communication/202204/4-reasons-cuddle-your-partner-more-often
 ```
 Cudling
