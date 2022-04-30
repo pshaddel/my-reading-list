@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/the-modern-brain/202204/are-these-the-two-best-diets-your-brain-health
+```
+Healthy food for brain
+```
+
 https://www.psychologytoday.com/us/blog/social-instincts/202204/is-one-lifestyle-habit-the-key-happiness
 ```
 Key to happiness: Autonomy
