@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/codex/the-difference-between-dependency-inversion-and-dependency-injection-15935337ca1b
+```
+Not bad. Some parts were confusing
+```
+
 https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter
 ```
 Robots are coming to rescue?
