@@ -1,5 +1,11 @@
 # Technical Articles
 
+
+https://javascript.info/mixins
+```
+Mixins came to do multiple inheritence
+```
+
 https://medium.com/codex/the-difference-between-dependency-inversion-and-dependency-injection-15935337ca1b
 ```
 Not bad. Some parts were confusing
