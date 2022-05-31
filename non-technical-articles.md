@@ -320,3 +320,8 @@ Many people have one particular "conflict style" that informs how they approach 
 While there is likely a genetic component to conflict styles, they are deeply informed by sociocultural influences, education, and past experiences with disagreement.
 Identifying your dominant "conflict style" and where it came from—with the help of a therapist, if necessary—can help you unlearn unhealthy approaches to disagreement.
 ```
+
+https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/
+```
+PolyCode new AI
+```
