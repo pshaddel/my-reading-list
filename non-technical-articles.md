@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/finding-new-home/202205/the-most-successful-people-do-not-give-the-best-advice
+```
+Interesting fact about advices from experts
+```
+
 https://www.psychologytoday.com/us/blog/the-modern-brain/202204/are-these-the-two-best-diets-your-brain-health
 ```
 Healthy food for brain
