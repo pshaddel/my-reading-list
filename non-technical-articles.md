@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://javascript.info/garbage-collection
+```
+Javascript Garbage Collector
+```
+
 https://www.psychologytoday.com/us/blog/finding-new-home/202205/the-most-successful-people-do-not-give-the-best-advice
 ```
 Interesting fact about advices from experts
