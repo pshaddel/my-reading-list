@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://javascript.info/garbage-collection
+```
+Javascript Garbage Collector
+```
+
 https://stackoverflow.blog/2022/05/23/the-science-of-interviewing-developers
 ```
 interviewing developers
