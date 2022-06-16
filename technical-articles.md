@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.bracketsinstitute.com/re-rendering-in-react
+```
+Rerendering in React
+```
+
 https://dev.to/nrf/reactmemo-is-your-friend-e6p
 ```
 React.memo ist mein fruend
