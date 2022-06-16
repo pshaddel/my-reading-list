@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/nrf/reactmemo-is-your-friend-e6p
+```
+React.memo ist mein fruend
+```
+
 https://javascript.info/garbage-collection
 ```
 Javascript Garbage Collector
