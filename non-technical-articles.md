@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.wired.com/story/ukraine-russia-internet-takeover/
+```
+Russia Internet Take over details
+```
+
 https://www.psychologytoday.com/us/blog/finding-new-home/202205/the-most-successful-people-do-not-give-the-best-advice
 ```
 Interesting fact about advices from experts
