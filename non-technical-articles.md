@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.analyticsinsight.net/why-self-taught-data-scientists-cant-survive-in-the-job-market/
+```
+Self taught data scientists
+```
+
 https://www.wired.com/story/ukraine-russia-internet-takeover/
 ```
 Russia Internet Take over details
