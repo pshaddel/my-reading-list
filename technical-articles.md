@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2
+```
+Netflix api evolving...
+```
 https://blog.bracketsinstitute.com/re-rendering-in-react
 ```
 Rerendering in React
