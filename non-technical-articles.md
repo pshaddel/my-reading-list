@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://tigernewspaper.com/tiktok-culture-fuels-toxic-mindsets/
+```
+Tiktok or Tixok?
+```
+
 https://www.analyticsinsight.net/why-self-taught-data-scientists-cant-survive-in-the-job-market/
 ```
 Self taught data scientists
