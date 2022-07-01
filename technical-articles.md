@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/Critical_section
+```
+Critical Section(For the second time I am reading)
+```
+
 https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2
 ```
 Netflix api evolving...
