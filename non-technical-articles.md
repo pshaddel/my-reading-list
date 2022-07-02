@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.fastcompany.com/90749446/how-to-become-a-better-listener-according-to-science
+```
+Better Listener
+```
+
 https://tigernewspaper.com/tiktok-culture-fuels-toxic-mindsets/
 ```
 Tiktok or Tixok?
