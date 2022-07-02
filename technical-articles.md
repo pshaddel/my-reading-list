@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@igorkopanev/a-brief-explanation-of-the-inverted-index-f082993f8605
+```
+Databse Invert Index
+```
+
 https://en.wikipedia.org/wiki/Critical_section
 ```
 Critical Section(For the second time I am reading)
