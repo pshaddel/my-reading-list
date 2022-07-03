@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.google.com/amp/s/techcrunch.com/2022/07/01/open-source-developers-urged-to-ditch-github-following-copilot-launch/amp/
+```
+Why you should ditch github
+```
+
 https://www.fastcompany.com/90749446/how-to-become-a-better-listener-according-to-science
 ```
 Better Listener
