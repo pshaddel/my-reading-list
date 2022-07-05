@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.wired.com/story/floating-wind-turbines/
+```
+Floating Wind Turbins
+```
+
 https://techrasa.com/fa/%db%b5-%d8%ae%d8%b7%d8%a7%db%8c-%d8%b4%d9%86%d8%a7%d8%ae%d8%aa%db%8c-%d8%b1%d8%a7%db%8c%d8%ac/
 ```
 Bias
