@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://github.blog/2022-06-30-write-better-commits-build-better-projects/
+```
+Better Commits
+```
+
 https://medium.com/flutter/introducing-flutter-3-5eb69151622f
 ```
 Flutter 3
