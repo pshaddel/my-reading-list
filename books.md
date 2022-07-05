@@ -1,4 +1,5 @@
 # Books
+* [Outliers - Malcome Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 * [What This Thing Called Love](https://www.amazon.com/What-This-Thing-Called-Love/dp/0967844401)
 * [Why we sleep?](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
 * [The subtle art of not giving a fuck - Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
