@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.baeldung.com/cs/semaphore
+```
+Semophore explanation and how it can prevent critical section
+```
+
 https://github.blog/2022-06-30-write-better-commits-build-better-projects/
 ```
 Better Commits
