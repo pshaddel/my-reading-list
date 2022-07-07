@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/the-psychology-relationships/202207/getting-know-yourself-better-will-benefit-your-relationship
+```
+Benefits of self-understanding
+```
+
 https://www.wired.com/story/floating-wind-turbines/
 ```
 Floating Wind Turbins
