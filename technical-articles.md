@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/manage-state-in-flutter-apps/
+```
+Manage state in Flutter
+```
+
 https://www.baeldung.com/cs/semaphore
 ```
 Semophore explanation and how it can prevent critical section
