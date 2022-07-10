@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://www.engadget.com/can-ai-unlock-the-secrets-of-animal-communication-170040760.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD87vhIQouwg9UpmHLC7nTATQyjEF4xLvVAa0aqiLIWkqrahp13GTetF8DUWBHoHTcGez-ed13I8U2bDwNaXmvSYMnNiBqbrF2M3xKBXVfh8h5eflMUIImzedCEYJ5XeEVfhrjz7XPuzIEcf9D3IzjGC3-7C_Vtd9mO8QLDCcUUf
+```
+AI translating animals - no new information in this article.
+```
 https://www.wired.com/story/cruises-robot-car-outages/
 ```
 Cruise robotaxies outage
