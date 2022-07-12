@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.entrepreneur.com/article/323450
+```
+How to learn faster
+```
+
 https://www.wired.co.uk/article/ai-talk-animals
 ```
 Not so many useful information just a story
