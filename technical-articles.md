@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://vuejs.org/guide/extras/rendering-mechanism.html
+```
+Compiler Informed VDOM
+```
+
 https://www.freecodecamp.org/news/manage-state-in-flutter-apps/
 ```
 Manage state in Flutter
