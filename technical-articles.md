@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
+```
+simple article not so advanced
+```
+
 https://vuejs.org/guide/extras/rendering-mechanism.html
 ```
 Compiler Informed VDOM
