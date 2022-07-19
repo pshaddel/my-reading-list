@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c
+```
+Type VS Interface
+```
+
 https://vuejs.org/guide/extras/reactivity-in-depth.html
 ```
 Vue js Reactivity
