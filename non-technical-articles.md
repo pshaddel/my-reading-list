@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/fulfillment-any-age/202207/the-six-second-introversion-effect-in-impression-formation
+```
+Six seconds
+```
 https://www.entrepreneur.com/article/323450
 ```
 How to learn faster
