@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://meta.stackexchange.com/questions/380436/how-rust-manages-memory-using-ownership-and-borrowing-blog-post-contains-numer
+```
+An article I read in Stackoverflow and looks like it was so inaccurate
+```
+
 https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c
 ```
 Type VS Interface
