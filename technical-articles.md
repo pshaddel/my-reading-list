@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.com/questions/2066035/in-c-sharp-are-the-terms-primitive-and-literal-interchangeable
+```
+Literal vs Primitive
+```
+
 https://meta.stackexchange.com/questions/380436/how-rust-manages-memory-using-ownership-and-borrowing-blog-post-contains-numer
 ```
 An article I read in Stackoverflow and looks like it was so inaccurate
