@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/in-practice/202207/5-ways-almost-everyone-misunderstands-emotions
+```
+Emotions misunderstanding
+```
+
 https://www.psychologytoday.com/us/blog/fulfillment-any-age/202207/the-six-second-introversion-effect-in-impression-formation
 ```
 Six seconds
