@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1
+```
+Browser APIs
+```
+
 https://stackoverflow.com/questions/2066035/in-c-sharp-are-the-terms-primitive-and-literal-interchangeable
 ```
 Literal vs Primitive
