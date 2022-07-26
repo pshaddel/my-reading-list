@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://ncjamieson.com/conventional-comments/
+```
+Use Conventional Review
+```
+
 https://fettblog.eu/tidy-typescript-avoid-enums/
 ```
 Enums have Javascript foot print, but despite what this article explained I think that is OK to use them on the backendside
