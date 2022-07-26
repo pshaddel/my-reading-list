@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://fettblog.eu/tidy-typescript-avoid-enums/
+```
+Enums have Javascript foot print, but despite what this article explained I think that is OK to use them on the backendside
+```
+
 https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1
 ```
 Browser APIs
