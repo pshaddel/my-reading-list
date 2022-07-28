@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://ably.com/blog/websockets-vs-long-polling
+```
+Websocket and Http polling - pros and cons
+```
+
 https://ncjamieson.com/conventional-comments/
 ```
 Use Conventional Review
