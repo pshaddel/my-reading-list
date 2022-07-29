@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
+```
+Review This Binding
+```
+
 https://ably.com/blog/websockets-vs-long-polling
 ```
 Websocket and Http polling - pros and cons
