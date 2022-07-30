@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+```
+https://www.washingtonpost.com/climate-solutions/2022/07/20/electric-vehicles-climate/?utm_source=pocket_mylist
+```
+
 https://www.psychologytoday.com/us/blog/in-practice/202207/5-ways-almost-everyone-misunderstands-emotions
 ```
 Emotions misunderstanding
