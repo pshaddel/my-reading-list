@@ -2,7 +2,7 @@
 
 https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
 ```
-Review This Binding
+Review This Binding, Poor article
 ```
 
 https://ably.com/blog/websockets-vs-long-polling
