@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants
+```
+TikTok and Other social giants
+```
 
 https://www.washingtonpost.com/climate-solutions/2022/07/20/electric-vehicles-climate/?utm_source=pocket_mylist
 ```
