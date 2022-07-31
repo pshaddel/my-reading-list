@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://towardsdatascience.com/the-drastic-mistake-of-using-mongoose-to-handle-your-big-data-a3c408e21a4c
+```
+complaining why mongoose has data structure, when your use case is using non-structured data then you should not choose something like this
+```
+
 https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
 ```
 Review This Binding, Poor article
