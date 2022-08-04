@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.digitalmusicnews.com/2021/06/22/clubhouse-app-over/
+```
+Club House Hype is Over
+```
+
 https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants
 ```
 TikTok and Other social giants
