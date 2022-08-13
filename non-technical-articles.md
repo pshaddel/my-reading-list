@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.bbc.com/future/article/20220804-kusunda-the-language-isolate-with-no-word-for-no
+```
+Native Language - Culture
+```
+
 https://www.digitalmusicnews.com/2021/06/22/clubhouse-app-over/
 ```
 Club House Hype is Over
