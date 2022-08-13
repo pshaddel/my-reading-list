@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.theregister.com/2022/08/12/meta_ios_privacy/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article
+```
+Meta injects code in Ios in-app browser
+```
+
 https://dev.to/iarchitsharma/the-history-of-javascript-5e98
 ```
 History of JS
