@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.esparkinfo.com/blog/nodejs-next-development-model.html
+```
+Really weak article about node, none of pros and cons are correct in fact!
+```
+
 https://www.theregister.com/2022/08/12/meta_ios_privacy/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article
 ```
 Meta injects code in Ios in-app browser
