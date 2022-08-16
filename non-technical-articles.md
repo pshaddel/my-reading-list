@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://gbhackers.com/hackers-exploited-twitter-zero-day-bug-to-expose-5-4-million-accounts/
+```
+Twitter Linking accounts and emails
+```
+
 https://www.bbc.com/future/article/20220804-kusunda-the-language-isolate-with-no-word-for-no
 ```
 Native Language - Culture
