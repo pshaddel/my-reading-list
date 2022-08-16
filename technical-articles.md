@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://dzone.com/articles/mysqls-utf-8-isnt-real
+```
+MYSQL UTF-8 is not real UTF-8!!
+```
 https://www.esparkinfo.com/blog/nodejs-next-development-model.html
 ```
 Really weak article about node, none of pros and cons are correct in fact!
