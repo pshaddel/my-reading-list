@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/this-is-learning/the-javascript-paradox-2njj#comments-container
+```
+Nice article asking questions about JS - are we in a good path?
+```
+
 https://dzone.com/articles/mysqls-utf-8-isnt-real
 ```
 MYSQL UTF-8 is not real UTF-8!!
