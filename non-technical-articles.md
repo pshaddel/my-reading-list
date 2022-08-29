@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://bigthink.com/thinking/swedish-philosophy-lagom-just-enough/
+```
+REally good article for life improvement
+```
+
 https://gbhackers.com/hackers-exploited-twitter-zero-day-bug-to-expose-5-4-million-accounts/
 ```
 Twitter Linking accounts and emails
