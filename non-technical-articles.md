@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://bigthink.com/culture-religion/six-encounters-with-the-sentinelese/
+```
+Very interesting topic
+```
+
 https://bigthink.com/thinking/swedish-philosophy-lagom-just-enough/
 ```
 REally good article for life improvement
