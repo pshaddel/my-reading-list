@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://x-c3ll.github.io/posts/javascript-antidebugging/
+```
+JS Antidebugging
+```
+
 https://medium.com/mongoaudit/mongodb-user-credentials-best-practices-9fa6de06bcc1
 ```
 MongoDB super small suggestions
