@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://reflectoring.io/microservice-communication-patterns/
+```
+Microservice communication patterns
+```
+
 https://x-c3ll.github.io/posts/javascript-antidebugging/
 ```
 JS Antidebugging
