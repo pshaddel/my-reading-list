@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://bigthink.com/questions/will-true-ai-turn-against-us/
+```
+Will AI turn against us?
+```
+
 https://bigthink.com/the-present/public-mourning-queen/
 ```
 How mourning for the queen is different than mourning for your loved ones
