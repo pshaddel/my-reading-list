@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://javascript.plainenglish.io/javascript-anti-patterns-we-do-every-day-3d0086e2910
+```
+Not a fancy article, but worth scanning
+```
+
 https://reflectoring.io/microservice-communication-patterns/
 ```
 Microservice communication patterns
