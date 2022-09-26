@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://bigthink.com/neuropsych/testosterone-gerbils-extra-cuddly-partners/
+```
+Gerbils reponse to testosterone in specific contexts
+```
+
 https://bigthink.com/questions/will-true-ai-turn-against-us/
 ```
 Will AI turn against us?
