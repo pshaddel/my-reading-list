@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.mayallo.com/open-closed-principle-the-hard-parts?source=personalized-newsletter&source-id=2022-10-06
+```
+Open Closed Principle
+```
+
 https://javascript.plainenglish.io/javascript-anti-patterns-we-do-every-day-3d0086e2910
 ```
 Not a fancy article, but worth scanning
