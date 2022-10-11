@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://phys.org/news/2022-10-thermoformable-ceramics-frontier-materials.html
+```
+Thermoformable Ceramics => A Revolution in Electronic Cooling Systems and the size of Devices?
+```
+
 https://bigthink.com/neuropsych/testosterone-gerbils-extra-cuddly-partners/
 ```
 Gerbils reponse to testosterone in specific contexts
