@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@Luna-Rojas/nodejs-18-is-here-3-features-that-will-blow-your-mind-7c2b86e1d13
+```
+NodeJS 18 - Defintely not blowing your mind
+```
+
 https://blog.mayallo.com/open-closed-principle-the-hard-parts?source=personalized-newsletter&source-id=2022-10-06
 ```
 Open Closed Principle
