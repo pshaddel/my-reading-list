@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://engineering.hashnode.com/how-do-we-sync-reactions-across-hashnode?source=personalized-newsletter&source-id=2022-10-13
+```
+How hashnode handles users reactions
+```
+
 https://medium.com/@Luna-Rojas/nodejs-18-is-here-3-features-that-will-blow-your-mind-7c2b86e1d13
 ```
 NodeJS 18 - Defintely not blowing your mind
