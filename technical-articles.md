@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.cookiepro.com/knowledge/whats-the-difference-between-first-and-third-party-cookies/
+```
+First Party Cookie vs Third Party Cookie
+```
+
 https://engineering.hashnode.com/how-do-we-sync-reactions-across-hashnode?source=personalized-newsletter&source-id=2022-10-13
 ```
 How hashnode handles users reactions
