@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://semaphore.hashnode.dev/microfrontends?source=personalized-newsletter&source-id=2022-10-20
+```
+Microfrontends
+```
+
 https://www.cookiepro.com/knowledge/whats-the-difference-between-first-and-third-party-cookies/
 ```
 First Party Cookie vs Third Party Cookie
