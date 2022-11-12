@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.platformer.news/p/twitter-cut-in-half
+```
+Musk as always looking for attention!
+```
+
 https://phys.org/news/2022-10-thermoformable-ceramics-frontier-materials.html
 ```
 Thermoformable Ceramics => A Revolution in Electronic Cooling Systems and the size of Devices?
