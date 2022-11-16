@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://getpocket.com/explore/item/to-delay-death-lift-weights?sponsored=0&position=3&scheduled_corpus_item_id=5e483d22-f7fc-4015-a829-6a48aa2c68b2%3Fsponsored%3D0
+```
+Go to Gym to not die soon :)
+```
+
 https://www.platformer.news/p/twitter-cut-in-half
 ```
 Musk as always looking for attention!
