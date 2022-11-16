@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blossom.hashnode.dev/separations-of-concerns-in-react?source=personalized-newsletter&source-id=2022-10-20
+```
+React Separation of concerns
+```
+
 https://semaphore.hashnode.dev/microfrontends?source=personalized-newsletter&source-id=2022-10-20
 ```
 Microfrontends
