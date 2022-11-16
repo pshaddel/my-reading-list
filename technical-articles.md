@@ -1,10 +1,5 @@
 # Technical Articles
 
-https://www.runnersworld.com/health-injuries/a20860801/can-obvious-advice-stop-running-injuries/
-```
-Can Obvious advice stop running injuries
-```
-
 https://blossom.hashnode.dev/separations-of-concerns-in-react?source=personalized-newsletter&source-id=2022-10-20
 ```
 React Separation of concerns
