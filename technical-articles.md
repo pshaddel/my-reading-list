@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@junchenp1018/differences-in-javascript-with-throwing-and-return-error-d8c0e901c083
+```
+Differences in Javascript Error Thrown Strategy
+```
+
 https://blossom.hashnode.dev/separations-of-concerns-in-react?source=personalized-newsletter&source-id=2022-10-20
 ```
 React Separation of concerns
