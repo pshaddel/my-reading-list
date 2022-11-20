@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://nypost.com/2022/11/02/heroin-chic-is-back-and-curvy-bodies-big-butts-are-out/
+```
+Heroin chic
+```
+
 https://www.runnersworld.com/health-injuries/a20860801/can-obvious-advice-stop-running-injuries/
 ```
 Obvious advice could help!?!
