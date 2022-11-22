@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://plusreturn.com/blog/how-to-extend-express-request-interface-in-typescript/
+```
+Express Extending Request or Response
+```
+
 https://dev.to/kwabenberko/extend-express-s-request-object-with-typescript-declaration-merging-1nn5
 ```
 Typescript Declaration Merging
