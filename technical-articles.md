@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/kwabenberko/extend-express-s-request-object-with-typescript-declaration-merging-1nn5
+```
+Typescript Declaration Merging
+```
+
 https://axellarsson.com/blog/tag-docker-image-with-git-commit-hash/
 ```
 How to Add Commit Hash to your contianer
