@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/react-siblings/
+```
+Visual: How to update sibling component
+```
+
 https://plusreturn.com/blog/how-to-extend-express-request-interface-in-typescript/
 ```
 Express Extending Request or Response
