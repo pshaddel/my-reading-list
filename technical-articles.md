@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://leanylabs.com/blog/js-forEach-map-reduce-vs-for-for_of/
+```
+Benchmark, never trust any benchmark
+```
+
 https://alexsidorenko.com/blog/react-siblings/
 ```
 Visual: How to update sibling component
