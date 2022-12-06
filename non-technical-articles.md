@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://youtu.be/4gljqNXByXA
+```
+Future of technology. Seems really nice but I bet big companies are not letting you have something without abusing your data for their own profit
+```
+
 https://nypost.com/2022/11/02/heroin-chic-is-back-and-curvy-bodies-big-butts-are-out/
 ```
 Heroin chic
