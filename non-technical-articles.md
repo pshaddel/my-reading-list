@@ -1,5 +1,11 @@
 # Non-Technical Articles
 
+
+https://twitter.com/johnmcelhone8/status/1600683623250030593
+```
+How you can find the location of an object just based on a Picture of the starts!
+```
+
 https://youtu.be/4gljqNXByXA
 ```
 Future of technology. Seems really nice but I bet big companies are not letting you have something without abusing your data for their own profit
