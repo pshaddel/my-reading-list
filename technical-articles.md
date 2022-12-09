@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://hacken.io/discover/dapps-vs-smart-contracts/
+```
+Dapps vs Smart Contract
+```
+
 https://medium.com/wavesprotocol/how-to-build-your-first-blockchain-based-app-in-15-minutes-83de36826143
 ```
 Really good article about building a super simple app on Blockchain
