@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/wavesprotocol/how-to-build-your-first-blockchain-based-app-in-15-minutes-83de36826143
+```
+Really good article about building a super simple app on Blockchain
+```
+
 https://leanylabs.com/blog/js-forEach-map-reduce-vs-for-for_of/
 ```
 Benchmark, never trust any benchmark
