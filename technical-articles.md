@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/wavesprotocol/the-hitchhikers-guide-to-waves-smart-contracts-part-2-44621fd5a007
+```
+Smart Contract - Waves Part 2
+```
+
 https://medium.com/wavesprotocol/the-hitchhikers-guide-to-waves-smart-contracts-part-1-b80aa47a745a
 ```
 Smart contract - Waves
