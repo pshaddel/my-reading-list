@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/wavesprotocol/the-hitchhikers-guide-to-waves-smart-contracts-part-1-b80aa47a745a
+```
+Smart contract - Waves
+```
+
 https://hackernoon.com/decentralized-vpn-the-evolution-of-tor-hkv3uix
 ```
 Decentralized VPN
