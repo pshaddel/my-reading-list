@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://metamark.medium.com/5-unique-passive-income-ideas-how-i-make-4-580-month-4a344d6b39d4
+```
+Some Passive income
+```
 
 https://twitter.com/johnmcelhone8/status/1600683623250030593
 ```
