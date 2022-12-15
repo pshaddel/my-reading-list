@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/onclick-too-many-re-renders/
+```
+too many re-renders. React
+```
+
 https://medium.com/wavesprotocol/the-hitchhikers-guide-to-waves-smart-contracts-part-2-44621fd5a007
 ```
 Smart Contract - Waves Part 2
