@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://zapier.com/blog/better-memory/
+```
+Better Memory
+```
+
 https://www.ie-uk.com/blog/how-multiple-monitors-affects-productivity-and-wellbeing
 ```
 Multiple Monitors
