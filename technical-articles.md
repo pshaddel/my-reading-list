@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works?sponsored=0&position=6&scheduled_corpus_item_id=6f08f1de-c9fb-4ccd-bf22-4f09ba4dcded
+```
+Scientists cannot explain AI
+```
+
 https://alexsidorenko.com/blog/onclick-too-many-re-renders/
 ```
 too many re-renders. React
