@@ -1,5 +1,11 @@
 # Non-Technical Articles
 
+
+https://www.psychologytoday.com/us/blog/in-practice/202207/5-ways-almost-all-us-misunderstand-our-emotions?utm_source=pocket_saves
+```
+Emotions!!
+```
+
 https://zapier.com/blog/better-memory/
 ```
 Better Memory
