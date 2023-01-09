@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.scottantipa.com/store-app-state-in-urls
+```
+Store App State in the URL
+```
+
 https://reactjs.org/docs/conditional-rendering.html
 ```
 Conditional Rendering
