@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/better-programming/hands-on-implementation-of-the-raft-algorithm-with-typescript-27e9da32094f
+```
+Raft implementation with Typescript!
+```
+
 https://www.scottantipa.com/store-app-state-in-urls
 ```
 Store App State in the URL
