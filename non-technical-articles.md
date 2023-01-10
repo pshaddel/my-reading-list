@@ -1,5 +1,9 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/your-internet-brain/202301/need-a-break-from-it-all-try-blinking
+```
+Blinking!
+```
 
 https://www.psychologytoday.com/us/blog/in-practice/202207/5-ways-almost-all-us-misunderstand-our-emotions?utm_source=pocket_saves
 ```
