@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.economist.com/europe/2023/01/05/why-poland-loves-to-hate-germany
+```
+Why Poland hates Germany
+```
+
 https://www.psychologytoday.com/us/blog/your-internet-brain/202301/need-a-break-from-it-all-try-blinking
 ```
 Blinking!
