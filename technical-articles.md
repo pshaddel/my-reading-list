@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/react-optimize-rerenders-without-refs-memo/
+```
+Simple Optimization
+```
+
 https://medium.com/better-programming/hands-on-implementation-of-the-raft-algorithm-with-typescript-27e9da32094f
 ```
 Raft implementation with Typescript!
