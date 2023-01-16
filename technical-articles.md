@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://steveholgado.com/typescript-types-from-arrays/
+```
+Get Types From Arrays
+```
+
 https://alexsidorenko.com/blog/react-optimize-rerenders-without-refs-memo/
 ```
 Simple Optimization
