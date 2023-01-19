@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.inc.com/marcel-schwantes/6-habits-of-people-with-exceptional-mental-focus.html
+```
+How to Focus
+```
+
 https://www.healthline.com/health/treadmill-weight-loss?utm_source=pocket_reader
 ```
 Threadmill!!!
