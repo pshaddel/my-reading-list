@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives
+```
+Blade Servers
+```
+
 https://steveholgado.com/typescript-types-from-arrays/
 ```
 Get Types From Arrays
