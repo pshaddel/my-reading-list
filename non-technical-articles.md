@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health/fitness/female-hormones-exercise
+```
+Female Hormones are important if you want to workout as a woman
+```
+
 https://www.inc.com/marcel-schwantes/6-habits-of-people-with-exceptional-mental-focus.html
 ```
 How to Focus
