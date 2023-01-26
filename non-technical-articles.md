@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health/fitness/the-cortisol-creep
+```
+do not do too much HIIT!
+```
+
 https://www.healthline.com/health/fitness/female-hormones-exercise
 ```
 Female Hormones are important if you want to workout as a woman
