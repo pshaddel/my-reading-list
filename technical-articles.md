@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://tomaszs2.medium.com/java-19-is-a-game-changer-21f5f48d239b
+```
+JAVA version 19 - jest checking what is going on in other languages!
+```
+
 https://medium.com/revolut/best-practices-for-unit-testing-at-revolut-45428879ca07
 ```
 Unit Tests Swift
