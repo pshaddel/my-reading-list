@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@hnasr/dont-make-your-apis-simple-377e60ae8840
+```
+Dont Make Your APIs Simple!
+```
+
 https://tomaszs2.medium.com/java-19-is-a-game-changer-21f5f48d239b
 ```
 JAVA version 19 - jest checking what is going on in other languages!
