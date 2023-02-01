@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/react-render-children-prop/
+```
+How to prevent rerenders by using children!
+```
+
 https://medium.com/@hnasr/dont-make-your-apis-simple-377e60ae8840
 ```
 Dont Make Your APIs Simple!
