@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.forbes.com/sites/bernardmarr/2023/01/30/the-real-reasons-for-big-tech-layoffs-at-google-microsoft-meta-and-amazon/?sh=f42e2e32b67d
+```
+US big tech layoffs
+```
+
 https://www.healthline.com/health/fitness/the-cortisol-creep
 ```
 do not do too much HIIT!
