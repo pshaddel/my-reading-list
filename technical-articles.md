@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://inveritasoft.com/blog/flutter-vs-react-native-vs-native-deep-performance-comparison
+```
+Flutter vs RN vs Native
+```
+
 https://alexsidorenko.com/blog/react-render-children-prop/
 ```
 How to prevent rerenders by using children!
