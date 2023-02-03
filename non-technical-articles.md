@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://bigthink.com/the-present/global-love-study/
+```
+Love Study
+```
+
 https://www.nytimes.com/2022/07/06/well/mind/memory-loss-prevention.html?utm_source=pocket_collection_story
 ```
 Memory Loss Prevention
