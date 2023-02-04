@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://qurjili.com/2023/01/23/mastering-code-complexity-tips-and-techniques-for-measuring-and-reducing-cyclomatic-and-cognitive-complexity/
+```
+Cyclomatic Complexity vs Cognitive Complexity
+```
+
 https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure
 ```
 Vercel infra
