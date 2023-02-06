@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://t3n.de/news/programmiersprachen-ranking-javascript-gewinnt-das-rennen-1507969/
+```
+Program Rankings
+```
+
 https://qurjili.com/2023/01/23/mastering-code-complexity-tips-and-techniques-for-measuring-and-reducing-cyclomatic-and-cognitive-complexity/
 ```
 Cyclomatic Complexity vs Cognitive Complexity
