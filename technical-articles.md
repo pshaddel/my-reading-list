@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/
+```
+When to use arrow function
+```
+
 https://t3n.de/news/programmiersprachen-ranking-javascript-gewinnt-das-rennen-1507969/
 ```
 Program Rankings
