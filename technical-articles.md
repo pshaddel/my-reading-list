@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/
+```
+By far one of the best articles!
+```
+
 https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/
 ```
 When to use arrow function
