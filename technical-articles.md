@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dmitripavlutin.com/typescript-function-overloading
+```
+TS Function Overload
+```
+
 https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/
 ```
 By far one of the best articles!
