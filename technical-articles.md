@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.youtube.com/watch?v=hxGOiiR9ZKg&ab_channel=CodeAesthetic
+```
+Composition over inheritence: The Flaws of Inheritance
+```
+
 https://dmitripavlutin.com/typescript-function-overloading
 ```
 TS Function Overload
