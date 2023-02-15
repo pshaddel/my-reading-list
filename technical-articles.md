@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://laravel-news.com/laravel-10
+```
+Laravel 10
+```
+
 https://tomaszs2.medium.com/java-19-is-a-game-changer-21f5f48d239b
 ```
 Java 19
