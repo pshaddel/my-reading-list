@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://tomaszs2.medium.com/java-19-is-a-game-changer-21f5f48d239b
+```
+Java 19
+```
+
 https://www.youtube.com/watch?v=hxGOiiR9ZKg&ab_channel=CodeAesthetic
 ```
 Composition over inheritence: The Flaws of Inheritance
