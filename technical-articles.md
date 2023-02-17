@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://hackernoon.com/git-branch-naming-convention-7-best-practices-to-follow-1c2l33g2
+```
+Branch Naming Convention
+```
+
 https://laravel-news.com/laravel-10
 ```
 Laravel 10
