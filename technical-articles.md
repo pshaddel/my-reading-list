@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://medium.com/javascript-in-plain-english/clean-code-in-typescript-a183d43f3bf0
+```
+Dos and Donts js ts
+```
 https://dev.to/couchcamote/git-branching-name-convention-cch
 ```
 Conventional Branch Name
