@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.gamestar.de/artikel/google-chrome-tabs-schliessen,3390778.html
+```
+Chrome implemented a feature from Brave
+```
+
 https://www.healthline.com/health-news/why-people-love-chocolate-its-how-it-melts-in-the-mouth
 ```
 Why we love Chocolate?
