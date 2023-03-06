@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://tftn.substack.com/p/tft-9-meaningful-structures
+```
+Meaningful Structures
+```
+
 https://www.heise.de/news/JavaScript-TypeScript-Inkrementelles-Turborepo-beherrscht-den-Workspace-7525665.html
 ```
 Turbo incremental compile
