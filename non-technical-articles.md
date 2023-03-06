@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicalnewstoday.com/articles/cancer-causing-foods
+```
+Cancer Causing Foods and Anti Cancer Causing Foods
+```
+
 https://www.gamestar.de/artikel/google-chrome-tabs-schliessen,3390778.html
 ```
 Chrome implemented a feature from Brave
