@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicalnewstoday.com/articles/what-part-of-the-brain-is-affected-by-schizophrenia
+```
+Schizophrenia why how what!
+```
+
 https://www.medicalnewstoday.com/articles/cancer-causing-foods
 ```
 Cancer Causing Foods and Anti Cancer Causing Foods
