@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.matthewgerstman.com/tech/ts-tricks-type-guards/
+```
+TS runtime typeguard
+```
+
 https://tftn.substack.com/p/tft-9-meaningful-structures
 ```
 Meaningful Structures
