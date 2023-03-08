@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/46qnWRSR7L2eyNbMA
+```
+The Lens That Sees Its Flaws
+```
+
 https://www.medicalnewstoday.com/articles/what-part-of-the-brain-is-affected-by-schizophrenia
 ```
 Schizophrenia why how what!
