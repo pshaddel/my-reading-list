@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health-news/my-doctor-prescribed-ozempic-to-help-me-lose-weight-heres-how-its-going
+```
+Ozempic for diabet type 2
+```
+
 https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/46qnWRSR7L2eyNbMA
 ```
 The Lens That Sees Its Flaws
