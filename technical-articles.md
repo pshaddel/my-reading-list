@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/actitime/10-tips-on-how-developers-increase-their-productivity-3o1k
+```
+Increase Productivity
+```
+
 https://www.matthewgerstman.com/tech/ts-tricks-type-guards/
 ```
 TS runtime typeguard
