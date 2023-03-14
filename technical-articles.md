@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://javascript.plainenglish.io/say-goodbye-to-7-bad-javascript-practices-1de41ca57f0a
+```
+Mediocare Blog - A lot of hatred comments!
+```
+
 https://medium.com/better-programming/nestjs-the-good-the-bad-and-the-ugly-d51aea04f267
 ```
 Nestjs upsides and downsides
