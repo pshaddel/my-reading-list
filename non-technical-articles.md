@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicalnewstoday.com/articles/in-conversation-can-diet-help-improve-depression-symptoms
+```
+Improve Depression with Diet
+```
+
 https://www.cnbc.com/2023/03/10/85-year-harvard-happiness-study-found-the-biggest-downside-of-retirement-that-no-one-talks-about.html
 ```
 Connections matter!
