@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.nytimes.com/2023/02/10/realestate/couples-separate-bedrooms.html
+```
+Couples Separate Bedroom: Super interesting Article
+```
+
 https://www.medicalnewstoday.com/articles/in-conversation-can-diet-help-improve-depression-symptoms
 ```
 Improve Depression with Diet
