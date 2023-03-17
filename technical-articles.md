@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.lucidchart.com/blog/what-is-tribal-knowledge
+```
+What is Tribal Knowledge
+```
+
 https://medium.com/better-programming/why-api-specs-are-the-backbone-of-successful-development-ca7cbb54b266
 ```
 Whi API Spec is so important
