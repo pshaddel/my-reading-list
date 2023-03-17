@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/better-programming/why-api-specs-are-the-backbone-of-successful-development-ca7cbb54b266
+```
+Whi API Spec is so important
+```
+
 https://dev.to/swordheath/great-github-repositories-that-developers-love-1g97
 ```
 10 Nice Github Repository for Education
