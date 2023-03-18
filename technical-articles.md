@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/javascript-in-plain-english/interviewer-why-does-instanceof-object-return-true-3200d3e29383
+```
+[] instanceOf Object
+```
+
 https://www.lucidchart.com/blog/what-is-tribal-knowledge
 ```
 What is Tribal Knowledge
