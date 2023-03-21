@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health-news/exercise-may-be-more-effective-than-medication-for-managing-mental-health-what-to-know
+```
+How much Exercise affect Mental Health
+```
+
 https://www.healthline.com/health-news/why-it-may-be-harder-to-make-good-decisions-when-your-stressed
 ```
 Take stress serious. Try to cure it and not ignore it.
