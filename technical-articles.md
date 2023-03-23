@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/acidop/how-to-brand-yourself-in-9-steps-5582
+```
+How to build your own Brand
+```
+
 https://medium.com/javascript-in-plain-english/interviewer-why-does-instanceof-object-return-true-3200d3e29383
 ```
 [] instanceOf Object
