@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://humanparts.medium.com/its-been-20-years-since-we-invaded-iraq-i-am-still-in-the-desert-a10bd32d9b63
+```
+Iraq from a soldier's mouth
+```
+
 https://www.healthline.com/health-news/exercise-may-be-more-effective-than-medication-for-managing-mental-health-what-to-know
 ```
 How much Exercise affect Mental Health
