@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://youtu.be/nYYkRaU0xh8
+```
+Summary of some Human Errors
+```
+
 https://psychcentral.com/health/i-have-no-friends
 ```
 How to make new friends?
