@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.m.wikipedia.org/wiki/God_object
+```
+God Object
+```
+
 https://dev.to/acidop/how-to-brand-yourself-in-9-steps-5582
 ```
 How to build your own Brand
