@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://psychcentral.com/health/i-have-no-friends
+```
+How to make new friends?
+```
+
 https://humanparts.medium.com/its-been-20-years-since-we-invaded-iraq-i-am-still-in-the-desert-a10bd32d9b63
 ```
 Iraq from a soldier's mouth
