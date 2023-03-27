@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/wesen/llms-will-fundamentally-change-software-engineering-3oj8
+```
+LLM
+```
+
 https://en.m.wikipedia.org/wiki/God_object
 ```
 God Object
