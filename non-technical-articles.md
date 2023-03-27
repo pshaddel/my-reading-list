@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://kids.frontiersin.org/articles/10.3389/frym.2019.00019
+```
+Does poeple in coma hear you?
+```
+
 https://youtu.be/nYYkRaU0xh8
 ```
 Summary of some Human Errors
