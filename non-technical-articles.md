@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://psychcentral.com/blog/podcast-toxic-masculinity-with-mayor-of-kingstowns-tobi-bamtefa
+```
+Toxic Masculinity
+```
+
 https://kids.frontiersin.org/articles/10.3389/frym.2019.00019
 ```
 Does poeple in coma hear you?
