@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg
+```
+Repos for Typescript Enthusiasts
+```
+
 https://dev.to/wesen/llms-will-fundamentally-change-software-engineering-3oj8
 ```
 LLM
