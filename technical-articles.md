@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.developerway.com/posts/refs-from-dom-to-api
+```
+React Ref - useRef
+```
+
 https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg
 ```
 Repos for Typescript Enthusiasts
