@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health/fitness/10-ways-to-move-more#The-bottom-line
+``
+how to move more
+```
+
 https://psychcentral.com/blog/podcast-toxic-masculinity-with-mayor-of-kingstowns-tobi-bamtefa
 ```
 Toxic Masculinity
