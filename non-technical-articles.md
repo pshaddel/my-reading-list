@@ -1,7 +1,7 @@
 # Non-Technical Articles
 
 https://www.healthline.com/health/fitness/10-ways-to-move-more#The-bottom-line
-``
+```
 how to move more
 ```
 
