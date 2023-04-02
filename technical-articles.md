@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction/
+```
+Really interesting article about a big improvement in encoding videos in Instagram
+```
+
 https://www.developerway.com/posts/refs-from-dom-to-api
 ```
 React Ref - useRef
