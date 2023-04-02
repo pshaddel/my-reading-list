@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health-news/social-anxiety-odors-from-other-peoples-sweat-may-help-ease-symptoms
+```
+Effect of Odors on Anxiety
+```
+
 https://www.healthline.com/health/fitness/10-ways-to-move-more#The-bottom-line
 ```
 how to move more
