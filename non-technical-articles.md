@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.niemanlab.org/2023/02/google-now-wants-to-answer-your-questions-without-links-and-with-ai-where-does-that-leave-publishers/
+```
+google now wants to answer your questions without links and with ai where does that leave publishers
+```
+
 https://www.healthline.com/health-news/social-anxiety-odors-from-other-peoples-sweat-may-help-ease-symptoms
 ```
 Effect of Odors on Anxiety
