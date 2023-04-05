@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers/
+```
+AI Code Generators
+```
+
 https://markpash.me/blog/fa-ssh-key-identity-discovery
 ```
 Why SSH Key is too public!
