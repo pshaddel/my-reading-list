@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://techcrunch.com/2022/05/30/mintlify-taps-ai-to-automatically-generate-documentation-from-code
+```
+Supernice tool for generating documents
+```
+
 https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers/
 ```
 AI Code Generators
