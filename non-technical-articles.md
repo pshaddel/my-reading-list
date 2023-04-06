@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.forbes.com/sites/katiejennings/2023/04/03/nearly-all-us-hospital-websites-shared-data-with-third-party-trackers-in-2021-study-finds/
+```
+Data Privacy of Patients in USA
+```
+
 https://www.healthline.com/health/fitness/exercise-and-brain-research#Research-has-changed-my-love-hate-relationship-with-exercise
 ```
 Benefits of Exercise
