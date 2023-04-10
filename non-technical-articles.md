@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/in-the-name-of-love/201904/wh
+```
+psychology of noised during sex
+```
+
 https://www.youtube.com/watch?v=SwQhKFMxmDY&ab_channel=RichRoll
 ```
 Change Your Brain: Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast
