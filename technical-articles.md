@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://mimani68.medium.com/polymorphism-in-database-d6ffb0f3e30a
+```
+Polymorphism in the Database
+```
+
 https://techcrunch.com/2022/05/30/mintlify-taps-ai-to-automatically-generate-documentation-from-code
 ```
 Supernice tool for generating documents
