@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health/natural-ways-to-reduce-anxiety
+```
+Natural Ways to reduce Axiety
+```
+
 https://www.psychologytoday.com/us/blog/language-in-the-wild/202304/why-do-we-diss-womens-speech
 ```
 why poeple diss Women's speech more often
