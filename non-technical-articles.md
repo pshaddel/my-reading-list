@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/us/blog/language-in-the-wild/202304/why-do-we-diss-womens-speech
+```
+why poeple diss Women's speech more often
+```
+
 https://www.psychologytoday.com/us/blog/in-the-name-of-love/201904/wh
 ```
 psychology of noised during sex
