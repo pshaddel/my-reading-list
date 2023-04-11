@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health/emdr-therapy
+```
+EMDR Therapy
+```
+
 https://www.healthline.com/health/natural-ways-to-reduce-anxiety
 ```
 Natural Ways to reduce Axiety
