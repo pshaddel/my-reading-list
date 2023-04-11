@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://deno.com/blog/package-json-support
+```
+Package JSON support in Deno - What happens when you try to solve problems that do not exist
+```
+
 https://mimani68.medium.com/polymorphism-in-database-d6ffb0f3e30a
 ```
 Polymorphism in the Database
