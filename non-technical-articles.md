@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicalnewstoday.com/articles/could-your-native-language-have-an-impact-on-how-you-think
+```
+Brain Regions Activity based on your Native language could shape your brain!
+```
+
 https://www.healthline.com/health/emdr-therapy
 ```
 EMDR Therapy
