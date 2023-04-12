@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://bilalalghazi.medium.com/multi-lingual-data-modeling-with-mongodb-4d552bdf3b6c
+```
+Multi LAnguage Data Modeling with MongoDB
+```
+
 https://deno.com/blog/package-json-support
 ```
 Package JSON support in Deno - What happens when you try to solve problems that do not exist
