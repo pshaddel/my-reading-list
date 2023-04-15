@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw&guce_referrer_sig=AQAAAL8OKU3XFokS7uNnsQosP7kyEs03RgnOo4SqlJhE2IlhOzd3Jeul5FmvQydVFt2K9U3C1JPZ1RLQ71qTFurfPDESapT0MkUaY9MCo2wdLr-EFQLLvlmMVylqiALCLQXAz4BPoeAcoo8vSS_WO4oHlme2Z06oOyat37i6oEyh75LQ
+```
+AWS Stability AI
+```
+
 https://bilalalghazi.medium.com/multi-lingual-data-modeling-with-mongodb-4d552bdf3b6c
 ```
 Multi LAnguage Data Modeling with MongoDB
