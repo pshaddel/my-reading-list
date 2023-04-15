@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://med.stanford.edu/news/all-news/2022/08/cancer-cells-lymph-nodes.html
+```
+Cancer Cells Lymph Nodes
+```
+
 https://www.medicalnewstoday.com/articles/could-your-native-language-have-an-impact-on-how-you-think
 ```
 Brain Regions Activity based on your Native language could shape your brain!
