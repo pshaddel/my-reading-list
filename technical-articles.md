@@ -1,6 +1,10 @@
 # Technical Articles
 
-https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw&guce_referrer_sig=AQAAAL8OKU3XFokS7uNnsQosP7kyEs03RgnOo4SqlJhE2IlhOzd3Jeul5FmvQydVFt2K9U3C1JPZ1RLQ71qTFurfPDESapT0MkUaY9MCo2wdLr-EFQLLvlmMVylqiALCLQXAz4BPoeAcoo8vSS_WO4oHlme2Z06oOyat37i6oEyh75LQ
+https://deno.com/blog/you-dont-need-a-build-step
+```
+Why you do not need a build step with Deno
+```
+https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/
 ```
 AWS Stability AI
 ```
