@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://deno.com/blog/build-api-express-typescript
+```
+API Express Typescript Deno
+```
+
 https://deno.com/blog/you-dont-need-a-build-step
 ```
 Why you do not need a build step with Deno
