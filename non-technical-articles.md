@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicalnewstoday.com/articles/can-spicy-food-cause-ulcers#faq
+```
+Spicy food and Ulcers
+```
+
 https://www.healthline.com/nutrition/best-ways-to-burn-fat#TOC_TITLE_HDR_15
 ```
 fat burning
