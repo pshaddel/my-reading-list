@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://app.daily.dev/posts/iFBEEqY4K
+```
+What is Tirius
+```
+
 https://deno.com/blog/build-api-express-typescript
 ```
 API Express Typescript Deno
