@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/nutrition/what-is-intermittent-fasting
+```
+intermittent fasting
+```
+
 https://www.medicalnewstoday.com/articles/can-spicy-food-cause-ulcers#faq
 ```
 Spicy food and Ulcers
