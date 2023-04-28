@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.northdownchiro.co.uk/news/barefoot-shoes-are-they-worth-the-hype/
+```
+Bare Foor Shoes
+```
+
 https://www.healthline.com/nutrition/what-is-intermittent-fasting
 ```
 intermittent fasting
