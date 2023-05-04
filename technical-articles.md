@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dzone.com/articles/mongodb-design-tips-amp-tricks
+```
+Design Tips and Tricks(really mediocare)
+```
+
 https://www.mongodb.com/docs/manual/core/transactions/
 ```
 MongoDB Transactions
