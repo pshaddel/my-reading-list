@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.psychologytoday.com/intl/blog/mood-by-microbe/202305/antibiotics-and-the-brain-its-complicated
+```
+Antibiotics => gut microbiots => brain
+```
+
 https://www.healthline.com/health-news/how-exercise-can-boost-brain-health#Physical-activity-and-the-hippocampus
 ```
 How Exeecise Boost Brain
