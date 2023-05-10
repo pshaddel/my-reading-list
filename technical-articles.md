@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://itnext.io/angular-16-is-huge-67288a3ff58b
+```
+Angular 16 new features
+```
+
 https://blog.appsignal.com/2021/11/24/7-ways-to-improve-nodejs-performance-at-scale.html
 ```
 how tp handle likes
