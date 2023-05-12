@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/react-journey
+```
+Very nice visualization of steps of React render to final result in Browser
+```
+
 https://medium.com/flutter/racing-forward-at-i-o-2023-with-flutter-and-dart-df2a8fa841ab
 ```
 Flutter and Dart 3
