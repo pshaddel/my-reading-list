@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@nvashanin/quality-attributes-in-software-architecture-3844ea482732
+```
+Quality Attributes in Software Architecture
+```
+
 https://alexsidorenko.com/react-journey
 ```
 Very nice visualization of steps of React render to final result in Browser
