@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://javascript.plainenglish.io/2-regrets-of-a-55-years-old-retired-software-engineer-4c4fafc1bd2b
+```
+Regrets of Retired Software Engineer
+```
+
 https://medium.com/@nvashanin/quality-attributes-in-software-architecture-3844ea482732
 ```
 Quality Attributes in Software Architecture
