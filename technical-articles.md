@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://event-driven.io/en/when_not_to_use_event_sourcing/?utm_source=event_sourcing_nodejs
+```
+When not to use Event Sourcing
+```
+
 https://javascript.plainenglish.io/2-regrets-of-a-55-years-old-retired-software-engineer-4c4fafc1bd2b
 ```
 Regrets of Retired Software Engineer
