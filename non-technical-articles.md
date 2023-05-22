@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.passportjs.org/packages/passport-2fa-totp/
+```
+Passport 2FA TOTP
+```
+
 https://www.healthline.com/nutrition/targeted-weight-loss#TOC_TITLE_HDR_7
 ```
 Healthline
