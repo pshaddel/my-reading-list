@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/the-end-of-screens/
+```
+End of Screens
+```
+
 https://www.passportjs.org/packages/passport-2fa-totp/
 ```
 Passport 2FA TOTP
