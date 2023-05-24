@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://hackr.io/blog/golang-vs-python
+```
+Go Lang vs Python
+```
+
 https://event-driven.io/en/when_not_to_use_event_sourcing/?utm_source=event_sourcing_nodejs
 ```
 When not to use Event Sourcing
