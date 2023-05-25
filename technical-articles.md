@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mongodb.com/developer/products/atlas/query-multiple-databases-with-atlas-data-federation/
+```
+Data Federation - Real Game Changer
+```
+
 https://hackr.io/blog/golang-vs-python
 ```
 Go Lang vs Python
