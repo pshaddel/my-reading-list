@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/engineering-manager-vs-tech-lead
+```
+Engineering Manager vs Tech Lead
+```
+
 https://www.mongodb.com/developer/products/atlas/query-multiple-databases-with-atlas-data-federation/
 ```
 Data Federation - Real Game Changer
