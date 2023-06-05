@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@hnasr/when-nodejs-i-o-blocks-327f8a36fbd4
+```
+Nodejs IO
+```
+
 https://newsletter.alexhyett.com/p/engineering-manager-vs-tech-lead
 ```
 Engineering Manager vs Tech Lead
