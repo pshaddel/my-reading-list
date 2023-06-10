@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266?trk=feed_main-feed-card_feed-article-content
+```
+nvidia 1tn
+```
+
 https://www.theguardian.com/food/2023/feb/15/the-truth-about-caffeine-how-coffee-really-affects-our-bodies
 ```
 Coffeine Affect
