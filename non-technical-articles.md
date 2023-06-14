@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/on-the-slow-productivity-of-john-wick/
+```
+Productivity out of offices
+```
+
 https://www.healthline.com/health/fitness-exercise/calories-burned-standing#takeaway
 ```
 Calories Burned Standing!
