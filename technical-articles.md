@@ -1,5 +1,12 @@
 # Technical Articles
 
+https://medium.com/deno-the-complete-reference/hello-world-performance-bun-vs-go-5581004d90e9
+```
+Good Example of How not to do Benchmark!
+
+A good website to see the benchmarks: https://programming-language-benchmarks.vercel.app/
+```
+
 https://learn.codesee.io/migrating-from-microservices-to-a-monolith/
 ```
 Back to Monolith
