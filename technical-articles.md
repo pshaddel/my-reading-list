@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf
+```
+Super interesting article about threads and event driven design
+```
+
 https://medium.com/deno-the-complete-reference/hello-world-performance-bun-vs-go-5581004d90e9
 ```
 Good Example of How not to do Benchmark!
