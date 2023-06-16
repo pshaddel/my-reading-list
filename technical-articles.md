@@ -1,5 +1,11 @@
 # Technical Articles
 
+
+https://dev.to/ondrejsevcik/20-principles-i-learned-from-10-years-of-developing-software-5354
+```
+10 lessons
+```
+
 https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf
 ```
 Super interesting article about threads and event driven design
