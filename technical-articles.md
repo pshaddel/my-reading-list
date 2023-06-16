@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/
+```
+Stealing Cryptographic keys by recording LED
+```
 
 https://dev.to/ondrejsevcik/20-principles-i-learned-from-10-years-of-developing-software-5354
 ```
