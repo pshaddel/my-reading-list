@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://newsletter.alexhyett.com/p/happiness-is
+```
+Happiness Is Having Enough!
+```
+
 https://calnewport.com/on-the-slow-productivity-of-john-wick/
 ```
 Productivity out of offices
