@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mongodb.com/community/forums/t/mongodb-cache-how-does-it-work/101929
+```
+MongoDB Cache How Does it Work? Quite simple: Keep it in RAM unless we do not have enough ram
+```
+
 https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/
 ```
 Stealing Cryptographic keys by recording LED
