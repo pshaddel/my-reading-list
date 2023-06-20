@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://github.com/prisma/prisma/discussions/9076
+```
+Mongoose VS Prisma
+```
+
 https://www.mongodb.com/community/forums/t/mongodb-cache-how-does-it-work/101929
 ```
 MongoDB Cache How Does it Work? Quite simple: Keep it in RAM unless we do not have enough ram
