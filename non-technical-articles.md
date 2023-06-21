@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.thediabetescouncil.com/side-effects-of-cutting-out-carbohydrates
+```
+Side Effects of Cutting Carbs
+```
+
 https://newsletter.alexhyett.com/p/happiness-is
 ```
 Happiness Is Having Enough!
