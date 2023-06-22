@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/
+```
+Modular Architecture in Monolith
+```
+
 https://github.com/prisma/prisma/discussions/9076
 ```
 Mongoose VS Prisma
