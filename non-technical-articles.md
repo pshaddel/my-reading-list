@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/health/sleeping-with-fan-on
+```
+Sleeping with a Fan On - Pros and Cons
+```
+
 https://www.healthline.com/health-news/meet-jennifer-davis-the-first-woman-to-receive-a-new-vaccine-for-breast-cancer
 ```
 Breast Cancer Vaccine
