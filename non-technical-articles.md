@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/when-work-didnt-follow-you-home/
+```
+When work is done no one can catch you!
+```
+
 https://greatist.com/fitness/workout-motivation
 ```
 Workout Motivation
