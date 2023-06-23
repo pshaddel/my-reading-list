@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://typeofnan.dev/partially-mocking-imports-in-jest/
+```
+Partial Mock in Jest
+```
+
 https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/
 ```
 Modular Architecture in Monolith
