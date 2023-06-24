@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicinenet.com/how_long_do_you_need_to_fast_for_autophagy/article.htm
+```
+Autophagy
+```
+
 https://www.sciencedaily.com/releases/2019/08/190827111051.htm#
 ```
 Alternate Fasting!
