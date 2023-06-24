@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.sciencedaily.com/releases/2019/08/190827111051.htm#
+```
+Alternate Fasting!
+```
+
 https://my.clevelandclinic.org/health/articles/24058-autophagy
 ```
 Autophagy
