@@ -1,6 +1,11 @@
 
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/sport/other/ultras-boss-an-bayern-star-bist-nicht-willkommen/ar-AA1d2d2H?ocid=hpmsn&cvid=b1a27f1288ae431ead0680ca1a76edd0&ei=21
+```
+Ultras-Boss an Bayern-Star: "Bist nicht willkommen!"
+```
+
 https://www.msn.com/de-at/nachrichten/other/putins-erste-videobotschaft-nach-s%C3%B6ldner-aufstand/ar-AA1d3fn2?ocid=hpmsn&cvid=1a6110813db841efa8a86f6d2e661ca7&ei=10
 ```
 News Russland
