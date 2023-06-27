@@ -1,6 +1,11 @@
 
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/nachrichten/inland/kinder-kommen-nicht-nach-hause-eltern-schlagen-alarm/ar-AA1d5m3W?ocid=msedgntp&cvid=38031f22ef044626a029bfcac9c1456c&ei=12
+```
+Kinder verlaufen
+```
+
 https://www.msn.com/de-at/nachrichten/other/strengere-regeln-f%C3%BCr-arbeitslose-mit-geringf%C3%BCgigem-zuverdienst/ar-AA1d2Boi?ocid=hpmsn&cvid=43a810d8892b485cb0fff6579f890061&ei=39
 ```
 Sprerre Arbeitslos Geld!
