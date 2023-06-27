@@ -1,6 +1,11 @@
 
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/nachrichten/other/strengere-regeln-f%C3%BCr-arbeitslose-mit-geringf%C3%BCgigem-zuverdienst/ar-AA1d2Boi?ocid=hpmsn&cvid=43a810d8892b485cb0fff6579f890061&ei=39
+```
+Sprerre Arbeitslos Geld!
+```
+
 https://www.msn.com/de-at/sport/other/ultras-boss-an-bayern-star-bist-nicht-willkommen/ar-AA1d2d2H?ocid=hpmsn&cvid=b1a27f1288ae431ead0680ca1a76edd0&ei=21
 ```
 Ultras-Boss an Bayern-Star: "Bist nicht willkommen!"
