@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://codeforgeek.com/caching-a-mongodb-database-with-redis/
+```
+Caching a MongoDB Database with Redis
+```
+
 https://newsletter.alexhyett.com/p/manage-technical-debt
 ```
 Really nice and short article that tells how to handle technical debt!
