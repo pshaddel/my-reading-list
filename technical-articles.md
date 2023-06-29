@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/manage-technical-debt
+```
+Really nice and short article that tells how to handle technical debt!
+```
+
 https://typeofnan.dev/partially-mocking-imports-in-jest/
 ```
 Partial Mock in Jest
