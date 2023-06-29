@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.prisma.io/docs/concepts/components/prisma-client/middleware/soft-delete-middleware
+```
+How to implement middelware soft delete
+```
+
 https://codeforgeek.com/caching-a-mongodb-database-with-redis/
 ```
 Caching a MongoDB Database with Redis
