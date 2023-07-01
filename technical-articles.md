@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/blog/achieve-unrivaled-speed-and-scalability-neo4j/
+```
+Scaling of neo4j
+```
+
 https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/
 ```
 Nice article related to different types of caching
