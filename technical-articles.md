@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://neo4j.com/fosdem20/
+```
+Neo4j Sharding
+```
+
 https://neo4j.com/blog/achieve-unrivaled-speed-and-scalability-neo4j/
 ```
 Scaling of neo4j
