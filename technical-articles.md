@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/ondrejsevcik/20-principles-i-learned-from-10-years-of-developing-software-5354
+```
+short and nice tipps
+```
+
 https://neo4j.com/fosdem20/
 ```
 Neo4j Sharding
