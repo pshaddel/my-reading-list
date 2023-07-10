@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/startup-vs-corporate
+```
+Startup vs Corporate
+```
+
 https://dev.to/ondrejsevcik/20-principles-i-learned-from-10-years-of-developing-software-5354
 ```
 short and nice tipps
