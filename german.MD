@@ -1,6 +1,11 @@
 
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/nachrichten/other/tirol-zw%C3%B6lfj%C3%A4hriger-motorradlenker-bei-frontal-zusammensto%C3%9F-mit-auto-schwer-verletzt/ar-AA1dKvD6?ocid=hpmsn&cvid=26049b378b7a4572945294ed076bfea8&ei=20
+```
+Junge zusammenstosse mit dem Auto
+```
+
 https://www.msn.com/de-at/nachrichten/inland/kinder-kommen-nicht-nach-hause-eltern-schlagen-alarm/ar-AA1d5m3W?ocid=msedgntp&cvid=38031f22ef044626a029bfcac9c1456c&ei=12
 ```
 Kinder verlaufen
