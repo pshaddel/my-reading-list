@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.quora.com/Do-software-engineer-interns-write-bad-code
+```
+Nice experience sharing
+```
+
 https://newsletter.alexhyett.com/p/startup-vs-corporate
 ```
 Startup vs Corporate
