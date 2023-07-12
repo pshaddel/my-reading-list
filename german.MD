@@ -1,6 +1,9 @@
-
 German News - Article - Story or Anything that I read for learning!
 
+https://brutkasten.com/artikel/twitter-blockiert-links-zu-neuer-meta-plattform-threads
+```
+twitter-blockiert-links-zu-neuer-meta-plattform-threads
+```
 https://www.msn.com/de-at/nachrichten/other/tirol-zw%C3%B6lfj%C3%A4hriger-motorradlenker-bei-frontal-zusammensto%C3%9F-mit-auto-schwer-verletzt/ar-AA1dKvD6?ocid=hpmsn&cvid=26049b378b7a4572945294ed076bfea8&ei=20
 ```
 Junge zusammenstosse mit dem Auto
