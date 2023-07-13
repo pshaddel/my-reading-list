@@ -1,5 +1,10 @@
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/nachrichten/kultur/schriftsteller-milan-kundera-ist-mit-94-jahren-gestorben/ar-AA1dKYLa
+```
+Milan Kundera
+```
+
 https://brutkasten.com/artikel/twitter-blockiert-links-zu-neuer-meta-plattform-threads
 ```
 twitter-blockiert-links-zu-neuer-meta-plattform-threads
