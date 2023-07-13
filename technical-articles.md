@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32
+```
+What you should not do in conditions!
+```
+
 https://www.quora.com/Do-software-engineer-interns-write-bad-code
 ```
 Nice experience sharing
