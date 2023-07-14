@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/somedood/please-don-t-nest-promises-3o1o
+```
+Please do not nest promises!
+```
+
 https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32
 ```
 What you should not do in conditions!
