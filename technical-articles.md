@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/market-tough-junior-engineers
+```
+Market is Tough for Junior Engineers
+```
+
 https://dev.to/somedood/please-don-t-nest-promises-3o1o
 ```
 Please do not nest promises!
