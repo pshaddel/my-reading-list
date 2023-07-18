@@ -1,5 +1,10 @@
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/nachrichten/other/putin-zeigt-der-welt-die-z%C3%A4hne/ar-AA1e020v?ocid=msedgntp&cvid=ed74af42b92d40af8596d67202e54017&ei=12
+```
+Russland
+```
+
 https://www.msn.com/de-at/nachrichten/kultur/schriftsteller-milan-kundera-ist-mit-94-jahren-gestorben/ar-AA1dKYLa
 ```
 Milan Kundera
