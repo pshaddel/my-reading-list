@@ -1,5 +1,10 @@
 German News - Article - Story or Anything that I read for learning!
 
+https://www.derstandard.at/story/3000000179497
+```
+News
+```
+
 https://www.msn.com/de-at/nachrichten/other/putin-zeigt-der-welt-die-z%C3%A4hne/ar-AA1e020v?ocid=msedgntp&cvid=ed74af42b92d40af8596d67202e54017&ei=12
 ```
 Russland
