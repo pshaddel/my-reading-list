@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/cohaven/how-to-professionally-pivot-to-a-different-language-stack-36lj
+```
+Tech Stack Pivot
+```
+
 https://newsletter.alexhyett.com/p/market-tough-junior-engineers
 ```
 Market is Tough for Junior Engineers
