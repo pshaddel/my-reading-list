@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/lessons-learned-developer-creator?utm_source=post-email-title&publication_id=1114269&post_id=135274588&isFreemail=true&utm_medium=email
+```
+Lessons Learned as Developer switching to be a Content Creator
+```
+
 https://trilon.io/blog/nestjs-metadata-deep-dive
 ```
 Meta Data Reflect API
