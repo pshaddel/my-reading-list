@@ -1,5 +1,15 @@
 # Non-Technical Articles
 
+https://www.bswhealth.com/blog/6-simple-ways-to-prevent-blood-sugar-spikes-after-meals
+```
+Sugar Spikes
+```
+
+https://www.verywellhealth.com/glycemic-index-chart-for-common-foods-1087476
+```
+GI
+```
+
 https://www.healthline.com/health/exercise-fitness/kyphosis-exercises
 ```
 Hunchback Fix
