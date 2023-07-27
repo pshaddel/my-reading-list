@@ -5,7 +5,7 @@ https://www.onpoint-nutrition.com/blog/glycemic-index-food-list
 Glycemic Index
 ```
 
-hts://www.bswhealth.com/blog/6-simple-ways-to-prevent-blood-sugar-spikes-after-meals
+https://www.bswhealth.com/blog/6-simple-ways-to-prevent-blood-sugar-spikes-after-meals
 ```
 Sugar Spikes
 ```
