@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/nutrition/22-high-fiber-foods#faq
+```
+22 High Fiber
+```
+
 https://www.onpoint-nutrition.com/blog/glycemic-index-food-list
 ```
 Glycemic Index
