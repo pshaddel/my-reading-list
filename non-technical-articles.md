@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.reddit.com/r/Fitness/comments/g1sc7/casein_protein_and_intermittent_fasting/
+```
+Is it good to consume Caseine alongisde fasting?
+```
+
 https://www.healthline.com/nutrition/22-high-fiber-foods#faq
 ```
 22 High Fiber
