@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.progressivehealth.com/range-tsh.htm
+```
+Range! TSH
+```
+
 https://www.reddit.com/r/Fitness/comments/g1sc7/casein_protein_and_intermittent_fasting/
 ```
 Is it good to consume Caseine alongisde fasting?
