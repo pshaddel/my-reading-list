@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/nutrition/ways-to-lower-cortisol
+```
+How to Lower Cortisal
+```
+
 https://www.progressivehealth.com/range-tsh.htm
 ```
 Range! TSH
