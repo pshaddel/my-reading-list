@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://redis.com/blog/redisgraph-eol/
+```
+Redis GraphQL is ended!
+```
+
 https://github.com/readme/guides/github-codespaces-duolingo
 ```
 Dulingo is using CodeSpaces
