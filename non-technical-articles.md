@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://tim.blog/2013/12/23/one-month-with-no-phone-how-to-go-phoneless-in-a-major-us-city/
+```
+One Month with no Phone!
+```
+
 https://www.healthline.com/nutrition/guayusa
 ```
 Guayusa
