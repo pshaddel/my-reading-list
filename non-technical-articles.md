@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/edsger-dijkstras-one-day-workweek/
+```
+Life of Dijkstra, Being Busy is not Productive!
+```
+
 https://tim.blog/2013/12/23/one-month-with-no-phone-how-to-go-phoneless-in-a-major-us-city/
 ```
 One Month with no Phone!
