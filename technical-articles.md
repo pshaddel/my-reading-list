@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@hnasr/senior-software-engineers-dont-dismiss-the-junior-s-idea-23f2e23a6f28
+```
+Short but profound!
+```
+
 https://redis.com/blog/redisgraph-eol/
 ```
 Redis GraphQL is ended!
