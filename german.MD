@@ -1,5 +1,10 @@
 German News - Article - Story or Anything that I read for learning!
 
+https://www.derstandard.at/story/3000000181901/influencerinnen-keine-echten-menschen
+```
+KI Models und Influencerin
+```
+
 https://www.derstandard.at/story/3000000179497
 ```
 News
