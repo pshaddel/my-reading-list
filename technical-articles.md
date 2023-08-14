@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/should-software-engineers-learn-devops
+```
+Why You Need to Learn Devops
+```
+
 https://newsletter.alexhyett.com/p/what-happened-to-the-remote-working?utm_source=post-email-title&publication_id=1114269&post_id=135685326&isFreemail=true&utm_medium=email
 ```
 Alex Hyett = What happened to Remote Work!
