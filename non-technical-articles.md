@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://stephanjoppich.substack.com/p/dopamine-nation-conclusion?utm_source=post-email-title&publication_id=1685445&post_id=135987653&isFreemail=true&utm_medium=email
+```
+Fantastic Article about Balance!
+```
+
 https://stephanjoppich.substack.com/p/dopamine-nation-chapter-9?utm_source=post-email-title&publication_id=1685445&post_id=135826315&isFreemail=true&utm_medium=email
 ```
 Dopamine Nation Chapter 9 Shy
