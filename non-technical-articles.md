@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/
+```
+Day Time Blocks
+```
+
 https://medium.com/@hnasr/the-trap-of-learning-2b8de2734bf
 ```
 The trap of learning: FOMO in software engineering
