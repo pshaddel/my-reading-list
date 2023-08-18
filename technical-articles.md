@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con
+```
+What is the difference between a terminal - Shell - TTY - Con
+```
+
 https://newsletter.alexhyett.com/p/should-software-engineers-learn-devops
 ```
 Why You Need to Learn Devops
