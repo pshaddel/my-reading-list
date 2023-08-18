@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://medium.com/@hnasr/the-trap-of-learning-2b8de2734bf
+```
+The trap of learning: FOMO in software engineering
+```
+
 https://stephanjoppich.substack.com/p/dopamine-nation-conclusion?utm_source=post-email-title&publication_id=1685445&post_id=135987653&isFreemail=true&utm_medium=email
 ```
 Fantastic Article about Balance!
