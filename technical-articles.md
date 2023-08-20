@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/Child_process
+```
+Child Process in Linux
+```
+
 https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con
 ```
 What is the difference between a terminal - Shell - TTY - Console
