@@ -1,4 +1,5 @@
 # Books
+* [Thinking Slow and Fast - Daniel Kahneman](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
 * [The Tipping Point - Malcome Gladwell](https://amzn.eu/d/78CWhu7)
 * [Why Not Follow the News](https://www.amazon.com/Stop-Reading-News-information-overload/dp/1529342686)
 * [Outliers - Malcome Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
