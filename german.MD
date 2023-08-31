@@ -1,5 +1,10 @@
 German News - Article - Story or Anything that I read for learning!
 
+https://www.msn.com/de-at/nachrichten/politik/mieterh%C3%B6hung-soll-nur-einmal-im-jahr-maximal-f%C3%BCnf-prozent-betragen/ar-AA1fYrJM
+```
+Mieter in Oesterreich
+```
+
 https://www.msn.com/de-at/nachrichten/politik/72-prozent-der-sozialleistungsbetr%C3%BCger-sind-ausl%C3%A4ndische-staatsb%C3%BCrger/ar-AA1eZKoT?bncnt=BroadcastNews_BreakingNews&ocid=UCPNC2&FORM=BNC001&cvid=d7a0a907d286492f9d75adfeb9fb4dbf&ei=10
 ```
 72-prozent-der-sozialleistungsbetr
