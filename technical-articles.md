@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://basarat.gitbook.io/typescript/main-1/defaultisbad
+```
+Why you should not use Default Export!
+```
+
 https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-locally-npm-link-4hoj
 ```
 Npm Link
