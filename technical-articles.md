@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://punchpicks.medium.com/rest-api-design-antipatterns-76a52e1376c2
+```
+REST API Antipattern
+```
+
 https://basarat.gitbook.io/typescript/main-1/defaultisbad
 ```
 Why you should not use Default Export!
