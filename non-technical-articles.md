@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://newsletter.alexhyett.com/p/5-hard-skills-that-will-pay-off-forever
+```
+Great Hard Skills
+```
+
 https://calnewport.com/we-dont-need-a-new-twitter/
 ```
 We do not need a new Tweeter. 
