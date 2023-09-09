@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html
+```
+Advantages of Clouds
+```
+
 https://punchpicks.medium.com/rest-api-design-antipatterns-76a52e1376c2
 ```
 REST API Antipattern
