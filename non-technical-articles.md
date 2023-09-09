@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://medium.com/@rezamahdavi711/revealing-the-mystery-spacetimes-evolution-in-quantum-gravity-f6543a66e09c
+```
+Gravity
+```
+
 https://newsletter.alexhyett.com/p/5-hard-skills-that-will-pay-off-forever
 ```
 Great Hard Skills
