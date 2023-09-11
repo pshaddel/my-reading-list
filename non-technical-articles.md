@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://dev.to/ileriayo/becoming-a-cloud-engineer-in-2023-a-roadmap-1f6k
+```
+How to be a Cloud Engineer
+```
+
 https://medium.com/@rezamahdavi711/revealing-the-mystery-spacetimes-evolution-in-quantum-gravity-f6543a66e09c
 ```
 Gravity
