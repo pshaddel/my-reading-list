@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/endeavourmonk/nodejs-path-module-16fm
+```
+Nodejs path module methods review
+```
+
 https://dev.to/tienbku/docker-nodejs-and-mongodb-example-doc
 ```
 Simple Article for Beginners
