@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://dev.to/github20k/medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1
+```
+Comparing Platforms for Blog
+```
+
 https://dev.to/ileriayo/becoming-a-cloud-engineer-in-2023-a-roadmap-1f6k
 ```
 How to be a Cloud Engineer
