@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.turing.com/blog/programmer-imposter-syndrome-tips/
+```
+Imposter Syndrom
+```
+
 https://dev.to/github20k/medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1
 ```
 Comparing Platforms for Blog
