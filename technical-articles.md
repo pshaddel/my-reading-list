@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/jdgamble555/database-review-top-five-missing-features-from-database-apis-5ah8
+```
+Database API Review
+```
+
 https://dev.to/devshefali/4-types-of-javascript-operators-you-must-know-about-542f
 ```
 Different kinds of Operators
