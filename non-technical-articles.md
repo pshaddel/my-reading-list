@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://en.wikipedia.org/wiki/Not_invented_here
+```
+Not Invented Here Bias
+```
+
 https://www.turing.com/blog/programmer-imposter-syndrome-tips/
 ```
 Imposter Syndrom
