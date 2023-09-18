@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j
+```
+Best Article about Bunjs
+```
+
 https://dev.to/jdgamble555/database-review-top-five-missing-features-from-database-apis-5ah8
 ```
 Database API Review
