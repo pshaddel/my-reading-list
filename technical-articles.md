@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://typeofnan.dev/partially-mocking-imports-in-jest/
+```
+Partially Mocking in Jest!
+```
+
 https://react.dev/learn/render-and-commit
 ```
 Render and Commit
