@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@amirm.lavasani/design-patterns-in-python-factory-method-1882d9a06cb4
+```
+Design Patterns in Python Factory Method
+```
+
 https://typeofnan.dev/partially-mocking-imports-in-jest/
 ```
 Partially Mocking in Jest!
