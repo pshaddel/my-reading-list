@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://react.dev/learn/render-and-commit
+```
+Render and Commit
+```
+
 https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j
 ```
 Best Article about Bunjs
