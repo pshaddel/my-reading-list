@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.derstandard.at/story/3000000188275/wo-grossbritannien-deutschland-frankreich-china-und-die-usa-bei-der-e-wende-stehen
+```
+E-Cars 
+```
+
 https://en.wikipedia.org/wiki/Not_invented_here
 ```
 Not Invented Here Bias
