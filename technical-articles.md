@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/why-software-developers-quit
+```
+Why Software Developers Quit?
+```
+
 https://medium.com/@amirm.lavasani/design-patterns-in-python-factory-method-1882d9a06cb4
 ```
 Design Patterns in Python Factory Method
