@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://stephanjoppich.substack.com/p/siddhartha-chapter-1
+```
+Siddhartha Chapter 1: The Brahmin's Son
+```
+
 https://www.derstandard.at/story/3000000188275/wo-grossbritannien-deutschland-frankreich-china-und-die-usa-bei-der-e-wende-stehen
 ```
 E-Cars 
