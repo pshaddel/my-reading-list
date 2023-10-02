@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh
+```
+A Bit Debatable but worth reading once
+```
+
 https://newsletter.alexhyett.com/p/root-cause-analysis
 ```
 Root Cause Analysis
