@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/root-cause-analysis
+```
+Root Cause Analysis
+```
+
 https://newsletter.alexhyett.com/p/why-software-developers-quit
 ```
 Why Software Developers Quit?
