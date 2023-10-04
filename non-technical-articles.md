@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.freecodecamp.org/news/linkedin-profile-optimization/
+```
+How to Optimize your LinkedIn
+```
+
 https://calnewport.com/on-tire-pressure-and-productivity/
 ```
 On Tire Pressure and Productivity
