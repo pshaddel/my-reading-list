@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/gfish94/brainjs-for-beginners-1g77
+```
+Brain JS
+```
+
 https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh
 ```
 A Bit Debatable but worth reading once
