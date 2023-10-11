@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/aws-builders/how-i-passed-the-aws-certified-solutions-architect-associate-exam-saa-c02-3422
+```
+Solution Architect
+```
+
 https://dev.to/gfish94/brainjs-for-beginners-1g77
 ```
 Brain JS
