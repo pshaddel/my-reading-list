@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://sourcemaking.com/design_patterns/mediator
+```
+Mediator Pattern
+```
+
 https://dev.to/melvin2016/how-to-easily-make-a-new-type-by-removing-or-excluding-certain-values-from-a-union-type-in-typescript-1f7n
 ```
 Exclude a type from union
