@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://greatergood.berkeley.edu/article/item/eight_lessons_from_my_research_on_creativity
+```
+Creativity Lessons
+```
+
 https://www.freecodecamp.org/news/linkedin-profile-optimization/
 ```
 How to Optimize your LinkedIn
