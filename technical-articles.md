@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/melvin2016/how-to-easily-make-a-new-type-by-removing-or-excluding-certain-values-from-a-union-type-in-typescript-1f7n
+```
+Exclude a type from union
+```
+
 https://v8.dev/blog/array-sort
 ```
 Sort Array V8
