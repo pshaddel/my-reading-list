@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/passportjs/fixing-session-fixation-b2b68619c51d
+```
+Session Fixation
+```
+
 https://sourcemaking.com/design_patterns/mediator
 ```
 Mediator Pattern
