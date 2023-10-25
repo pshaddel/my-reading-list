@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://ermiaqasemi.me/scaling-your-rds-databases-with-rds-proxy-0fc5eb5c6626
+```
+AWS RDS Proxy
+```
+
 https://medium.com/passportjs/fixing-session-fixation-b2b68619c51d
 ```
 Session Fixation
