@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.epicweb.dev/why-i-wont-use-nextjs?trk=feed_main-feed-card_feed-article-content
+```
+Why I wont use Nextjs = Really nice informing article
+```
+
 https://ermiaqasemi.me/scaling-your-rds-databases-with-rds-proxy-0fc5eb5c6626
 ```
 AWS RDS Proxy
