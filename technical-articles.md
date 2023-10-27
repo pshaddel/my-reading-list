@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/
+```
+Github Readme Page Tips
+```
+
 https://www.epicweb.dev/why-i-wont-use-nextjs?trk=feed_main-feed-card_feed-article-content
 ```
 Why I wont use Nextjs = Really nice informing article
