@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/protecting-privacy-software-developers
+```
+Protecting Privacy as Software Developers
+```
+
 https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/
 ```
 Github Readme Page Tips
