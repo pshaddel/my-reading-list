@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/the-quiet-workflow-revolution/
+```
+Quite Workflow Revolution
+```
+
 https://greatergood.berkeley.edu/article/item/eight_lessons_from_my_research_on_creativity
 ```
 Creativity Lessons
