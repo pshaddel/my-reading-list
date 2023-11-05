@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.makeuseof.com/tag/your-smartphone-listening-or-coincidence/
+```
+Your Smartphone Listening or not?
+```
+
 https://calnewport.com/the-quiet-workflow-revolution/
 ```
 Quite Workflow Revolution
