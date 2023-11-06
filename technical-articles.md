@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/the-art-of-abstractions
+```
+The Art of Abstraction
+```
+
 https://learnsql.com/blog/when-to-use-cte/
 ```
 When to use CTE(It is more or less like a stage in aggregation pipeline of MongoDB)
