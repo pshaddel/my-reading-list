@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://learnsql.com/blog/when-to-use-cte/
+```
+When to use CTE(It is more or less like a stage in aggregation pipeline of MongoDB)
+```
+
 https://newsletter.alexhyett.com/p/protecting-privacy-software-developers
 ```
 Protecting Privacy as Software Developers
