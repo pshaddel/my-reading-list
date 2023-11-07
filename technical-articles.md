@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.pragmaticengineer.com/p/software-engineers-guidebook
+```
+A Book that you might want to read
+```
+
 https://newsletter.alexhyett.com/p/the-art-of-abstractions
 ```
 The Art of Abstraction
