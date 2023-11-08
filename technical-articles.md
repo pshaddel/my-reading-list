@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dgraph.io/blog/post/20231106-dgraph-part-of-hypermode
+```
+Dgraph Joining Hypermode
+```
+
 https://newsletter.pragmaticengineer.com/p/software-engineers-guidebook
 ```
 A Book that you might want to read
