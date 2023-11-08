@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/List_of_Java_keywords
+```
+Java Keywords
+```
+
 https://dgraph.io/blog/post/20231106-dgraph-part-of-hypermode
 ```
 Dgraph Joining Hypermode
