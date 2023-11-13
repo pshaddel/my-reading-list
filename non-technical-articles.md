@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/should-this-meeting-have-been-an-email/
+```
+Should this meeting have been an email?
+```
+
 https://www.insider.com/guides/health/does-chamomile-tea-make-you-sleepy
 ```
 Chamomile Tee Before Bed
