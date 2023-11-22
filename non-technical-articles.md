@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://stephanjoppich.substack.com/p/siddhartha-chapter-6-amongst-the-people
+```
+among the people, nice words about work!
+```
+
 https://calnewport.com/should-this-meeting-have-been-an-email/
 ```
 Should this meeting have been an email?
