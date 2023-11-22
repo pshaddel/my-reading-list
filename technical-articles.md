@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://html-first.com/
+```
+Sometimes we forget, how beautiful is raw HTML
+```
+
 https://newsletter.alexhyett.com/p/open-source-an-antidote-to-closed-source
 ```
 Close Source - Open Source pros cons
