@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/open-source-an-antidote-to-closed-source
+```
+Close Source - Open Source pros cons
+```
+
 https://web.dev/articles/ta-types
 ```
 All about tests
