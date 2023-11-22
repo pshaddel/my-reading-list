@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@william.b/i-built-a-raw-html-website-with-no-frameworks-heres-what-i-learned-407249be2137
+```
+Raw
+```
+
 https://html-first.com/
 ```
 Sometimes we forget, how beautiful is raw HTML
