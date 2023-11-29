@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/
+```
+New Era in Social Media
+```
+
 https://newsletter.alexhyett.com/p/secret-to-consistency
 ```
 Secret to Consistency
