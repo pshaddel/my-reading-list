@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/big_smoke/10-advanced-javascript-tricks-you-should-know--1ofj
+```
+JS Concepts in a nutshell
+```
+
 https://medium.com/@william.b/i-built-a-raw-html-website-with-no-frameworks-heres-what-i-learned-407249be2137
 ```
 Raw
