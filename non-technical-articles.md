@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://newsletter.alexhyett.com/p/secret-to-consistency
+```
+Secret to Consistency
+```
+
 https://stephanjoppich.substack.com/p/siddhartha-chapter-6-amongst-the-people
 ```
 among the people, nice words about work!
