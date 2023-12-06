@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0
+```
+Handle Fetch Errors!
+```
+
 https://dev.to/big_smoke/10-advanced-javascript-tricks-you-should-know--1ofj
 ```
 JS Concepts in a nutshell
