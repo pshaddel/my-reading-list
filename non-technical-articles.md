@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://stephanjoppich.substack.com/p/siddhartha-chapter-8-by-the-river
+```
+Dopamine | The anhedonia of overindulgence
+```
+
 https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/
 ```
 New Era in Social Media
