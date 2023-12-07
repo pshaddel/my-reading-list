@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://cult.honeypot.io/reads/how-to-build-a-personal-brand-as-developer/?ref=dailydev
+```
+Personal Branding As Developer
+```
+
 https://stephanjoppich.substack.com/p/siddhartha-chapter-8-by-the-river
 ```
 Dopamine | The anhedonia of overindulgence
