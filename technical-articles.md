@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/?ref=dailydev
+```
+New Changes in Javascript
+```
+
 https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0
 ```
 Handle Fetch Errors!
