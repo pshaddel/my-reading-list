@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02
+```
+Jobs that could be replaced by AI
+```
+
 https://cult.honeypot.io/reads/how-to-build-a-personal-brand-as-developer/?ref=dailydev
 ```
 Personal Branding As Developer
