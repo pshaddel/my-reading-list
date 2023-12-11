@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/seo-101-for-software-developers
+```
+SEO 101
+```
+
 https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/?ref=dailydev
 ```
 New Changes in Javascript
