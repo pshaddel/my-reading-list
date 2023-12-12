@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stability.ai/news/stablelm-zephyr-3b-stability-llm
+```
+Free Compact Model
+```
+
 https://jjtech.dev/reverse-engineering/imessage-explained/
 ```
 imessage how it works!
