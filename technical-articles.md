@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.akitaonrails.com/2015/11/25/exmessenger-exercise-understanding-nodes-in-elixir
+```
+ExMessanger Elixir
+```
+
 https://stability.ai/news/stablelm-zephyr-3b-stability-llm
 ```
 Free Compact Model
