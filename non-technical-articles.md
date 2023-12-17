@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://outlift.com/hypertrophy-training-volume/
+```
+Hypertrophy Training 
+```
+
 https://newsletter.alexhyett.com/p/overcoming-personal-expectations
 ```
 overcoming personal expectation
