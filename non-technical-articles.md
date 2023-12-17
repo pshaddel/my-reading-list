@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://newsletter.alexhyett.com/p/overcoming-personal-expectations
+```
+overcoming personal expectation
+```
+
 https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02
 ```
 Jobs that could be replaced by AI
