@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://locker.io/blog/10-password-statistics-2022
+```
+10 Shocking Password Statistics
+```
+
 https://www.akitaonrails.com/2015/11/25/exmessenger-exercise-understanding-nodes-in-elixir
 ```
 ExMessanger Elixir
