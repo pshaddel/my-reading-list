@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.strongdm.com/blog/authentication-vulnerabilities
+```
+Authentication Vulneribilities
+```
+
 https://locker.io/blog/10-password-statistics-2022
 ```
 10 Shocking Password Statistics
