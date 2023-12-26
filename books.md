@@ -1,4 +1,6 @@
 # Books
+* [So Good They Can't Ignore You](https://www.amazon.de/-/en/Cal-Newport-ebook/dp/B01KFR64LQ)
+* [Mein verrückter Körpe](https://www.amazon.de/-/en/Adam-Kay-ebook/dp/B0987XCG6N/)
 * [Thinking Slow and Fast - Daniel Kahneman](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
 * [The Tipping Point - Malcome Gladwell](https://amzn.eu/d/78CWhu7)
 * [Why Not Follow the News](https://www.amazon.com/Stop-Reading-News-information-overload/dp/1529342686)
