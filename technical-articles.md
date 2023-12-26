@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.alexhyett.com/p/giving-back-as-a-developer
+```
+Giving Back as a Developer
+```
+
 https://www.strongdm.com/blog/authentication-vulnerabilities
 ```
 Authentication Vulneribilities
