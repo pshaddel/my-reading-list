@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6?ref=dailydev
+```
+Good Resources for Learning
+```
+
 https://newsletter.alexhyett.com/p/giving-back-as-a-developer
 ```
 Giving Back as a Developer
