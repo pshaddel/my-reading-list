@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://thenewstack.io/2024-predictions-by-javascript-frontend-framework-maintainers/
+```
+Maintainer predications
+```
+
 https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6?ref=dailydev
 ```
 Good Resources for Learning
