@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://thenewstack.io/the-end-of-programming-is-nigh
+```
+Is it coming to the end? We still have Cobol Programmers!
+```
+
 https://thenewstack.io/tech-workers-what-you-need-to-know-in-2024/
 ```
 Tech Workers
