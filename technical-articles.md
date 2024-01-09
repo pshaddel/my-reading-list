@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://mikro-orm.io/blog/mikro-orm-6-released
+```
+Mikro ORM
+```
+
 https://socket.dev/blog/when-everything-becomes-too-much
 ```
 A package that includes everything!
