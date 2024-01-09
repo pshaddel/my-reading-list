@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://socket.dev/blog/when-everything-becomes-too-much
+```
+A package that includes everything!
+```
+
 https://macarthur.me/posts/with
 ```
 Javascript With
