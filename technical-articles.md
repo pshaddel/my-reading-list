@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mayank.co/blog/react-server-components/
+```
+Super nice criticism on React
+```
+
 https://mikro-orm.io/blog/mikro-orm-6-released
 ```
 Mikro ORM
