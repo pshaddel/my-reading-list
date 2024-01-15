@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/
+```
+FSX Modern FS API
+```
+
 https://dev.to/dev_abdulhaseeb/master-javascript-1p7a
 ```
 A list of what to know to be Master of Javascript
