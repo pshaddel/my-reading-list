@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/dev_abdulhaseeb/master-javascript-1p7a
+```
+A list of what to know to be Master of Javascript
+```
+
 https://www.mayank.co/blog/react-server-components/
 ```
 Super nice criticism on React
