@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.healthline.com/nutrition/apple-cider-vinegar-dosage
+```
+Benefits of Vinegar
+```
+
 https://dev.to/flowmodor/why-pomodoro-doesnt-work-try-this-alternative-2no9?ref=dailydev
 ```
 Pomodoro does not work
