@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/wagenrace/remove-merged-branches-from-your-local-machine-5737
+```
+Remove merged branches from local
+```
+
 https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/
 ```
 FSX Modern FS API
