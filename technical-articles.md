@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.cassidoo.co/post/annoyed-at-react/
+```
+Cassidoo Annoyed at React
+```
+
 https://dev.to/wagenrace/remove-merged-branches-from-your-local-machine-5737
 ```
 Remove merged branches from local
