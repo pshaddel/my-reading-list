@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/ihssmaheel/solid-principles-its-that-easy-standout-with-solid-principles-ak0
+```
+SOLID in simple words
+```
+
 https://dev.to/matfrana/react-where-are-you-going-5284
 ```
 React Where are you going? :)
