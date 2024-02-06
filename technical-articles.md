@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/ujjawaltyagi/docker-alternative-podman-on-rise-the-future-of-devops-31i2
+```
+Podman
+```
+
 https://dev.to/ihssmaheel/solid-principles-its-that-easy-standout-with-solid-principles-ak0
 ```
 SOLID in simple words
