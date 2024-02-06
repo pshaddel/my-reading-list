@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/adaptive-shield-matrix/comment/2cil8
+```
+Nice comment about react alternatives
+```
+
 https://dev.to/ujjawaltyagi/docker-alternative-podman-on-rise-the-future-of-devops-31i2
 ```
 Podman
