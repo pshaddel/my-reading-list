@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://indianexpress.com/article/lifestyle/health/hot-food-cold-food-ayurveda-flawed-concept-8604158/
+```
+Hot and Cold Foods
+```
+
 https://www.healthline.com/nutrition/apple-cider-vinegar-dosage
 ```
 Benefits of Vinegar
