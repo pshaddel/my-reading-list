@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.wired.com/story/javascript-runs-the-world-maybe-literally/
+```
+Javascript runs the World!
+```
+
 https://dev.to/adaptive-shield-matrix/comment/2cil8
 ```
 Nice comment about react alternatives
