@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://hbr.org/2024/02/people-probably-like-you-more-than-you-think
+```
+People Like You More than you Think!
+```
+
 https://indianexpress.com/article/lifestyle/health/hot-food-cold-food-ayurveda-flawed-concept-8604158/
 ```
 Hot and Cold Foods
