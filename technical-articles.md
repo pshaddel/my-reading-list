@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0
+```
+Processing 1B rows in PHP. Really interesting approach
+```
 https://www.wired.com/story/javascript-runs-the-world-maybe-literally/
 ```
 Javascript runs the World!
