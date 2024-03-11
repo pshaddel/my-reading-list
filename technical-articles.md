@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/
+```
+SlowLoris Attack
+```
+
 https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0
 ```
 Processing 1B rows in PHP. Really interesting approach
