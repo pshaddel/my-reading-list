@@ -1,4 +1,6 @@
 # Books
+
+* [HyperFocus - Chris Bailey](https://www.amazon.de/-/en/gp/product/B07BDJ99VR)
 * [Das Resilienz](https://www.amazon.de/-/en/gp/product/B09LMQGM41/ref=ppx_yo_dt_b_d_asin_title_351_o05?ie=UTF8&psc=1)
 * [So Good They Can't Ignore You](https://www.amazon.de/-/en/Cal-Newport-ebook/dp/B01KFR64LQ)
 * [Mein verrückter Körpe](https://www.amazon.de/-/en/Adam-Kay-ebook/dp/B0987XCG6N/)
