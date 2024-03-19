@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/kpmg-uk-engineering/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0
+```
+Using Docker Init can be helpful(AI is probably better!)
+```
+
 https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets
 ```
 Future Set Functionalities
