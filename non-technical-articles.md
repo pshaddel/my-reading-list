@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.statnews.com/2024/03/19/intermittent-fasting-study-heart-risk/
+```
+Why some studies cannot be so reiliable?
+```
+
 https://hbr.org/2024/02/people-probably-like-you-more-than-you-think
 ```
 People Like You More than you Think!
