@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://medium.com/personal-growth/6-things-monks-can-teach-us-about-finding-calm-focus-and-presence-57e67b64af54
+```
+Finding Calm and Focus with Monks
+```
+
 https://www.statnews.com/2024/03/19/intermittent-fasting-study-heart-risk/
 ```
 Why some studies cannot be so reiliable?
