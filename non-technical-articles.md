@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.nytimes.com/2024/01/23/well/smartphone-walking-posture-mood.html
+```
+Smartphone Walking Posture
+```
+
 https://medium.com/personal-growth/6-things-monks-can-teach-us-about-finding-calm-focus-and-presence-57e67b64af54
 ```
 Finding Calm and Focus with Monks
