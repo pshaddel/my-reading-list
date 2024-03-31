@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/useeffect/
+```
+useEffect visualized
+```
+
 https://humanwhocodes.com/blog/2024/03/javascript-engines-runtimes/
 ```
 JS Engine vs Runtime
