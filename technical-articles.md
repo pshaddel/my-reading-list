@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
+```
+Fix Slow Render Before Fixing Re-Render
+```
+
 https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/
 ```
 Prop Drilling
