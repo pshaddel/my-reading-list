@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/
+```
+Prop Drilling
+```
+
 https://alexsidorenko.com/blog/useeffect-cleanups/
 ```
 useEffect Cleanups
