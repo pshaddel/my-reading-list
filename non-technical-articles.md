@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/can-you-tweet-your-way-to-impact/
+```
+Real Effect of Tweeter on your Work 
+```
+
 https://www.nytimes.com/2024/01/23/well/smartphone-walking-posture-mood.html
 ```
 Smartphone Walking Posture
