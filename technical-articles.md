@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://overreacted.io/before-you-memo/
+```
+Before You Memo
+```
+
 https://alexsidorenko.com/blog/react-infinite-loop/
 ```
 React Infinite Loop
