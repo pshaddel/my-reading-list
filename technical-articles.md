@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/react-infinite-loop/
+```
+React Infinite Loop
+```
+
 https://alexsidorenko.com/blog/react-list-rerender/
 ```
 How to Render a List without unneccessary Re-renders
