@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexsidorenko.com/blog/react-is-declarative-what-does-it-mean/
+```
+React is Declarative
+```
+
 https://overreacted.io/before-you-memo/
 ```
 Before You Memo
