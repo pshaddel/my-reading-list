@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/
+```
+Redis Lisence Change and Migrating to ValKey
+```
+
 https://alexsidorenko.com/blog/react-is-declarative-what-does-it-mean/
 ```
 React is Declarative
