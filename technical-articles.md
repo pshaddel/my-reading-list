@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/skillreactor/top-10-tools-every-react-developer-needs-in-2024-k2k
+```
+Tools React Developers Need
+```
+
 https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/
 ```
 Redis Lisence Change and Migrating to ValKey
