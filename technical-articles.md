@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://read.highgrowthengineer.com/p/how-to-get-deep-technical-expertise
+```
+How to get DEEP Technical Expertise
+```
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Relationship_of_grid_layout_with_other_layout_methods
 ```
 Grid VS Flex
