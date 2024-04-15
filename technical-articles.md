@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.joshwcomeau.com/react/why-react-re-renders/
+```
+Why React Re-Renders?
+```
+
 https://www.robinwieruch.de/redux-mobx/
 ```
 Redux vs MobX
