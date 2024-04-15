@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.robinwieruch.de/redux-mobx/
+```
+Redux vs MobX
+```
+
 https://read.highgrowthengineer.com/p/how-to-get-deep-technical-expertise
 ```
 How to get DEEP Technical Expertise
