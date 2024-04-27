@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mongodb.com/docs/manual/core/timeseries/timeseries-procedures/#std-label-timeseries-create-query-procedures
+```
+MongoDB Time Series
+```
+
 https://www.mongodb.com/docs/manual/core/index-hidden/
 ```
 MongoDB Hidden Index
