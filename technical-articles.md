@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.influxdata.com/blog/relational-databases-vs-time-series-databases/
+```
+Relational Database vs Time Series
+```
+
 https://www.tinybird.co/blog-posts/when-to-use-columnar-database
 ```
 When to use Columnar Database
