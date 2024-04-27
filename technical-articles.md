@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.quora.com/How-is-a-time-series-database-different-from-regular-databases
+```
+How is the time series DB different
+```
+
 https://www.mongodb.com/basics/acid-transactions
 ```
 ACID Transactions
