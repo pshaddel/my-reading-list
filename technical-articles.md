@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mongodb.com/docs/manual/core/clustered-collections/
+```
+Clustered Collections
+```
+
 https://levelup.gitconnected.com/how-mongodb-clustered-collection-can-boost-query-performance-f701fdd751ca
 ```
 How MongoDB Clustered Collection can Boost performance
