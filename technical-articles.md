@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.tinybird.co/blog-posts/what-is-a-columnar-database
+```
+What is a Columnar Database?
+```
+
 https://www.quora.com/How-is-a-time-series-database-different-from-regular-databases
 ```
 How is the time series DB different
