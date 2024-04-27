@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.tinybird.co/blog-posts/when-to-use-columnar-database
+```
+When to use Columnar Database
+```
+
 https://www.mongodb.com/docs/manual/core/timeseries/timeseries-procedures/#std-label-timeseries-create-query-procedures
 ```
 MongoDB Time Series
