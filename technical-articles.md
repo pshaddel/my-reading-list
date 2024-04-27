@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mongodb.com/docs/manual/core/index-hidden/
+```
+MongoDB Hidden Index
+```
+
 https://www.mongodb.com/docs/manual/core/clustered-collections/
 ```
 Clustered Collections
