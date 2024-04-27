@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://levelup.gitconnected.com/how-mongodb-clustered-collection-can-boost-query-performance-f701fdd751ca
+```
+How MongoDB Clustered Collection can Boost performance
+```
+
 https://www.tinybird.co/blog-posts/what-is-a-columnar-database
 ```
 What is a Columnar Database?
