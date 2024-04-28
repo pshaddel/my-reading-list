@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://brandonscript.design/making-nvm-work-with-fish-shell-in-2023-f4a7990ac12c
+```
+NVM with Fish
+```
+
 https://www.influxdata.com/blog/relational-databases-vs-time-series-databases/
 ```
 Relational Database vs Time Series
