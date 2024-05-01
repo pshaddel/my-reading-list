@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://javascript.plainenglish.io/ditch-dotenv-node-js-now-natively-supports-env-file-loading-8b9b2d49b2d2
+```
+Node 22 now handles .env files!
+```
+
 https://brandonscript.design/making-nvm-work-with-fish-shell-in-2023-f4a7990ac12c
 ```
 NVM with Fish
