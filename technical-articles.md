@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://deno.com/blog/jsr-is-not-another-package-manager
+```
+JSR another package registry which complement npm
+```
+
 https://javascript.plainenglish.io/ditch-dotenv-node-js-now-natively-supports-env-file-loading-8b9b2d49b2d2
 ```
 Node 22 now handles .env files!
