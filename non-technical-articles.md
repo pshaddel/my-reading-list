@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://stephanjoppich.substack.com/p/siddhartha-chapter-10-the-son
+```
+True Love!
+```
+
 https://www.businessinsider.com/longevity-researcher-harvard-david-sinclair-53-biological-age-decade-younger-2023-3
 ```
 David Sinclair
