@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/sardarmudassaralikhan/third-party-api-integration-best-practices-3fj7
+```
+Best Practices for API integration
+```
+
 https://deno.com/blog/jsr-is-not-another-package-manager
 ```
 JSR another package registry which complement npm
