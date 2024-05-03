@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust
+```
+Vercel always the hype!
+```
+
 https://dev.to/sardarmudassaralikhan/third-party-api-integration-best-practices-3fj7
 ```
 Best Practices for API integration
