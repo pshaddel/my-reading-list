@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.livemint.com/companies/news/google-layoffs-sundar-pichai-led-alphabets-arm-fires-entire-python-team-says-report-11714376624234.html
+```
+Google Layoffs!
+```
+
 https://stephanjoppich.substack.com/p/siddhartha-chapter-10-the-son
 ```
 True Love!
