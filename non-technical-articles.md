@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://hashnode.com/post/do-you-think-working-for-a-well-known-company-makes-you-more-valuable-ciy15ghbd000eu653nihml7pz
+```
+do-you-think-working-for-a-well-known-company-makes-you-more-valuable
+```
+
 https://www.livemint.com/companies/news/google-layoffs-sundar-pichai-led-alphabets-arm-fires-entire-python-team-says-report-11714376624234.html
 ```
 Google Layoffs!
