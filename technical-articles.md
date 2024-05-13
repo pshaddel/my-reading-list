@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/meteroid/5-lessons-learned-building-our-saas-with-rust-1doj
+```
+5-lessons-learned-building-our-saas-with-rust
+```
+
 https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust
 ```
 Vercel always the hype!
