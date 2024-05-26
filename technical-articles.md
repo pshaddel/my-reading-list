@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://linuxiac.com/oracle-abandons-terraform-in-favor-of-opentofu/
+```
+Oracle Abondons Terraform
+```
+
 https://dev.to/meteroid/5-lessons-learned-building-our-saas-with-rust-1doj
 ```
 5-lessons-learned-building-our-saas-with-rust
