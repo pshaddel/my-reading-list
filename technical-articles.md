@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://vishalrana9915.medium.com/deep-dive-into-mongodb-and-its-architecture-d6290b6d2285
+```
+Deep Dive Into MongoDB Architecture
+```
+
 https://linuxiac.com/oracle-abandons-terraform-in-favor-of-opentofu/
 ```
 Oracle Abondons Terraform
