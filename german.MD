@@ -1,5 +1,10 @@
 German News - Article - Story or Anything that I read for learning!
 
+https://www.agenda-austria.at/grafiken/jeder-dritte-zahlt-keine-einkommensteuer-mehr/
+```
+jeder dritte zahlt keine einkommensteuer
+```
+
 https://www.derstandard.at/story/3000000192521/wie-viel-kaffee-ist-zu-viel-kaffee
 ```
 Wie viel kaffee darf man trinken
