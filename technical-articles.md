@@ -1,6 +1,11 @@
 # Technical Articles
 
 
+https://snyk.io/blog/10-modern-node-js-runtime-features/
+```
+Nodejs Runtime New Features
+```
+
 https://blogs.windows.com/msedgedev/2024/05/28/an-even-faster-microsoft-edge/?trk=feed_main-feed-card_feed-article-content
 ```
 edge is moving away from React to WebUI 2
