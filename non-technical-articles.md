@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.justinwelsh.me/newsletter/your-content-is-obvious-it-shouldnt-be
+```
+Your Content is Obvious it Should not be
+```
+
 https://calnewport.com/manchester-united-embraces-pseudo-productivity/
 ```
 manchester-united-embraces-pseudo-productivity
