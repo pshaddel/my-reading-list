@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
+```
+Sharding ids at Instagram: Simple and Practical
+```
 
 https://snyk.io/blog/10-modern-node-js-runtime-features/
 ```
