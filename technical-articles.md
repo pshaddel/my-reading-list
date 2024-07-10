@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.platformatic.dev/nodejs-is-here-to-stay
+```
+Nodejs is here to stay
+```
+
 https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
 ```
 Sharding ids at Instagram: Simple and Practical
