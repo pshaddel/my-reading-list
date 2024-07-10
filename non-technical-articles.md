@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.justinwelsh.me/newsletter/the-5-4-3-2-1-formula-that-boosted-sales-by-27
+```
+Boost sale 
+```
+
 https://www.justinwelsh.me/newsletter/4-ways-to-get-instant-content-ideas-that-actually-work
 ```
 Some content ideas
