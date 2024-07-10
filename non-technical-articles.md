@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.justinwelsh.me/newsletter/4-ways-to-get-instant-content-ideas-that-actually-work
+```
+Some content ideas
+```
+
 https://www.justinwelsh.me/newsletter/your-content-is-obvious-it-shouldnt-be
 ```
 Your Content is Obvious it Should not be
