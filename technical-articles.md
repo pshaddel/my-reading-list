@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/alibahaari/what-are-thunk-and-createasyncthunk-in-redux-toolkit-59f0
+```
+Compact example of a createAsyncThunk function usage in redux
+```
+
 https://blog.platformatic.dev/nodejs-is-here-to-stay
 ```
 Nodejs is here to stay
