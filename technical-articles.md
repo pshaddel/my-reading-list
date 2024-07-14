@@ -1,5 +1,11 @@
 # Technical Articles
 
+
+https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms?trk=feed_main-feed-card_feed-article-content
+```
+how to master DSA
+```
+
 https://dev.to/alibahaari/what-are-thunk-and-createasyncthunk-in-redux-toolkit-59f0
 ```
 Compact example of a createAsyncThunk function usage in redux
