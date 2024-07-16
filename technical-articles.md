@@ -1,5 +1,9 @@
 # Technical Articles
 
+https://blog.webdevsimplified.com/2024-07/ts-5.5-changes/
+```
+TS 5.5 what's new
+```
 
 https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms?trk=feed_main-feed-card_feed-article-content
 ```
