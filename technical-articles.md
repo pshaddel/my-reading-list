@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://trigger.dev/blog/event-loop-lag
+```
+Event Loop Lag
+```
+
 https://blog.webdevsimplified.com/2024-07/ts-5.5-changes/
 ```
 TS 5.5 what's new
