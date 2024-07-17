@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://betterstack.com/community/guides/scaling-nodejs/profiling-nodejs-applications/
+```
+Profiling Nodejs
+```
+
 https://trigger.dev/blog/event-loop-lag
 ```
 Event Loop Lag
