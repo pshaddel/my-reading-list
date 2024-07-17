@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+```
+Do Not Block the Event Loop
+```
+
 https://betterstack.com/community/guides/scaling-nodejs/profiling-nodejs-applications/
 ```
 Profiling Nodejs
