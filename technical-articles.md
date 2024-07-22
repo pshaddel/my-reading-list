@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.com/questions/49672474/rabbitmq-consumer-overload
+```
+RabbitMQ Consumer Overload
+```
+
 https://www.cloudamqp.com/blog/part4-rabbitmq-13-common-errors.html
 ```
 13 Common Errors RabbitMQ
