@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.cloudamqp.com/blog/part4-rabbitmq-13-common-errors.html
+```
+13 Common Errors RabbitMQ
+```
+
 https://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
 ```
 Do Not Block the Event Loop
