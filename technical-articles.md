@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.quora.com/What-are-disadvantages-of-RabbitMQ-Message-Queues-What-if-RabbitMQ-fails-What-happens-to-the-messages
+```
+Disadvantages of RabbitMQ
+```
+
 https://stackoverflow.com/questions/49672474/rabbitmq-consumer-overload
 ```
 RabbitMQ Consumer Overload
