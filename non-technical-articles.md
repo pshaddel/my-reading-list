@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.medicalnewstoday.com/articles/318625
+```
+Foods that have no effect on blood sugar
+```
+
 https://calnewport.com/on-ultra-processed-content/
 ```
 On Ultra Processed Content and Food
