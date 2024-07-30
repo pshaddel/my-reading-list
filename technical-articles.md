@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/this-is-learning/exploring-dotenvx-46ng
+```
+Dotenvx to encrypt and decrypt
+```
+
 https://bharat619.medium.com/understanding-dependency-injection-in-nestjs-ead0fb8a8131
 ```
 Understanding DI
