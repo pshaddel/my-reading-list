@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://socket.dev/blog/node-js-adds-experimental-support-for-typescript
+```
+Nodejs Experimental Support for Typescript
+```
+
 https://dev.to/this-is-learning/exploring-dotenvx-46ng
 ```
 Dotenvx to encrypt and decrypt
