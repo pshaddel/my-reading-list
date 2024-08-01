@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.kdnuggets.com/5-tips-for-improving-sql-query-performance
+```
+5 Tips for improving sql query performance
+```
+
 https://socket.dev/blog/node-js-adds-experimental-support-for-typescript
 ```
 Nodejs Experimental Support for Typescript
