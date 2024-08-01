@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://yosua-halim.medium.com/10-react-anti-patterns-you-should-know-300256bfb007
+```
+10 React Anti Patterns You Should Know
+```
+
 https://www.kdnuggets.com/5-tips-for-improving-sql-query-performance
 ```
 5 Tips for improving sql query performance
