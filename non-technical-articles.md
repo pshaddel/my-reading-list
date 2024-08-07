@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://blog.imsadra.me/unlock-your-brains-potential-discover-how-to-read-faster
+```
+Brain++
+```
+
 https://www.medicalnewstoday.com/articles/318625
 ```
 Foods that have no effect on blood sugar
