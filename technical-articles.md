@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://apple.stackexchange.com/questions/259093/can-touch-id-on-mac-authenticate-sudo-in-terminal
+```
+Binding Sudo in Terminal to ur Finger Print and not password
+```
+
 https://www.trevorlasn.com/blog/benchmarks-for-node-bun-deno
 ```
 Node, Bun, Deno: There is only a slight difference in performance
