@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://travisbrady.github.io/posts/moving-to-fish-shell/
+```
+zsh to fish
+```
+
 https://apple.stackexchange.com/questions/259093/can-touch-id-on-mac-authenticate-sudo-in-terminal
 ```
 Binding Sudo in Terminal to ur Finger Print and not password
