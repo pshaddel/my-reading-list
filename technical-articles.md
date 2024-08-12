@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/readytowork-org/google-analytics-in-next-js-a26cc2b28db5
+```
+Google Analytics in Nextjs
+```
+
 https://www.rudderstack.com/guides/send-data-from-your-next-js-site-to-google-bigquery/
 ```
 Nextjs - Big Query for analytics
