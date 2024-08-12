@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.rudderstack.com/guides/send-data-from-your-next-js-site-to-google-bigquery/
+```
+Nextjs - Big Query for analytics
+```
+
 https://travisbrady.github.io/posts/moving-to-fish-shell/
 ```
 zsh to fish
