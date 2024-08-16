@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.com/questions/34730334/how-websockets-are-implemented
+```
+How websockets are implemented
+```
+
 https://stackoverflow.com/questions/113565/why-re-throw-exceptions
 ```
 Why We Re-Throw some Errors?
