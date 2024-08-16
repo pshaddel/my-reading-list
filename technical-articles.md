@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://stackoverflow.com/questions/113565/why-re-throw-exceptions
+```
+Why We Re-Throw some Errors?
+```
+
 https://medium.com/readytowork-org/google-analytics-in-next-js-a26cc2b28db5
 ```
 Google Analytics in Nextjs
