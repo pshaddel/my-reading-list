@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://softwaremill.com/sse-vs-websockets-comparing-real-time-communication-protocols/
+```
+Web Sockets vs Server Side Event
+```
+
 https://stackoverflow.com/questions/34730334/how-websockets-are-implemented
 ```
 How websockets are implemented
