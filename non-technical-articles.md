@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://planet-fahrrad.de/laufrad-zentrieren/
+```
+Fahrrad Acht Reparieren
+```
+
 https://blog.imsadra.me/unlock-your-brains-potential-discover-how-to-read-faster
 ```
 Brain++
