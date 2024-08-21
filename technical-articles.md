@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.trevorlasn.com/blog/common-causes-of-memory-leaks-in-javascript
+```
+Common Causes of Memory Leaks in JS
+```
+
 https://softwaremill.com/sse-vs-websockets-comparing-real-time-communication-protocols/
 ```
 Web Sockets vs Server Side Event
