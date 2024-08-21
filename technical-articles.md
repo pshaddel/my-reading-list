@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications
+```
+Debugging Memory Leaks in Nodejs
+```
+
 https://www.trevorlasn.com/blog/common-causes-of-memory-leaks-in-javascript
 ```
 Common Causes of Memory Leaks in JS
