@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://evgeniydemin.medium.com/postgresql-indexes-hash-vs-b-tree-84b4f6aa6d61
+```
+Postgres Hash vs B-Tree
+```
+
 https://www.prisma.io/blog/prisma-orm-now-lets-you-choose-the-best-join-strategy-preview
 ```
 Prisma ORM - Choose the Best Join Strategy Preview
