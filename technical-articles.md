@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.prisma.io/blog/prisma-orm-now-lets-you-choose-the-best-join-strategy-preview
+```
+Prisma ORM - Choose the Best Join Strategy Preview
+```
+
 https://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications
 ```
 Debugging Memory Leaks in Nodejs
