@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql
+```
+Problems with uuid, use uuid v7 or v8, they can generate sequential unique uuids
+```
+
 https://evgeniydemin.medium.com/postgresql-indexes-hash-vs-b-tree-84b4f6aa6d61
 ```
 Postgres Hash vs B-Tree
