@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://de.wikipedia.org/wiki/Snowflake-ID
+```
+Snowflake ID
+```
+
 https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql
 ```
 Problems with uuid, use uuid v7 or v8, they can generate sequential unique uuids
