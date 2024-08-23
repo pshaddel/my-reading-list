@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle
+```
+Promise All Settled vs Promise All in JS
+```
+
 https://de.wikipedia.org/wiki/Snowflake-ID
 ```
 Snowflake ID
