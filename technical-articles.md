@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://kishore-rjkmr.medium.com/my-experience-with-postgres-materialized-view-36d9f3407c87
+```
+Materialized View in Postgres
+```
+
 https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle
 ```
 Promise All Settled vs Promise All in JS
