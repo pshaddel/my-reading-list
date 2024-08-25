@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://pandorafms.com/blog/how-to-monitor-postgress/
+```
+Monitoring Postgres Tips
+```
+
 https://en.wikipedia.org/wiki/Cartesian_product
 
 https://medium.com/@malezlers/understanding-and-avoiding-cartesian-explosion-in-c-69d6a642eb61
