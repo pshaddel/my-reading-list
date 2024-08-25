@@ -1,5 +1,11 @@
 # Technical Articles
 
+https://c4model.com/
+https://www.structurizr.com/
+https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/
+```
+C4 Model - Very interesting way of documenting
+```
 https://kishore-rjkmr.medium.com/my-experience-with-postgres-materialized-view-36d9f3407c87
 ```
 Materialized View in Postgres
