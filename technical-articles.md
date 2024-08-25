@@ -1,7 +1,9 @@
 # Technical Articles
 
 https://c4model.com/
+
 https://www.structurizr.com/
+
 https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/
 ```
 C4 Model - Very interesting way of documenting
