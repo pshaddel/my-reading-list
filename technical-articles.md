@@ -1,5 +1,12 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/Cartesian_product
+
+https://medium.com/@malezlers/understanding-and-avoiding-cartesian-explosion-in-c-69d6a642eb61
+```
+Cartesian Explosion and ways to solve it
+```
+
 https://c4model.com/
 
 https://www.structurizr.com/
