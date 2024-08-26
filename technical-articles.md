@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dba.stackexchange.com/questions/314371/count-queries-are-too-slow-even-with-an-index-only-scan
+```
+Count Queries are slow
+```
+
 https://pandorafms.com/blog/how-to-monitor-postgress/
 ```
 Monitoring Postgres Tips
