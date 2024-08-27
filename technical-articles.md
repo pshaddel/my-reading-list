@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://log.havrlant.cz/unit-test-database/
+```
+unit test database - mock or real database
+```
+
 https://dba.stackexchange.com/questions/314371/count-queries-are-too-slow-even-with-an-index-only-scan
 ```
 Count Queries are slow
