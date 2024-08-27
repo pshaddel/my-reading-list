@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@rajatsikder/react-performance-1-does-a-prop-or-state-change-always-re-render-a-component-de6e5e01a201#:~:text=Yes!,render%20when%20its%20prop%20changes.
+```
+Does React Component re-renders when the Prop is changing?
+```
+
 https://log.havrlant.cz/unit-test-database/
 ```
 unit test database - mock or real database
