@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://jeremydmiller.com/2024/04/01/thoughts-on-modular-monoliths/
+```
+Modular Monolith
+```
+
 https://medium.com/@rajatsikder/react-performance-1-does-a-prop-or-state-change-always-re-render-a-component-de6e5e01a201
 ```
 Does React Component re-renders when the Prop is changing?
