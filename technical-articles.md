@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://react.dev/learn/thinking-in-react
+```
+Thinking in React - Re-reading the essenials
+```
+
 https://jeremydmiller.com/2024/04/01/thoughts-on-modular-monoliths/
 ```
 Modular Monolith
