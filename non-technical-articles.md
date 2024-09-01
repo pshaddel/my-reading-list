@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.clearerthinking.org/post/how-to-begin-living-more-rationally
+```
+How to begin Living more ratianally
+```
+
 https://planet-fahrrad.de/laufrad-zentrieren/
 ```
 Fahrrad Acht Reparieren
