@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad
+```
+I am also not a big fan of default export
+```
+
 https://react.dev/learn/thinking-in-react
 ```
 Thinking in React - Re-reading the essenials
