@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.cybertec-postgresql.com/en/rules-or-triggers-to-log-bulk-updates/
+```
+Triggers to Log Bulk Updates
+```
+
 https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad
 ```
 I am also not a big fan of default export
