@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.influxdata.com/comparison/bigquery-vs-postgres/
+```
+BiggQuery vs Postgres
+```
+
 https://www.cybertec-postgresql.com/en/rules-or-triggers-to-log-bulk-updates/
 ```
 Triggers to Log Bulk Updates
