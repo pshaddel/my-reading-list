@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://en.wikipedia.org/wiki/Cowboy_coding
+```
+Cowboy Coding => Developer has autonomy about software development, frameworks, algorithms, tasks and projects without being aligned with other developers and stakeholders
+```
+
 https://deliciousbrains.com/a-short-guide-to-using-bun/
 ```
 A Short Guide to use Bun
