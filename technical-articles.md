@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://bonsai.io/blog/why-elasticsearch-should-not-be-your-primary-data-store
+```
+Why Elastic Cannot be Primary Database
+```
+
 https://www.postgresqltutorial.com/postgresql-views/postgresql-materialized-views/
 ```
 Postgres Materilaized Views
