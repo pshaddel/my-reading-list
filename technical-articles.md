@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine
+```
+Self Host Web App on Hetzner Virtual Machine
+```
+
 https://bonsai.io/blog/why-elasticsearch-should-not-be-your-primary-data-store
 ```
 Why Elastic Cannot be Primary Database
