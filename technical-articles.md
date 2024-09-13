@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/encore/how-to-make-your-expressjs-apis-9x-faster-with-encorets-1ke2
+```
+Another Runtime??? Also with Rust???
+```
+
 https://www.developerway.com/posts/replacing-react-with-css
 ```
 Use CSS => has to remove a lot of React codes!
