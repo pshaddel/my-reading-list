@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
+```
+Web Storage APIs
+```
+
 https://dev.to/encore/how-to-make-your-expressjs-apis-9x-faster-with-encorets-1ke2
 ```
 Another Runtime??? Also with Rust???
