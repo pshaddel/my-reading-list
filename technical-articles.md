@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.developerway.com/posts/replacing-react-with-css
+```
+Use CSS => has to remove a lot of React codes!
+```
+
 https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine
 ```
 Self Host Web App on Hetzner Virtual Machine
