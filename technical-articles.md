@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API
+```
+Battery API
+```
+
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
 ```
 Web Storage APIs
