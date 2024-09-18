@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://jeffnippard.com/blogs/news/how-to-train-like-a-minimalist-more-gains-in-less-time
+```
+Train Like a Minimalist
+```
+
 https://www.clearerthinking.org/post/how-to-begin-living-more-rationally
 ```
 How to begin Living more ratianally
