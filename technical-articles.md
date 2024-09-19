@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://martinfowler.com/bliki/CQRS.html?ref=blog.funda.nl
+```
+CQRS Martin Fowler
+```
+
 https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API
 ```
 Battery API
