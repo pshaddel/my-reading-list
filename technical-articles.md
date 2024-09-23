@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://brandur.org/fragments/code-database-vs-app
+```
+Code Database vs App
+```
+
 https://martinfowler.com/bliki/CQRS.html?ref=blog.funda.nl
 ```
 CQRS Martin Fowler
