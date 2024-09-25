@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.platformatichq.com/node-principles#9.-use-api-specifications-and-automatically-generate-clients
+```
+9 Pillars of Nodejs
+```
+
 https://brandur.org/fragments/code-database-vs-app
 ```
 Code Database vs App
