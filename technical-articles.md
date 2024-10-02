@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://unetworkingab.medium.com/moving-from-socket-io-to-%C2%B5websockets-js-a85753b93a5a
+```
+Moving away From SocketIO to micro WebSockets
+```
+
 https://www.platformatichq.com/node-principles#9.-use-api-specifications-and-automatically-generate-clients
 ```
 9 Pillars of Nodejs
