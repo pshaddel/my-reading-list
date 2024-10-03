@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/when-time-management-was-easy/
+```
+When Time Management Was Easy -  Alan Lakein(How to Get Control of Your Time and Your Life)
+```
+
 https://jeffnippard.com/blogs/news/how-to-train-like-a-minimalist-more-gains-in-less-time
 ```
 Train Like a Minimalist
