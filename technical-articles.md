@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://news.ycombinator.com/item?id=28402865
+```
+Why OOP is becoming just a lot of boilerplate?
+```
+
 https://leaddev.com/tech/why-elixir-one-hottest-programming-languages-learn
 ```
 Why Elixir is one of the Hottest Programming Languages?
