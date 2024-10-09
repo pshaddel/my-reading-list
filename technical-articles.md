@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.zdnet.com/home-and-office/networking/google-moves-away-from-the-xmpp-open-messaging-standard/
+```
+Google is abondoning XMPP, because others are not making their servers open for messaging(open messaging standard)
+```
+
 https://unetworkingab.medium.com/moving-from-socket-io-to-%C2%B5websockets-js-a85753b93a5a
 ```
 Moving away From SocketIO to micro WebSockets
