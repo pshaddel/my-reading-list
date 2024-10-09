@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://leaddev.com/tech/why-elixir-one-hottest-programming-languages-learn
+```
+Why Elixir is one of the Hottest Programming Languages?
+```
+
 https://blazeclan.com/asean/blog/xmpp-for-dummies-creating-your-own-chat-application-from-scratch-part1/
 ```
 XMPP For Dummies
