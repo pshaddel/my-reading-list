@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blazeclan.com/asean/blog/xmpp-for-dummies-creating-your-own-chat-application-from-scratch-part1/
+```
+XMPP For Dummies
+```
+
 https://www.zdnet.com/home-and-office/networking/google-moves-away-from-the-xmpp-open-messaging-standard/
 ```
 Google is abondoning XMPP, because others are not making their servers open for messaging(open messaging standard)
