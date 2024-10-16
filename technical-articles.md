@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.crunchydata.com/blog/designing-your-postgres-database-for-multi-tenancy
+```
+Designing ur Postgres DB
+```
+
 https://news.ycombinator.com/item?id=28402865
 ```
 Why OOP is becoming just a lot of boilerplate?
