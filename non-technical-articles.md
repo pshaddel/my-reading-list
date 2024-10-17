@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/the-perfect-cheating-machine/
+```
+The Perfect Cheating Machine
+```
+
 https://simplelooseleaf.com/blogs/news/white-tea-vs-green-tea
 ```
 White Tea vs Green Tea
