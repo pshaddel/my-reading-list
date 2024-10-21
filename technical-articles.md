@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://planetscale.com/learn/articles/sharding-vs-partitioning-whats-the-difference
+```
+Sharding vs Partitionning => Sharding is on different servers and db instances, partitionning on the same db instance, divides table to smaller sub-tables.
+```
+
 https://www.crunchydata.com/blog/designing-your-postgres-database-for-multi-tenancy
 ```
 Designing ur Postgres DB
