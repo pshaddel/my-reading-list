@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/
+```
+Should we re-write everything in Rust and Zig?
+```
+
 https://planetscale.com/learn/articles/sharding-vs-partitioning-whats-the-difference
 ```
 Sharding vs Partitionning => Sharding is on different servers and db instances, partitionning on the same db instance, divides table to smaller sub-tables.
