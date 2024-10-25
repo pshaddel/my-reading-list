@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.build-electronic-circuits.com/how-transistors-work/
+```
+How Transistors Work
+```
+
 https://calnewport.com/the-perfect-cheating-machine/
 ```
 The Perfect Cheating Machine
