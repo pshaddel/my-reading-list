@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://manybutfinite.com/post/motherboard-chipsets-memory-map/
+```
+Motherbaord Chipsets Memory Map
+```
+
 https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/
 ```
 Should we re-write everything in Rust and Zig?
