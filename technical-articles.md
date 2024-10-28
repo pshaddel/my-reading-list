@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://ip-specialist.medium.com/top-10-most-used-aws-services-in-2024-you-should-know-71b7ebc6a440
+```
+10 Most Used AWS Services
+```
+
 https://manybutfinite.com/post/motherboard-chipsets-memory-map/
 ```
 Motherbaord Chipsets Memory Map
