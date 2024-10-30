@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.prisma.io/blog/announcing-prisma-postgres-early-access?utm_source=website&utm_medium=postgres-page
+```
+Technical Articles
+```
+
 https://ip-specialist.medium.com/top-10-most-used-aws-services-in-2024-you-should-know-71b7ebc6a440
 ```
 10 Most Used AWS Services
