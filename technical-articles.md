@@ -1,5 +1,11 @@
 # Technical Articles
 
+https://www.namehero.com/blog/table-size-in-postgresql-everything-you-need-to-know
+```
+Table Size in Postgresql - Everything u need to know :)
+```
+
+
 https://www.quora.com/What-should-I-master-algorithms-or-new-technology
 ```
 Algorithms or Technologies?
