@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://aws.amazon.com/blogs/database/determining-the-optimal-value-for-shared_buffers-using-the-pg_buffercache-extension-in-postgresql/
+```
+Optimal Buffer Size
+```
+
 https://www.namehero.com/blog/table-size-in-postgresql-everything-you-need-to-know
 ```
 Table Size in Postgresql - Everything u need to know :)
