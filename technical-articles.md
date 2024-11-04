@@ -1,5 +1,11 @@
 # Technical Articles
 
+https://www.ashu1461.com/interview-gone-wrong/
+```
+Python: `a == b == c`
+is equal to `(a == b) and (b == c)`
+```
+
 https://aws.amazon.com/blogs/database/determining-the-optimal-value-for-shared_buffers-using-the-pg_buffercache-extension-in-postgresql/
 ```
 Optimal Buffer Size
