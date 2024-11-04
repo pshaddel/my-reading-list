@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.reddit.com/r/aws/comments/2y1d7o/general_purpose_or_provisioned_iops/
+```
+General Purpose or Provisioned IOP, AWS
+```
+
 https://www.prisma.io/blog/announcing-prisma-postgres-early-access?utm_source=website&utm_medium=postgres-page
 ```
 Technical Articles
