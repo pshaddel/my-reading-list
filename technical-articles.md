@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.quora.com/What-should-I-master-algorithms-or-new-technology
+```
+Algorithms or Technologies?
+```
+
 https://www.reddit.com/r/aws/comments/2y1d7o/general_purpose_or_provisioned_iops/
 ```
 General Purpose or Provisioned IOP, AWS
