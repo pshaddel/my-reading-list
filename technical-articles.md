@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.mongodb.com/resources/products/capabilities/acid-compliance
+```
+Acid Compliance
+```
+
 https://www.ashu1461.com/interview-gone-wrong/
 ```
 Python: `a == b == c`
