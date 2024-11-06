@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://codspeed.io/blog/state-of-python-3-13-performance-free-threading
+```
+Performance Free Threading :)
+```
+
 https://www.mongodb.com/resources/products/capabilities/acid-compliance
 ```
 Acid Compliance
