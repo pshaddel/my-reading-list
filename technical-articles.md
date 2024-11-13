@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://tduyng.com/blog/enum-typescript/
+```
+Enum Typescript
+```
+
 https://dev.to/jonlauridsen/database-constraints-considered-harmful-38
 ```
 Interesting Comments and Discussions under this blog post, I think not having those constraints are more dangerous
