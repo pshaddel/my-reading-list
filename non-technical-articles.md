@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/
+```
+About Speed Reading
+```
+
 https://www.build-electronic-circuits.com/how-transistors-work/
 ```
 How Transistors Work
