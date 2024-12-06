@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://addyo.substack.com/p/the-70-problem-hard-truths-about
+```
+AI Assisted Code Problems.
+```
+
 https://tduyng.com/blog/enum-typescript/
 ```
 Enum Typescript
