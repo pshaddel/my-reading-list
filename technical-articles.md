@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://spectrum.ieee.org/carbon-nanotubes
+```
+Carbon Nanotubes
+```
+
 https://addyo.substack.com/p/the-70-problem-hard-truths-about
 ```
 AI Assisted Code Problems.
