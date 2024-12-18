@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years
+```
+Growing Faster
+```
+
 https://spectrum.ieee.org/carbon-nanotubes
 ```
 Carbon Nanotubes
