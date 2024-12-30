@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/abhivyaktii/understanding-why-fetch-requires-await-twice-53l6
+```
+Understand Why Fetch Requires 2 await for Promises
+```
+
 https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years
 ```
 Growing Faster
