@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm?ref=dailydev
+```
+11 Practical Ways to Bring Side Income as a Developer
+```
+
 https://www.robinwieruch.de/react-tech-stack/?ref=dailydev
 ```
 React Tech Stack
