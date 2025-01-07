@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@ferrydwizulkhifli/referenceerror-process-is-not-defined-react-vite-0ead61fa6122
+```
+VITE Process is not defined.
+```
+
 https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm?ref=dailydev
 ```
 11 Practical Ways to Bring Side Income as a Developer
