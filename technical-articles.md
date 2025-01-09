@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://jackyef.com/posts/1brc-nodejs-learnings
+```
+Reading a File of 12GB - 1 B rows
+```
+
 https://www.totaltypescript.com/typescript-is-coming-to-node-23
 ```
 Typescript is coming to Node 23
