@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.totaltypescript.com/typescript-is-coming-to-node-23
+```
+Typescript is coming to Node 23
+```
+
 https://medium.com/@ferrydwizulkhifli/referenceerror-process-is-not-defined-react-vite-0ead61fa6122
 ```
 VITE Process is not defined.
