@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.liquidxgroup.xyz/blog/optimizing-nestjs-app-memory-usage-in-kubernetes
+```
+Optimizing Nestjs App Memory usage in k8s
+```
+
 https://jackyef.com/posts/1brc-nodejs-learnings
 ```
 Reading a File of 12GB - 1 B rows
