@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/the-tiktok-ban-is-about-more-than-tiktok/
+```
+Tiktok Ban is more...
+```
+
 https://medium.com/write-a-catalyst/how-i-study-consistently-with-a-full-time-job-fc3362793def
 ```
 How to Study: Before going to your Job
