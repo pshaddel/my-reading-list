@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://cybersecuritynews.com/deepseek-database-leaked/
+```
+Deepseek DB Leaked
+```
+
 https://www.liquidxgroup.xyz/blog/optimizing-nestjs-app-memory-usage-in-kubernetes
 ```
 Optimizing Nestjs App Memory usage in k8s
