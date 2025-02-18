@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://nmn.gl/blog/ai-and-learning
+```
+AI and Learning
+```
+
 https://cybersecuritynews.com/deepseek-database-leaked/
 ```
 Deepseek DB Leaked
