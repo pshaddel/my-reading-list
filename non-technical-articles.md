@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2025/02/25/stock-market-ai-boom-2025/
+```
+AI BOOM
+```
+
 https://calnewport.com/the-tiktok-ban-is-about-more-than-tiktok/
 ```
 Tiktok Ban is more...
