@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.totaltypescript.com/erasable-syntax-only
+```
+Typescript Earasble Syntax
+```
+
 https://nmn.gl/blog/ai-and-learning
 ```
 AI and Learning
