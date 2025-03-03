@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2011/04/17/getting-started-4-if-you-try-sometimes-you-just-might-find-you-get-what-you-need/
+```
+Spending on Bike, Car
+```
+
 https://www.mrmoneymustache.com/2025/02/25/stock-market-ai-boom-2025/
 ```
 AI BOOM
