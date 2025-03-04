@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.aarp.org/money/personal-finance/mr-money-mustache-interview/
+```
+Meet the man who retired from age of 30s
+```
+
 https://www.mrmoneymustache.com/2011/04/18/get-rich-with-bikes/
 ```
 Get Rich With Bikes
