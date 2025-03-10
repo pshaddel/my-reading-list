@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://vercel.com/blog/introducing-fluid-compute
+```
+Introducing Fluid Compute
+```
+
 https://www.totaltypescript.com/erasable-syntax-only
 ```
 Typescript Earasble Syntax
