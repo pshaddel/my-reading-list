@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/
+```
+Each Money paper could be your employee!
+```
+
 https://www.aarp.org/money/personal-finance/mr-money-mustache-interview/
 ```
 Meet the man who retired from age of 30s
