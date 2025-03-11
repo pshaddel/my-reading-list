@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.nodejs-security.com/blog/prisma-raw-query-sql-injection
+```
+Prisma Raw Query SQL Injection
+```
+
 https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better#0-solving-the-secret-zero-problem
 ```
 Solving the secret Zero Problem
