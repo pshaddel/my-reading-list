@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2012/04/18/news-flash-your-debt-is-an-emergency/
+```
+Debt is your emergency
+```
+
 https://www.mrmoneymustache.com/2011/04/15/getting-started-3-eliminate-short-termitis-the-bankruptcy-disease/
 ```
 Calculate Future Value of Things u spend
