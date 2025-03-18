@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://deno.com/blog/typescript-in-node-vs-deno
+```
+TS In Node - for Deno - Does not make a difference actually :)
+```
+
 https://www.nodejs-security.com/blog/prisma-raw-query-sql-injection
 ```
 Prisma Raw Query SQL Injection
