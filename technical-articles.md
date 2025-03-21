@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/mrasadatik/the-rise-of-vibe-coders-and-why-real-skills-matter-more-than-ever-2640
+```
+Vide Coders
+```
+
 https://deno.com/blog/typescript-in-node-vs-deno
 ```
 TS In Node - for Deno - Does not make a difference actually :)
