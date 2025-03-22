@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://app.daily.dev/posts/you-get-paid-based-on-the-level-of-abstraction-you-can-work-at--soryhdhti
+```
+Level of Abstraction
+```
+
 https://dev.to/mrasadatik/the-rise-of-vibe-coders-and-why-real-skills-matter-more-than-ever-2640
 ```
 Vide Coders
