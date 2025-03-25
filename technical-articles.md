@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://egghead.io/blog/3-effective-type-narrowing-techniques-in-typescript
+```
+Type Narrowing in Typescript
+```
+
 https://app.daily.dev/posts/you-get-paid-based-on-the-level-of-abstraction-you-can-work-at--soryhdhti
 ```
 Level of Abstraction
