@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev
+```
+Frontend Development
+```
+
 https://dannorth.net/the-worst-programmer
 ```
 Worst Programmer
