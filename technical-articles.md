@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dannorth.net/the-worst-programmer
+```
+Worst Programmer
+```
+
 https://egghead.io/blog/3-effective-type-narrowing-techniques-in-typescript
 ```
 Type Narrowing in Typescript
