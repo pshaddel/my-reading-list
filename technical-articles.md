@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://directus.io/blog/stop-overengineering-your-multitenant-architecture?ref=dailydev
+```
+Multi-tenancy
+```
+
 https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev
 ```
 Frontend Development
