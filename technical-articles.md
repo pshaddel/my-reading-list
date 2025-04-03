@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.prisma.io/blog/from-rust-to-typescript-a-new-chapter-for-prisma-orm
+```
+Prisma ORM Moving away from Rust
+```
+
 https://directus.io/blog/stop-overengineering-your-multitenant-architecture?ref=dailydev
 ```
 Multi-tenancy
