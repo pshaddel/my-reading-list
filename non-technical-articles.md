@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2011/06/21/frugality-as-a-muscle/
+```
+Frugality as a Muscle
+```
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9416198
 ```
 Effect of Sleeping Position in Sleep Quality
