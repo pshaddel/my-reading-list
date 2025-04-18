@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html
+```
+Java Bytebuffer
+```
+
 https://www.prisma.io/blog/from-rust-to-typescript-a-new-chapter-for-prisma-orm
 ```
 Prisma ORM Moving away from Rust
