@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://v4.zod.dev/v4
+```
+Zod 4 is released and it is awesome
+```
+
 https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html
 ```
 Java Bytebuffer
