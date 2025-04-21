@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://kmoppel.github.io/2025-04-10-postgres-scaling-roadmap/
+```
+Scale Roadmap of Postgres
+```
+
 https://v4.zod.dev/v4
 ```
 Zod 4 is released and it is awesome
