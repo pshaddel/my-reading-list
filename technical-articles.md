@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://thetshaped.dev/p/solid-principles-writing-robust-and?open=false#%C2%A7s-single-responsibility-principle-srp
+```
+SOLID Principles
+```
+
 https://kmoppel.github.io/2025-04-10-postgres-scaling-roadmap/
 ```
 Scale Roadmap of Postgres
