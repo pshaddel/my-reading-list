@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/
+```
+Simple math of early retirement.
+```
+
 https://www.mrmoneymustache.com/2011/12/05/muscle-over-motor/
 ```
 Muscle Over Motor
