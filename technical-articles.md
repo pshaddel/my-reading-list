@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.systemdesignclassroom.com/p/a-survival-kit-to-beat-apis-interview
+```
+API Interview Questions
+```
+
 https://thetshaped.dev/p/solid-principles-writing-robust-and?open=false#%C2%A7s-single-responsibility-principle-srp
 ```
 SOLID Principles
