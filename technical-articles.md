@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@hotseatmag/why-companies-are-saying-goodbye-to-next-js-d1e2d78c54c8
+```
+Why some companies are saying Goodbye to Nextjs?
+```
+
 https://newsletter.systemdesignclassroom.com/p/a-survival-kit-to-beat-apis-interview
 ```
 API Interview Questions
