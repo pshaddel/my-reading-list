@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://thetshaped.dev/p/be-critical-about-any-software-engineering-advice-critical-thinking-first-principles
+```
+Do not take any advice without thinking about it
+```
+
 https://www.mrmoneymustache.com/2011/10/17/its-all-about-the-safety-margin/
 ```
 Safety Margin
