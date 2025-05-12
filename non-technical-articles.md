@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2011/10/17/its-all-about-the-safety-margin/
+```
+Safety Margin
+```
+
 https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/
 ```
 Simple math of early retirement.
