@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2012/02/27/get-rich-with-good-old-fashioned-hard-work/
+```
+Get Rich with good old fashioned hard work
+```
+
 https://thetshaped.dev/p/be-critical-about-any-software-engineering-advice-critical-thinking-first-principles
 ```
 Do not take any advice without thinking about it
