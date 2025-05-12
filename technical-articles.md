@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/ajeetraina/integrating-locally-running-postgres-with-claude-desktop-188p
+```
+Integrating Locally Running Postgres with Claude Desktop
+```
+
 https://newsletter.eng-leadership.com/p/whats-next-after-senior-engineer
 ```
 What is next after senior engineer
