@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.thenile.dev/blog/drop-column
+```
+What happens when you drop a column?
+```
+
 https://medium.com/@hotseatmag/why-companies-are-saying-goodbye-to-next-js-d1e2d78c54c8
 ```
 Why some companies are saying Goodbye to Nextjs?
