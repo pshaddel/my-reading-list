@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.eng-leadership.com/p/how-i-grew-from-engineer-to-cto
+```
+Growing from Developer to CTO
+```
+
 https://www.thenile.dev/blog/drop-column
 ```
 What happens when you drop a column?
