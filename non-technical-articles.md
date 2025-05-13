@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2012/03/07/frugality-the-new-fanciness/
+```
+Frugality the new Fanciness
+```
+
 https://www.mrmoneymustache.com/2012/02/27/get-rich-with-good-old-fashioned-hard-work/
 ```
 Get Rich with good old fashioned hard work
