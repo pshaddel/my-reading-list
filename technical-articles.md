@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/ingeniouswebster/the-battle-of-state-management-redux-vs-zustand-6k4
+```
+Redux vs Zustand
+```
+
 https://dev.to/ajeetraina/integrating-locally-running-postgres-with-claude-desktop-188p
 ```
 Integrating Locally Running Postgres with Claude Desktop
