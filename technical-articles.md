@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://thebuild.com/presentations/uber-perconalive-2017.pdf
+```
+One of the best pieces I've read! you can learn a lot.
+```
+
 https://www.harness.io/blog/github-flow-vs-git-flow-whats-the-difference
 ```
 Github Flow vs Git Flow
