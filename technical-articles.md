@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.harness.io/blog/github-flow-vs-git-flow-whats-the-difference
+```
+Github Flow vs Git Flow
+```
+
 https://dev.to/ingeniouswebster/the-battle-of-state-management-redux-vs-zustand-6k4
 ```
 Redux vs Zustand
