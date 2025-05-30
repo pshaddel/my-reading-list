@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/
+```
+killing-your-1000-grocery-bill
+```
+
 https://www.mrmoneymustache.com/2012/03/07/frugality-the-new-fanciness/
 ```
 Frugality the new Fanciness
