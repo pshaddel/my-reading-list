@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://newsletter.eng-leadership.com/p/decrease-in-entry-level-tech-jobs?utm_source=post-email-title&publication_id=1115815&post_id=165178386
+```
+Decrease in Entry Level Jobs
+```
+
 https://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/
 ```
 killing-your-1000-grocery-bill
