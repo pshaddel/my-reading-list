@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://newsletter.eng-leadership.com/p/the-2-week-vacation-test-for-engineers
+```
+2 Week Vacation Rule
+```
+
 https://calnewport.com/why-cant-we-tame-ai/
 ```
 Why can't we tame ai
