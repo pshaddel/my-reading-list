@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://calnewport.com/why-cant-we-tame-ai/
+```
+Why can't we tame ai
+```
+
 https://thebuild.com/presentations/uber-perconalive-2017.pdf
 ```
 One of the best pieces I've read! you can learn a lot.
