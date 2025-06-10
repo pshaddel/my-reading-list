@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/
+```
+AI model treathening other people
+```
+
 https://newsletter.eng-leadership.com/p/decrease-in-entry-level-tech-jobs?utm_source=post-email-title&publication_id=1115815&post_id=165178386
 ```
 Decrease in Entry Level Jobs
