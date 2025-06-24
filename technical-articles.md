@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://aws.plainenglish.io/how-i-saved-my-startup-over-12-000-a-year-on-aws-68f9c4596549
+```
+AWS Cost Reduction
+```
+
 https://newsletter.systemdesign.one/p/cache-strategies
 ```
 Cache Strategies
