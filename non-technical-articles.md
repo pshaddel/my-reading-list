@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/does-ai-make-us-lazy/
+```
+Does AI make us lazy?
+```
+
 https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/
 ```
 AI model treathening other people
