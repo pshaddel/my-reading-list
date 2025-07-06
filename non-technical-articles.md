@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2013/04/07/a-peak-life-is-lived-off-peak/
+```
+A peak life is lived off peak
+```
+
 https://calnewport.com/does-ai-make-us-lazy/
 ```
 Does AI make us lazy?
