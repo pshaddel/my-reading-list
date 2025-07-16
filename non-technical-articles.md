@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://cybernews.com/tech/job-seekers-trying-ai-hacks-in-their-resumes/
+```
+AI Hacks, is it possible?
+```
+
 https://www.mrmoneymustache.com/2013/04/07/a-peak-life-is-lived-off-peak/
 ```
 A peak life is lived off peak
