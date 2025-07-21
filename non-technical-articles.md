@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://medium.com/swlh/no-ui-is-the-new-ui-ab3f7ecec6b3
+```
+No UI is the new UI
+```
+
 https://cybernews.com/tech/job-seekers-trying-ai-hacks-in-their-resumes/
 ```
 AI Hacks, is it possible?
