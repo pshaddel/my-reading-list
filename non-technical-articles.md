@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software?r=oy42e&utm_campaign=post&utm_medium=web
+```
+Impact of AI on engineers
+```
+
 https://medium.com/swlh/no-ui-is-the-new-ui-ab3f7ecec6b3
 ```
 No UI is the new UI
