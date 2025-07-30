@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.sentry.io/what-you-actually-need-to-monitor-ai-systems-in-production
+```
+How to Monitor your AI Applications!
+```
+
 https://aws.plainenglish.io/how-i-saved-my-startup-over-12-000-a-year-on-aws-68f9c4596549
 ```
 AWS Cost Reduction
