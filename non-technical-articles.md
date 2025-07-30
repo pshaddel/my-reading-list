@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/
+```
+The Low Information Diet
+```
+
 https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software?r=oy42e&utm_campaign=post&utm_medium=web
 ```
 Impact of AI on engineers
