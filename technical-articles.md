@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.apollographql.com/blog/the-future-of-mcp-is-graphql
+```
+Future of MCP is GraphQL
+```
+
 https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/
 ```
 JS Runtimes
