@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2
+```
+Funny Bug
+```
+
 https://www.apollographql.com/blog/the-future-of-mcp-is-graphql
 ```
 Future of MCP is GraphQL
