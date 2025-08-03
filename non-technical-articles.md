@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.techspot.com/news/108912-fired-video-atlassian-terminates-150-workers-using-pre.html
+```
+150 Workers terminated by Video
+```
+
 https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/
 ```
 The Low Information Diet
