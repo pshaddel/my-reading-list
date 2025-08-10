@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/
+```
+Stackoverflow is almost dead.
+```
+
 https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2
 ```
 Funny Bug
