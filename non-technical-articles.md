@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://engineering.fb.com/2025/07/16/data-center-engineering/ai-make-lower-carbon-faster-curing-concrete/?utm_source=engineering.fyi
+```
+AI Make Lower Carbon Concrete
+```
+
 https://www.techspot.com/news/108912-fired-video-atlassian-terminates-150-workers-using-pre.html
 ```
 150 Workers terminated by Video
