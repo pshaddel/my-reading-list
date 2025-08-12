@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/on-additive-and-extractive-technologies/
+```
+On Additive and Extractive Technologies
+```
+
 https://engineering.fb.com/2025/07/16/data-center-engineering/ai-make-lower-carbon-faster-curing-concrete/?utm_source=engineering.fyi
 ```
 AI Make Lower Carbon Concrete
