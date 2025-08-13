@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/tuanhdotnet/statistics-behind-latency-metrics-understanding-p90-p95-and-p99-dc87420d505d
+```
+Statistics and Metrics
+```
+
 https://docs.sentry.io/product/sentry-basics/performance-monitoring/
 ```
 Performance Monitoring - Sentry(p95/p99)
