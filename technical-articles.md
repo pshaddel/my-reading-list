@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://docs.sentry.io/product/sentry-basics/performance-monitoring/
+```
+Performance Monitoring - Sentry(p95/p99)
+```
+
 https://supabase.com/blog/multigres-vitess-for-postgres
 ```
 Multigress Vitess for Postgres
