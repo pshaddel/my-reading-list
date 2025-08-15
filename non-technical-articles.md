@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.businessinsider.com/no-shoes-policy-in-office-cursor-ceo-ben-lang-2025-8
+```
+No-Shoes Policy
+```
+
 https://calnewport.com/on-additive-and-extractive-technologies/
 ```
 On Additive and Extractive Technologies
