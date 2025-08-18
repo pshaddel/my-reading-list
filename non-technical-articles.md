@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/what-if-ai-doesnt-get-much-better-than-this/
+```
+What if AI Does not get much better than this?
+```
+
 https://www.businessinsider.com/no-shoes-policy-in-office-cursor-ceo-ben-lang-2025-8
 ```
 No-Shoes Policy
