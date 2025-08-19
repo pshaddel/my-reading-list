@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.developerway.com/posts/local-storage-instead-of-context
+```
+Local Storage Instead of Context, dose that make sense?
+```
+
 https://medium.com/tuanhdotnet/statistics-behind-latency-metrics-understanding-p90-p95-and-p99-dc87420d505d
 ```
 Statistics and Metrics
