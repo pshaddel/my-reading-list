@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.al3rez.com/todo-txt-journey
+```
+txt file better than the apps
+```
+
 https://calnewport.com/what-if-ai-doesnt-get-much-better-than-this/
 ```
 What if AI Does not get much better than this?
