@@ -1,5 +1,11 @@
 # Non-Technical Articles
 
+https://pubmed.ncbi.nlm.nih.gov/21747300/
+```
+Training and detraining effects of the resistance vs. endurance program on body composition, body size, and physical performance in young men.
+Summary:  the RTG maintained the gains in strength and LM for more prolonged periods after training ceased than the endurance training group.
+```
+
 https://www.al3rez.com/todo-txt-journey
 ```
 txt file better than the apps
