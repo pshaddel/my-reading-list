@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.bradyates.com/blog/the-aaa-process-of-awareness-acceptance-and-action#:~:text=The%20AAA%20Process%20creates%20a,techniques%3B%20and%20Action%20builds%20mental
+```
+AAA Awareness, Accteptance, Action
+```
+
 https://pubmed.ncbi.nlm.nih.gov/21747300/
 ```
 Training and detraining effects of the resistance vs. endurance program on body composition, body size, and physical performance in young men.
