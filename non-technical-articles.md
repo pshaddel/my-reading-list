@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://hector-reyesaleman.medium.com/understanding-resource-servers-and-scopes-in-aws-cognito-bb0b6f0adbe1
+```
+Understanding Resource Servers and Scopes in AWS
+```
+
 https://www.bradyates.com/blog/the-aaa-process-of-awareness-acceptance-and-action#:~:text=The%20AAA%20Process%20creates%20a,techniques%3B%20and%20Action%20builds%20mental
 ```
 AAA Awareness, Accteptance, Action
