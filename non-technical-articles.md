@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/does-work-life-balance-make-you-mediocre/
+```
+Work Life Balance
+```
+
 https://hector-reyesaleman.medium.com/understanding-resource-servers-and-scopes-in-aws-cognito-bb0b6f0adbe1
 ```
 Understanding Resource Servers and Scopes in AWS
