@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
+```
+Anthropic Settlement
+```
+
 https://calnewport.com/does-work-life-balance-make-you-mediocre/
 ```
 Work Life Balance
