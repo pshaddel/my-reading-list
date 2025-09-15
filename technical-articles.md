@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.webdevsimplified.com/2025-08/javascript-interview-questions/
+```
+JS Interview Questions
+```
+
 https://www.developerway.com/posts/local-storage-instead-of-context
 ```
 Local Storage Instead of Context, dose that make sense?
