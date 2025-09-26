@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.platformatic.dev/the-myths-and-costs-of-running-nodejs-on-kubernetes
+```
+Costs of running Nodejs on Kubernetes
+```
+
 https://blog.webdevsimplified.com/2025-08/javascript-interview-questions/
 ```
 JS Interview Questions
