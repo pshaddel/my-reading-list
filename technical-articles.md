@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/solo-devs/why-no-one-is-talking-about-rust-in-2025-21d7e059fa49
+```
+Why no one is talking about Rust in 2025?
+```
+
 https://blog.cloudflare.com/code-mode/?utm_source=engineering.fyi/
 ```
 Code Mode vs MCP Tool Mode!
