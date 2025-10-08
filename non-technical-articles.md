@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://arcinstitute.org/news/hie-king-first-synthetic-phage
+```
+Hie King First Synthetic Phage
+```
+
 https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
 ```
 Anthropic Settlement
