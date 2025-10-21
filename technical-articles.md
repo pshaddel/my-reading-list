@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://planetscale.com/blog/benchmarking-postgres-17-vs-18
+```
+Benchmarks 17 vs 18
+```
+
 https://pganalyze.com/blog/postgres-18-async-io
 ```
 Postgres 18 IO
