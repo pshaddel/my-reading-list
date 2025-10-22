@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2017/04/25/there-are-no-guarantees/
+```
+Skip contracts if u can, people either keep their words or not.
+```
+
 https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/
 ```
 mobile app similar to Tik Tok(sora)
