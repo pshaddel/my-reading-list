@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/
+```
+mobile app similar to Tik Tok(sora)
+```
+
 https://arcinstitute.org/news/hie-king-first-synthetic-phage
 ```
 Hie King First Synthetic Phage
