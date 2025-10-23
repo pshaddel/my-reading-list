@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.sfgate.com/tech/article/meta-slashes-jobs-ai-team-21114971.php
+```
+Meta AI Layoffs
+```
+
 https://www.mrmoneymustache.com/2017/04/25/there-are-no-guarantees/
 ```
 Skip contracts if u can, people either keep their words or not.
