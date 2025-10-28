@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2016/12/13/staying-fit-with-no-gym-in-sight/
+```
+Staying Fit with no gym in sight
+```
+
 https://www.sfgate.com/tech/article/meta-slashes-jobs-ai-team-21114971.php
 ```
 Meta AI Layoffs
