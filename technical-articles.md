@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/
+```
+Rethinking Async Loops in Javascript
+```
+
 https://planetscale.com/blog/benchmarking-postgres-17-vs-18
 ```
 Benchmarks 17 vs 18
