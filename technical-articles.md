@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/mochafreddo/mastering-git-commit-message-types-and-git-flow-branch-naming-1lbb
+```
+Git Flow and Branch naming
+```
+
 https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/
 ```
 Rethinking Async Loops in Javascript
