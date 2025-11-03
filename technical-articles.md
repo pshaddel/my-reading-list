@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
+```
+Redis is fast, I'll cache in Postgres
+```
+
 https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks
 ```
 using Postgres instead of Kafka?
