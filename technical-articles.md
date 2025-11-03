@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks
+```
+using Postgres instead of Kafka?
+```
+
 https://dev.to/mochafreddo/mastering-git-commit-message-types-and-git-flow-branch-naming-1lbb
 ```
 Git Flow and Branch naming
