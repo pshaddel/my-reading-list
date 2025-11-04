@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/gitconnected/why-your-ai-agents-keep-hallucinating-your-documentation-and-how-to-fix-it-39c1fee04d25
+```
+Add llms.txt to your documentation, llms are good with markdown
+```
+
 https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
 ```
 Redis is fast, I'll cache in Postgres
