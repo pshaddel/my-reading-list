@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.braintrust.dev/blog/evaluating-agents
+```
+Evaluating Agents
+```
+
 https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-a-deep-dive-into-agent-evaluation-practical-tooling-and-multi-agent-systems
 ```
 Agent Evaluation
