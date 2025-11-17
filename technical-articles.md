@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://calnewport.com/why-cant-ai-empty-my-inbox/
+```
+Why Can't AI Empty My Inbox
+```
+
 https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works
 ```
 Simple Full Text Search Engine
