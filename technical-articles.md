@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works
+```
+Simple Full Text Search Engine
+```
+
 https://www.braintrust.dev/blog/evaluating-agents
 ```
 Evaluating Agents
