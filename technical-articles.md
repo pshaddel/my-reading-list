@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.nops.io/blog/ecs-vs-eks-vs-fargate/
+```
+Fragate vs ECS vs EKS
+```
+
 https://calnewport.com/why-cant-ai-empty-my-inbox/
 ```
 Why Can't AI Empty My Inbox
