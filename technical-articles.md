@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/
+```
+Deprecate Method in Nodejs
+```
+
 https://www.nops.io/blog/ecs-vs-eks-vs-fargate/
 ```
 Fragate vs ECS vs EKS
