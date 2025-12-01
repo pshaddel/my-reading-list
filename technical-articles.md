@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/why-postgres-18-let-me-delete-a-whole-cache-tier-bba2b4f1c742
+```
+Not using Redis anymore.
+```
+
 https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/
 ```
 Deprecate Method in Nodejs
