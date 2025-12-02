@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10321632/
+```
+BMI ~ Mortality
+```
+
 https://www.mrmoneymustache.com/2016/12/13/staying-fit-with-no-gym-in-sight/
 ```
 Staying Fit with no gym in sight
