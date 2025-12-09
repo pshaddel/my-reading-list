@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://strapi.io/blog/bun-vs-nodejs-performance-comparison-guide
+```
+bun vs nodejs performance comparison
+```
+
 https://medium.com/@encodedots/from-vite-to-express-how-to-build-a-full-stack-app-step-by-step-8de7958bbd61
 ```
 From Vite to Express How to Build Full-Stack App
