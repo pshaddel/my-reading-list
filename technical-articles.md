@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/dev_tips/my-thoughts-on-the-2025-stack-overflow-survey-the-hype-the-reality-the-gap-26e3
+```
+Interesting Take on Stackoverflow Survey
+```
+
 https://strapi.io/blog/bun-vs-nodejs-performance-comparison-guide
 ```
 bun vs nodejs performance comparison
