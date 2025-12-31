@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://www.mrmoneymustache.com/2019/01/28/how-to-slow-down-time-and-live-longer/
+```
+How to slow down time and Live Longer?
+```
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10321632/
 ```
 BMI ~ Mortality
