@@ -1,5 +1,10 @@
 # Non-Technical Articles
 
+https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds
+```
+Skip Ads after 5 seconds!
+```
+
 https://www.mrmoneymustache.com/2019/01/28/how-to-slow-down-time-and-live-longer/
 ```
 How to slow down time and Live Longer?
