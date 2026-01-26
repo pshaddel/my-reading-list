@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://levelup.gitconnected.com/building-long-term-memory-in-agentic-ai-2941b0cca3bf
+```
+Building Long Term Memory in Agentic AI
+```
+
 https://leerob.com/agents
 ```
 How Lee Robinson used Cursor to convert their website to a Raw Code Mark Down in 3 days
