@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://medium.com/@raj.k9732/understanding-how-postgresql-deletes-records-internally-41ab7d6a2373
+```
+Understand How Postgresql Deletes Records
+```
+
 https://levelup.gitconnected.com/building-long-term-memory-in-agentic-ai-2941b0cca3bf
 ```
 Building Long Term Memory in Agentic AI
