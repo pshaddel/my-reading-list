@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.aikido.dev/blog/agent-skills-spreading-hallucinated-npx-commands
+```
+Agent Skills Sec Issue
+```
+
 https://www.cybertec-postgresql.com/en/is-update-the-same-as-delete-insert-in-postgresql/
 ```
 update vs (delete + insert)
