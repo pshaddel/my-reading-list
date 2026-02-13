@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/
+```
+Building AI QA Engineer using Claude Code
+```
+
 https://www.aikido.dev/blog/agent-skills-spreading-hallucinated-npx-commands
 ```
 Agent Skills Sec Issue
