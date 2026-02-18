@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://blog.platformatic.dev/we-cut-nodejs-memory-in-half
+```
+Node Caged
+```
+
 https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/
 ```
 Building AI QA Engineer using Claude Code
