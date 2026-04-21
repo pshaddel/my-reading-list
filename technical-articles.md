@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/dev_tips/ai-killed-my-coding-brain-but-im-rebuilding-it-4i35
+```
+AI killed my brain
+```
+
 https://dev.to/mahou_anisphia/when-ai-makes-you-forget-how-to-code-5cii
 ```
 Forgot how to code
