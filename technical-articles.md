@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html
+```
+Thing u did not know about indexes
+```
+
 https://blog.platformatic.dev/we-cut-nodejs-memory-in-half
 ```
 Node Caged
