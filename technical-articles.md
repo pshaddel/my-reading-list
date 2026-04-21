@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/mahou_anisphia/when-ai-makes-you-forget-how-to-code-5cii
+```
+Forgot how to code
+```
+
 https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html
 ```
 Thing u did not know about indexes
