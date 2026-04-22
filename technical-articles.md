@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.postgresql.org/docs/devel/release-19.html
+```
+Release 19 Postgres
+```
+
 https://www.youtube.com/watch?v=cQNyYx2fZXw
 ```
 Illiterate Programmers
