@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://malisper.me/pgrust-rebuilding-postgres-in-rust-with-ai/
+```
+pg rust
+```
+
 https://www.postgresql.org/docs/devel/release-19.html
 ```
 Release 19 Postgres
