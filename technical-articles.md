@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://www.youtube.com/watch?v=cQNyYx2fZXw
+```
+Illiterate Programmers
+```
+
 https://dev.to/dev_tips/ai-killed-my-coding-brain-but-im-rebuilding-it-4i35
 ```
 AI killed my brain
