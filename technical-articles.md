@@ -1,5 +1,10 @@
 # Technical Articles
 
+https://dev.to/whoffagents/bun-12-in-production-what-actually-broke-when-we-migrated-from-node-6nh
+```
+What is broken when going to Bun
+```
+
 https://malisper.me/pgrust-rebuilding-postgres-in-rust-with-ai/
 ```
 pg rust
